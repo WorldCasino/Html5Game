@@ -1,0 +1,377 @@
+
+sym5_win.png
+size: 1576,508
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym5_win-assets/barb_bottom
+  rotate: false
+  xy: 597, 186
+  size: 186, 132
+  orig: 495, 833
+  offset: 147, 192
+  index: -1
+sym5_win-assets/barb_bottom_white
+  rotate: false
+  xy: 931, 193
+  size: 95, 117
+  orig: 163, 340
+  offset: 18, 19
+  index: -1
+sym5_win-assets/barb_middle
+  rotate: false
+  xy: 330, 1
+  size: 245, 190
+  orig: 495, 833
+  offset: 144, 322
+  index: -1
+sym5_win-assets/barb_middle_white
+  rotate: false
+  xy: 1028, 192
+  size: 138, 96
+  orig: 163, 340
+  offset: 17, 134
+  index: -1
+sym5_win-assets/barb_rim_bottom
+  rotate: true
+  xy: 577, 1
+  size: 183, 231
+  orig: 495, 833
+  offset: 147, 93
+  index: -1
+sym5_win-assets/barb_rim_middle
+  rotate: false
+  xy: 810, 1
+  size: 213, 190
+  orig: 495, 833
+  offset: 144, 322
+  index: -1
+sym5_win-assets/barb_rim_top
+  rotate: false
+  xy: 1429, 1
+  size: 142, 181
+  orig: 495, 833
+  offset: 173, 510
+  index: -1
+sym5_win-assets/barb_top
+  rotate: false
+  xy: 193, 300
+  size: 172, 186
+  orig: 495, 833
+  offset: 148, 510
+  index: -1
+sym5_win-assets/barb_top_white
+  rotate: false
+  xy: 1303, 276
+  size: 99, 93
+  orig: 163, 340
+  offset: 13, 228
+  index: -1
+sym5_win-assets/bg_bottom
+  rotate: false
+  xy: 1025, 1
+  size: 200, 189
+  orig: 200, 564
+  offset: 0, 0
+  index: -1
+sym5_win-assets/bg_middle
+  rotate: true
+  xy: 1, 307
+  size: 200, 190
+  orig: 200, 564
+  offset: 0, 187
+  index: -1
+sym5_win-assets/bg_top
+  rotate: false
+  xy: 1227, 1
+  size: 200, 189
+  orig: 200, 564
+  offset: 0, 375
+  index: -1
+sym5_win-assets/boar_riped
+  rotate: true
+  xy: 1307, 192
+  size: 82, 116
+  orig: 127, 127
+  offset: 20, 8
+  index: -1
+sym5_win-assets/cinder_1
+  rotate: false
+  xy: 1533, 320
+  size: 37, 45
+  orig: 200, 587
+  offset: 87, 18
+  index: -1
+sym5_win-assets/cinder_2
+  rotate: false
+  xy: 711, 475
+  size: 45, 32
+  orig: 200, 587
+  offset: 144, 407
+  index: -1
+sym5_win-assets/cinder_3
+  rotate: true
+  xy: 658, 467
+  size: 34, 51
+  orig: 200, 587
+  offset: 26, 329
+  index: -1
+sym5_win-assets/cinder_4
+  rotate: true
+  xy: 1459, 332
+  size: 48, 72
+  orig: 200, 587
+  offset: 16, 218
+  index: -1
+sym5_win-assets/cinder_5
+  rotate: true
+  xy: 802, 472
+  size: 35, 53
+  orig: 200, 587
+  offset: 165, 76
+  index: -1
+sym5_win-assets/club_hand_end
+  rotate: true
+  xy: 367, 297
+  size: 204, 113
+  orig: 495, 833
+  offset: 212, 405
+  index: -1
+sym5_win-assets/club_hand_end_rim
+  rotate: true
+  xy: 482, 297
+  size: 192, 108
+  orig: 495, 833
+  offset: 224, 406
+  index: -1
+sym5_win-assets/glow
+  rotate: false
+  xy: 1459, 382
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sym5_win-assets/hair_01
+  rotate: true
+  xy: 1200, 364
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_02
+  rotate: true
+  xy: 1294, 371
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_03
+  rotate: true
+  xy: 1028, 395
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_04
+  rotate: true
+  xy: 1198, 419
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_05
+  rotate: true
+  xy: 1292, 426
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_06
+  rotate: true
+  xy: 922, 421
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_07
+  rotate: false
+  xy: 1404, 276
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_08
+  rotate: true
+  xy: 1016, 450
+  size: 52, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_09
+  rotate: true
+  xy: 1429, 184
+  size: 52, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_10
+  rotate: false
+  xy: 1523, 184
+  size: 52, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_11
+  rotate: true
+  xy: 1386, 452
+  size: 52, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_12
+  rotate: true
+  xy: 1480, 448
+  size: 52, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/hair_13
+  rotate: false
+  xy: 1459, 238
+  size: 53, 92
+  orig: 400, 664
+  offset: 196, 488
+  index: -1
+sym5_win-assets/pig
+  rotate: false
+  xy: 1, 1
+  size: 166, 304
+  orig: 495, 833
+  offset: 155, 92
+  index: -1
+sym5_win-assets/pig_lwr_jaw
+  rotate: false
+  xy: 922, 312
+  size: 104, 107
+  orig: 495, 833
+  offset: 217, 184
+  index: -1
+sym5_win-assets/pig_lwr_jaw_rim
+  rotate: false
+  xy: 1200, 269
+  size: 101, 93
+  orig: 495, 833
+  offset: 220, 195
+  index: -1
+sym5_win-assets/pig_nose
+  rotate: false
+  xy: 592, 467
+  size: 64, 40
+  orig: 495, 833
+  offset: 248, 257
+  index: -1
+sym5_win-assets/pig_nose_rim
+  rotate: false
+  xy: 1514, 278
+  size: 61, 40
+  orig: 495, 833
+  offset: 250, 257
+  index: -1
+sym5_win-assets/pig_rim
+  rotate: false
+  xy: 169, 1
+  size: 159, 297
+  orig: 495, 833
+  offset: 159, 93
+  index: -1
+sym5_win-assets/pig_upper_jaw
+  rotate: true
+  xy: 1122, 401
+  size: 81, 74
+  orig: 495, 833
+  offset: 233, 258
+  index: -1
+sym5_win-assets/pig_upper_jaw_rim
+  rotate: true
+  xy: 1388, 371
+  size: 79, 69
+  orig: 495, 833
+  offset: 233, 258
+  index: -1
+sym5_win-assets/pig_white
+  rotate: false
+  xy: 715, 320
+  size: 85, 153
+  orig: 248, 417
+  offset: 76, 45
+  index: -1
+sym5_win-assets/r_lwr_arm
+  rotate: false
+  xy: 1168, 192
+  size: 137, 75
+  orig: 495, 833
+  offset: 214, 440
+  index: -1
+sym5_win-assets/r_lwr_arm_rim
+  rotate: true
+  xy: 1128, 290
+  size: 109, 70
+  orig: 495, 833
+  offset: 218, 448
+  index: -1
+sym5_win-assets/r_upper_arm_bottom
+  rotate: false
+  xy: 802, 444
+  size: 99, 26
+  orig: 495, 833
+  offset: 175, 486
+  index: -1
+sym5_win-assets/r_upper_arm_bottom_rim
+  rotate: false
+  xy: 857, 472
+  size: 54, 26
+  orig: 495, 833
+  offset: 175, 486
+  index: -1
+sym5_win-assets/r_upper_arm_top
+  rotate: false
+  xy: 592, 320
+  size: 121, 145
+  orig: 495, 833
+  offset: 150, 510
+  index: -1
+sym5_win-assets/r_upper_arm_top_rim
+  rotate: true
+  xy: 785, 193
+  size: 117, 144
+  orig: 495, 833
+  offset: 150, 510
+  index: -1
+sym5_win-assets/snoty
+  rotate: false
+  xy: 476, 193
+  size: 119, 102
+  orig: 495, 833
+  offset: 187, 183
+  index: -1
+sym5_win-assets/snow
+  rotate: false
+  xy: 1028, 290
+  size: 98, 103
+  orig: 122, 104
+  offset: 13, 1
+  index: -1
+sym5_win-assets/snowchunk
+  rotate: true
+  xy: 802, 312
+  size: 130, 118
+  orig: 150, 320
+  offset: 6, 15
+  index: -1
+sym5_win-assets/snowlines
+  rotate: true
+  xy: 330, 193
+  size: 102, 144
+  orig: 150, 320
+  offset: 20, 13
+  index: -1

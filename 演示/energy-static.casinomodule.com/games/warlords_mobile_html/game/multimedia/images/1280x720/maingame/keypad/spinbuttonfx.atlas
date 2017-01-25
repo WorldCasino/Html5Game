@@ -1,0 +1,144 @@
+spinbuttonfx.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+spinbuttonfx-assets/glow
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_001
+  rotate: false
+  xy: 1292, 2
+  size: 83, 99
+  orig: 150, 168
+  offset: 35, 6
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_002
+  rotate: true
+  xy: 337, 154
+  size: 94, 104
+  orig: 150, 168
+  offset: 30, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_003
+  rotate: false
+  xy: 1210, 115
+  size: 101, 108
+  orig: 150, 168
+  offset: 26, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_004
+  rotate: false
+  xy: 1182, 2
+  size: 108, 111
+  orig: 150, 168
+  offset: 23, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_005
+  rotate: true
+  xy: 690, 138
+  size: 113, 115
+  orig: 150, 168
+  offset: 21, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_006
+  rotate: true
+  xy: 443, 146
+  size: 106, 120
+  orig: 150, 168
+  offset: 30, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_007
+  rotate: true
+  xy: 565, 138
+  size: 111, 123
+  orig: 150, 168
+  offset: 26, 6
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_008
+  rotate: true
+  xy: 1053, 2
+  size: 115, 127
+  orig: 150, 168
+  offset: 23, 7
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_009
+  rotate: true
+  xy: 807, 134
+  size: 118, 130
+  orig: 150, 168
+  offset: 20, 8
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_010
+  rotate: true
+  xy: 939, 129
+  size: 120, 129
+  orig: 150, 168
+  offset: 17, 9
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_011
+  rotate: true
+  xy: 918, 2
+  size: 125, 133
+  orig: 150, 168
+  offset: 14, 9
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_012
+  rotate: true
+  xy: 776, 2
+  size: 130, 140
+  orig: 150, 168
+  offset: 11, 7
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_013
+  rotate: true
+  xy: 486, 2
+  size: 134, 146
+  orig: 150, 168
+  offset: 9, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_014
+  rotate: false
+  xy: 204, 2
+  size: 137, 150
+  orig: 150, 168
+  offset: 8, 5
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_015
+  rotate: false
+  xy: 343, 2
+  size: 141, 142
+  orig: 150, 168
+  offset: 6, 17
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_016
+  rotate: true
+  xy: 1070, 119
+  size: 131, 138
+  orig: 150, 168
+  offset: 2, 24
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_017
+  rotate: true
+  xy: 634, 2
+  size: 134, 140
+  orig: 150, 168
+  offset: 0, 26
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_018
+  rotate: true
+  xy: 204, 154
+  size: 84, 131
+  orig: 150, 168
+  offset: 36, 36
+  index: -1
+spinbuttonfx-assets/spinbutton_particles_019
+  rotate: false
+  xy: 1313, 103
+  size: 62, 94
+  orig: 150, 168
+  offset: 37, 35
+  index: -1

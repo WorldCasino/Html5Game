@@ -1,0 +1,11 @@
+{
+  "defaultWidth" : "1280",
+  "defaultHeight" : "720",
+  "defaultResolution" : "high",
+  "netentExtendSupported" : true,
+  "technologyType" : "html",
+  "technologyPresentation" : "embed",
+  "technologyVersion" : "5.0.0",
+  "relativeLoaderUrl" : "game/warlords_mobile_html.xhtml",
+  "gameFamily" : "videoslots"
+}

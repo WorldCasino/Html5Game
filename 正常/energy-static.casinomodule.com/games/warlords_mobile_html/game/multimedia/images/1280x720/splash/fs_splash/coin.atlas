@@ -1,0 +1,223 @@
+
+coin.png
+size: 509,753
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+coin-assets/coin_seq_001
+  rotate: true
+  xy: 223, 489
+  size: 116, 41
+  orig: 130, 130
+  offset: 7, 47
+  index: -1
+coin-assets/coin_seq_002
+  rotate: false
+  xy: 115, 432
+  size: 122, 55
+  orig: 130, 130
+  offset: 2, 40
+  index: -1
+coin-assets/coin_seq_003
+  rotate: false
+  xy: 266, 533
+  size: 122, 73
+  orig: 130, 130
+  offset: 2, 30
+  index: -1
+coin-assets/coin_seq_004
+  rotate: false
+  xy: 203, 119
+  size: 121, 90
+  orig: 130, 130
+  offset: 3, 21
+  index: -1
+coin-assets/coin_seq_005
+  rotate: false
+  xy: 326, 119
+  size: 118, 102
+  orig: 130, 130
+  offset: 6, 15
+  index: -1
+coin-assets/coin_seq_006
+  rotate: true
+  xy: 1, 593
+  size: 115, 109
+  orig: 130, 130
+  offset: 9, 11
+  index: -1
+coin-assets/coin_seq_007
+  rotate: false
+  xy: 203, 1
+  size: 114, 116
+  orig: 130, 130
+  offset: 9, 8
+  index: -1
+coin-assets/coin_seq_008
+  rotate: false
+  xy: 1, 355
+  size: 112, 117
+  orig: 130, 130
+  offset: 11, 9
+  index: -1
+coin-assets/coin_seq_009
+  rotate: false
+  xy: 325, 223
+  size: 110, 109
+  orig: 130, 130
+  offset: 13, 19
+  index: -1
+coin-assets/coin_seq_010
+  rotate: true
+  xy: 113, 489
+  size: 107, 108
+  orig: 130, 130
+  offset: 15, 20
+  index: -1
+coin-assets/coin_seq_011
+  rotate: false
+  xy: 266, 429
+  size: 105, 102
+  orig: 130, 130
+  offset: 17, 23
+  index: -1
+coin-assets/coin_seq_012
+  rotate: false
+  xy: 390, 519
+  size: 105, 90
+  orig: 130, 130
+  offset: 17, 29
+  index: -1
+coin-assets/coin_seq_013
+  rotate: true
+  xy: 433, 1
+  size: 108, 75
+  orig: 130, 130
+  offset: 14, 36
+  index: -1
+coin-assets/coin_seq_014
+  rotate: true
+  xy: 446, 111
+  size: 108, 56
+  orig: 130, 130
+  offset: 14, 46
+  index: -1
+coin-assets/coin_seq_015
+  rotate: false
+  xy: 121, 705
+  size: 106, 45
+  orig: 130, 130
+  offset: 15, 47
+  index: -1
+coin-assets/coin_seq_016
+  rotate: false
+  xy: 1, 710
+  size: 118, 42
+  orig: 130, 130
+  offset: 5, 47
+  index: -1
+coin-assets/coin_seq_017
+  rotate: true
+  xy: 264, 211
+  size: 121, 59
+  orig: 130, 130
+  offset: 3, 38
+  index: -1
+coin-assets/coin_seq_018
+  rotate: false
+  xy: 373, 440
+  size: 121, 77
+  orig: 130, 130
+  offset: 3, 28
+  index: -1
+coin-assets/coin_seq_019
+  rotate: false
+  xy: 264, 334
+  size: 119, 93
+  orig: 130, 130
+  offset: 5, 19
+  index: -1
+coin-assets/coin_seq_020
+  rotate: false
+  xy: 385, 335
+  size: 115, 103
+  orig: 130, 130
+  offset: 8, 15
+  index: -1
+coin-assets/coin_seq_021
+  rotate: false
+  xy: 151, 211
+  size: 111, 110
+  orig: 130, 130
+  offset: 12, 11
+  index: -1
+coin-assets/coin_seq_022
+  rotate: false
+  xy: 319, 1
+  size: 112, 116
+  orig: 130, 130
+  offset: 11, 8
+  index: -1
+coin-assets/coin_seq_023
+  rotate: false
+  xy: 1, 474
+  size: 110, 117
+  orig: 130, 130
+  offset: 12, 10
+  index: -1
+coin-assets/coin_seq_024
+  rotate: true
+  xy: 151, 323
+  size: 107, 111
+  orig: 130, 130
+  offset: 14, 17
+  index: -1
+coin-assets/coin_seq_025
+  rotate: false
+  xy: 112, 598
+  size: 103, 105
+  orig: 130, 130
+  offset: 18, 22
+  index: -1
+coin-assets/coin_seq_026
+  rotate: false
+  xy: 380, 611
+  size: 103, 98
+  orig: 130, 130
+  offset: 18, 26
+  index: -1
+coin-assets/coin_seq_027
+  rotate: false
+  xy: 217, 608
+  size: 104, 84
+  orig: 130, 130
+  offset: 17, 34
+  index: -1
+coin-assets/coin_seq_028
+  rotate: true
+  xy: 437, 223
+  size: 110, 71
+  orig: 130, 130
+  offset: 11, 39
+  index: -1
+coin-assets/coin_seq_029
+  rotate: true
+  xy: 323, 608
+  size: 112, 55
+  orig: 130, 130
+  offset: 10, 45
+  index: -1
+coin-assets/flareAlpha
+  rotate: false
+  xy: 1, 203
+  size: 148, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+coin-assets/glow
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

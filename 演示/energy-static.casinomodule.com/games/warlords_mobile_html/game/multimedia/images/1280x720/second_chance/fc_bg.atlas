@@ -1,0 +1,132 @@
+
+fc_bg.png
+size: 1012,1323
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fc-assets/boulder
+  rotate: true
+  xy: 602, 961
+  size: 205, 200
+  orig: 960, 540
+  offset: 377, 176
+  index: -1
+fc-assets/burst
+  rotate: false
+  xy: 804, 1151
+  size: 176, 166
+  orig: 176, 174
+  offset: 0, 8
+  index: -1
+fc-assets/cracks
+  rotate: false
+  xy: 1, 1
+  size: 718, 614
+  orig: 960, 1198
+  offset: 123, 290
+  index: -1
+fc-assets/fireseq_00
+  rotate: true
+  xy: 721, 1
+  size: 321, 288
+  orig: 1280, 720
+  offset: 475, 280
+  index: -1
+fc-assets/fireseq_01
+  rotate: true
+  xy: 721, 324
+  size: 321, 286
+  orig: 1280, 720
+  offset: 475, 280
+  index: -1
+fc-assets/fireseq_02
+  rotate: true
+  xy: 1, 617
+  size: 319, 285
+  orig: 1280, 720
+  offset: 476, 281
+  index: -1
+fc-assets/fireseq_03
+  rotate: false
+  xy: 288, 617
+  size: 319, 281
+  orig: 1280, 720
+  offset: 476, 281
+  index: -1
+fc-assets/fireseq_04
+  rotate: true
+  xy: 712, 647
+  size: 312, 256
+  orig: 1280, 720
+  offset: 479, 283
+  index: -1
+fc-assets/fireseq_05
+  rotate: false
+  xy: 288, 900
+  size: 312, 239
+  orig: 1280, 720
+  offset: 479, 283
+  index: -1
+fc-assets/fireseq_06
+  rotate: false
+  xy: 1, 938
+  size: 276, 198
+  orig: 1280, 720
+  offset: 496, 285
+  index: -1
+fc-assets/fireseq_07
+  rotate: false
+  xy: 804, 961
+  size: 207, 188
+  orig: 1280, 720
+  offset: 522, 290
+  index: -1
+fc-assets/fireseq_08
+  rotate: false
+  xy: 1, 1138
+  size: 205, 174
+  orig: 1280, 720
+  offset: 523, 290
+  index: -1
+fc-assets/fireseq_09
+  rotate: false
+  xy: 384, 1141
+  size: 158, 166
+  orig: 1280, 720
+  offset: 570, 295
+  index: -1
+fc-assets/gravel
+  rotate: true
+  xy: 544, 1168
+  size: 153, 151
+  orig: 251, 206
+  offset: 65, 33
+  index: -1
+fc-assets/rock_1
+  rotate: true
+  xy: 609, 617
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+fc-assets/rock_2
+  rotate: false
+  xy: 609, 671
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+fc-assets/rock_3
+  rotate: false
+  xy: 667, 617
+  size: 43, 54
+  orig: 43, 54
+  offset: 0, 0
+  index: -1
+fc-assets/smoke
+  rotate: true
+  xy: 208, 1141
+  size: 179, 174
+  orig: 179, 174
+  offset: 0, 0
+  index: -1

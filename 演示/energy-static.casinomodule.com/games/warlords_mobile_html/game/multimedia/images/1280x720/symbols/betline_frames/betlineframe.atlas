@@ -1,0 +1,758 @@
+
+betlineframe0.png
+size: 2038,1706
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlineframe-assets/betlineFrame_dark_001
+  rotate: true
+  xy: 1631, 355
+  size: 353, 395
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_008
+  rotate: true
+  xy: 419, 735
+  size: 350, 391
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_021
+  rotate: true
+  xy: 1199, 1057
+  size: 347, 384
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_023
+  rotate: false
+  xy: 355, 1183
+  size: 347, 400
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_028
+  rotate: true
+  xy: 1232, 353
+  size: 350, 397
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_035
+  rotate: true
+  xy: 833, 1
+  size: 350, 403
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_038
+  rotate: true
+  xy: 814, 701
+  size: 347, 390
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_039
+  rotate: true
+  xy: 420, 386
+  size: 347, 392
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_046
+  rotate: true
+  xy: 1238, 1
+  size: 350, 399
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_057
+  rotate: true
+  xy: 1597, 710
+  size: 352, 388
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_065
+  rotate: false
+  xy: 1, 1183
+  size: 352, 401
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_066
+  rotate: true
+  xy: 1639, 1
+  size: 352, 398
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_068
+  rotate: true
+  xy: 1206, 705
+  size: 350, 389
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_081
+  rotate: true
+  xy: 833, 353
+  size: 346, 397
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/sparks_01
+  rotate: true
+  xy: 1396, 1406
+  size: 293, 282
+  orig: 500, 500
+  offset: 104, 62
+  index: -1
+betlineframe-assets/sparks_02
+  rotate: false
+  xy: 1073, 1406
+  size: 321, 297
+  orig: 500, 500
+  offset: 91, 61
+  index: -1
+betlineframe-assets/sparks_03
+  rotate: false
+  xy: 1680, 1365
+  size: 345, 305
+  orig: 500, 500
+  offset: 80, 61
+  index: -1
+betlineframe-assets/sparks_08
+  rotate: false
+  xy: 812, 1050
+  size: 385, 353
+  orig: 500, 500
+  offset: 61, 75
+  index: -1
+betlineframe-assets/sparks_09
+  rotate: false
+  xy: 1, 815
+  size: 401, 366
+  orig: 500, 500
+  offset: 52, 74
+  index: -1
+betlineframe-assets/sparks_10
+  rotate: false
+  xy: 420, 1
+  size: 411, 383
+  orig: 500, 500
+  offset: 48, 68
+  index: -1
+betlineframe-assets/sparks_11
+  rotate: false
+  xy: 1, 412
+  size: 416, 401
+  orig: 500, 500
+  offset: 48, 60
+  index: -1
+betlineframe-assets/sparks_12
+  rotate: false
+  xy: 1, 1
+  size: 417, 409
+  orig: 500, 500
+  offset: 48, 53
+  index: -1
+betlineframe-assets/sparks_13
+  rotate: false
+  xy: 704, 1405
+  size: 367, 298
+  orig: 500, 500
+  offset: 67, 116
+  index: -1
+betlineframe-assets/sparks_14
+  rotate: false
+  xy: 1585, 1064
+  size: 377, 299
+  orig: 500, 500
+  offset: 63, 119
+  index: -1
+
+betlineframe1.png
+size: 2009,1399
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlineframe-assets/betlineFrame_dark_002
+  rotate: true
+  xy: 1, 1043
+  size: 353, 394
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_009
+  rotate: true
+  xy: 1146, 343
+  size: 348, 392
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_015
+  rotate: true
+  xy: 1103, 1
+  size: 340, 411
+  orig: 500, 500
+  offset: 80, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_016
+  rotate: true
+  xy: 704, 1
+  size: 339, 397
+  orig: 500, 500
+  offset: 82, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_017
+  rotate: true
+  xy: 1516, 1
+  size: 340, 392
+  orig: 500, 500
+  offset: 82, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_024
+  rotate: true
+  xy: 1540, 343
+  size: 348, 404
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_040
+  rotate: true
+  xy: 355, 342
+  size: 347, 385
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_047
+  rotate: true
+  xy: 1, 691
+  size: 350, 399
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_052
+  rotate: true
+  xy: 793, 1045
+  size: 353, 414
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_056
+  rotate: true
+  xy: 397, 1044
+  size: 353, 394
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_060
+  rotate: true
+  xy: 1209, 1045
+  size: 353, 396
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_061
+  rotate: true
+  xy: 1607, 1045
+  size: 353, 401
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_067
+  rotate: true
+  xy: 402, 692
+  size: 350, 395
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_069
+  rotate: true
+  xy: 799, 693
+  size: 350, 388
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_071
+  rotate: true
+  xy: 1189, 693
+  size: 350, 392
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_072
+  rotate: true
+  xy: 1583, 693
+  size: 350, 399
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_073
+  rotate: true
+  xy: 742, 343
+  size: 347, 402
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/sparks_04
+  rotate: false
+  xy: 1, 1
+  size: 360, 322
+  orig: 500, 500
+  offset: 74, 56
+  index: -1
+betlineframe-assets/sparks_05
+  rotate: true
+  xy: 363, 1
+  size: 337, 339
+  orig: 500, 500
+  offset: 104, 52
+  index: -1
+betlineframe-assets/sparks_06
+  rotate: false
+  xy: 1, 325
+  size: 352, 352
+  orig: 500, 500
+  offset: 93, 51
+  index: -1
+
+betlineframe2.png
+size: 2033,1403
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlineframe-assets/betlineFrame_dark_003
+  rotate: true
+  xy: 377, 695
+  size: 351, 390
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_004
+  rotate: true
+  xy: 769, 695
+  size: 351, 395
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_006
+  rotate: true
+  xy: 1, 694
+  size: 351, 374
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_007
+  rotate: true
+  xy: 1166, 695
+  size: 351, 388
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_011
+  rotate: true
+  xy: 417, 1
+  size: 342, 395
+  orig: 500, 500
+  offset: 78, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_012
+  rotate: true
+  xy: 814, 1
+  size: 342, 411
+  orig: 500, 500
+  offset: 79, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_013
+  rotate: true
+  xy: 1, 1
+  size: 341, 414
+  orig: 500, 500
+  offset: 79, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_014
+  rotate: true
+  xy: 1227, 1
+  size: 342, 417
+  orig: 500, 500
+  offset: 78, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_018
+  rotate: true
+  xy: 1646, 1
+  size: 342, 386
+  orig: 500, 500
+  offset: 81, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_026
+  rotate: true
+  xy: 1, 344
+  size: 348, 386
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_032
+  rotate: true
+  xy: 1556, 695
+  size: 351, 399
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_036
+  rotate: true
+  xy: 389, 345
+  size: 348, 393
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_037
+  rotate: true
+  xy: 784, 345
+  size: 348, 393
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_053
+  rotate: true
+  xy: 1214, 1048
+  size: 354, 410
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_054
+  rotate: true
+  xy: 1626, 1048
+  size: 354, 394
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_062
+  rotate: true
+  xy: 1, 1048
+  size: 353, 401
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_064
+  rotate: true
+  xy: 404, 1048
+  size: 353, 398
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_079
+  rotate: true
+  xy: 1179, 345
+  size: 348, 403
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_080
+  rotate: true
+  xy: 1584, 345
+  size: 348, 406
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_086
+  rotate: true
+  xy: 804, 1048
+  size: 353, 408
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+
+betlineframe3.png
+size: 1998,1409
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlineframe-assets/betlineFrame_dark_005
+  rotate: true
+  xy: 1, 697
+  size: 352, 386
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_010
+  rotate: true
+  xy: 400, 1
+  size: 344, 389
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_019
+  rotate: true
+  xy: 791, 1
+  size: 344, 394
+  orig: 500, 500
+  offset: 79, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_020
+  rotate: true
+  xy: 1, 346
+  size: 349, 392
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_022
+  rotate: true
+  xy: 1587, 1
+  size: 346, 384
+  orig: 500, 500
+  offset: 78, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_025
+  rotate: true
+  xy: 395, 347
+  size: 349, 399
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_027
+  rotate: true
+  xy: 1187, 348
+  size: 349, 390
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_033
+  rotate: true
+  xy: 389, 698
+  size: 351, 403
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_034
+  rotate: true
+  xy: 794, 699
+  size: 351, 405
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_041
+  rotate: true
+  xy: 796, 347
+  size: 349, 389
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_042
+  rotate: true
+  xy: 1579, 349
+  size: 349, 392
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_043
+  rotate: true
+  xy: 1201, 700
+  size: 351, 394
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_049
+  rotate: true
+  xy: 1597, 700
+  size: 351, 400
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_050
+  rotate: true
+  xy: 791, 1052
+  size: 355, 406
+  orig: 500, 500
+  offset: 70, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_055
+  rotate: true
+  xy: 1199, 1053
+  size: 355, 392
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_058
+  rotate: true
+  xy: 1, 1051
+  size: 354, 392
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_059
+  rotate: true
+  xy: 1593, 1053
+  size: 355, 397
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_082
+  rotate: true
+  xy: 1, 1
+  size: 343, 397
+  orig: 500, 500
+  offset: 78, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_083
+  rotate: true
+  xy: 1187, 1
+  size: 345, 398
+  orig: 500, 500
+  offset: 77, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_090
+  rotate: true
+  xy: 395, 1051
+  size: 354, 394
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+
+betlineframe4.png
+size: 2014,1413
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+betlineframe-assets/betlineFrame_dark_029
+  rotate: true
+  xy: 409, 700
+  size: 352, 401
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_030
+  rotate: true
+  xy: 812, 700
+  size: 352, 396
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_031
+  rotate: true
+  xy: 1210, 700
+  size: 352, 396
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_044
+  rotate: true
+  xy: 1, 349
+  size: 349, 392
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_045
+  rotate: true
+  xy: 395, 349
+  size: 349, 394
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_048
+  rotate: true
+  xy: 791, 349
+  size: 349, 401
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_051
+  rotate: true
+  xy: 1608, 700
+  size: 352, 405
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_063
+  rotate: true
+  xy: 1, 1053
+  size: 356, 397
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_070
+  rotate: true
+  xy: 1194, 349
+  size: 349, 390
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_074
+  rotate: true
+  xy: 1, 1
+  size: 346, 399
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_075
+  rotate: true
+  xy: 402, 1
+  size: 346, 395
+  orig: 500, 500
+  offset: 76, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_076
+  rotate: true
+  xy: 799, 1
+  size: 346, 394
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_077
+  rotate: true
+  xy: 1195, 1
+  size: 346, 395
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_078
+  rotate: true
+  xy: 1592, 1
+  size: 346, 399
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_084
+  rotate: true
+  xy: 1586, 349
+  size: 349, 402
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_085
+  rotate: true
+  xy: 1, 700
+  size: 351, 406
+  orig: 500, 500
+  offset: 75, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_087
+  rotate: true
+  xy: 400, 1054
+  size: 356, 404
+  orig: 500, 500
+  offset: 74, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_088
+  rotate: true
+  xy: 1196, 1054
+  size: 357, 394
+  orig: 500, 500
+  offset: 73, 40
+  index: -1
+betlineframe-assets/betlineFrame_dark_089
+  rotate: true
+  xy: 806, 1054
+  size: 356, 388
+  orig: 500, 500
+  offset: 72, 40
+  index: -1
+betlineframe-assets/sparks_07
+  rotate: false
+  xy: 1592, 1054
+  size: 376, 358
+  orig: 500, 500
+  offset: 71, 71
+  index: -1

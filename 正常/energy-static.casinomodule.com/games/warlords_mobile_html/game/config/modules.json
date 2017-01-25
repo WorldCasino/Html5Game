@@ -1,0 +1,510 @@
+{
+  "fullscreen": {
+    "global": "Game",
+    "platforms": ["mobile"],
+    "module": "Core.Fullscreen"
+  },
+  "stage": {
+    "global": "Game",
+    "module": "Game.Stage"
+  },
+  "postman": {
+    "global": "Services",
+    "module": "Core.Postman"
+  },
+  "autoPlayer": {
+    "module": "Core.AutoPlayer",
+    "controller": "Warlords.AutoPlayerController"
+  },
+  "netEntExtend": {
+    "global": "Services",
+    "module": "Core.NetEntExtend",
+    "model": "Core.Slots.NetEntExtendModel"
+  },
+  "netEntExtendEvents": {
+    "global": "Services",
+    "module": "Core.NetEntExtendEvents",
+    "model": "Core.Slots.NetEntExtendEventsModel"
+  },
+  "moneyManager": {
+    "global": "Services",
+    "module": "Core.MoneyManager"
+  },
+  "settingsManager": {
+    "global": "Services",
+    "module": "Core.SettingsManager"
+  },
+  "localStorageManager": {
+    "global": "Services",
+    "module": "Core.LocalStorageManager"
+  },
+  "customMessages": {
+    "module": "Core.CustomMessages",
+    "model": {
+      "desktop": "Core.CustomMessagesDesktopModel"
+    }
+  },
+  "keepAlive": {
+    "module": "Core.KeepAlive"
+  },
+  "playForRealPromo": {
+    "module": "Core.PlayForRealPromo",
+    "model": {
+      "desktop": "Core.PlayForRealPromoDesktopModel"
+    }
+  },
+  "dialogWindow": {
+    "module": "Core.DialogWindow",
+    "view": {
+      "mobile": "Core.DialogWindowMobileView",
+      "tablet": "Core.DialogWindowBaseView"
+    }
+  },
+  "errorManager": {
+    "global": "Game",
+    "module": "Core.ErrorManager",
+    "model": {
+      "desktop": "Core.ErrorManagerDesktopModel"
+    }
+  },
+  "playModeManager": {
+    "module": "Core.PlayModeManager"
+  },
+  "serverManager": {
+    "module": "Core.Slots.ServerManager"
+  },
+  "responseParser": {
+    "global": "Game",
+    "module": "Core.Slots.ResponseParser",
+    "controller": "Warlords.ResponseParserController"
+  },
+  "environmentAnimations" : {
+    "module" : "Warlords.EnvironmentAnimations",
+    "model" : "Warlords.EnvironmentAnimationsModel",
+    "controller" : "Warlords.EnvironmentAnimationsController",
+    "view" : {
+      "desktop" : "Warlords.EnvironmentAnimationsView",
+      "mobile" : "Warlords.EnvironmentAnimationsViewMobile"
+    }
+  },
+  "spin": {
+    "global": "Game",
+    "module": "Core.Slots.BufferedSpin",
+    "model": "Warlords.BufferedSpinModel",
+    "controller" : "Warlords.BufferedSpinController",
+    "view" : "Warlords.BufferedSpinView"
+  },
+  "spinButton": {
+    "module": "Interface.Slots.SpinButton",
+    "controller" : "Warlords.SpinButtonController",
+    "view": {
+      "mobile": "Interface.Slots.SpinButtonMobileView",
+      "tablet": "Interface.Slots.SpinButtonTabletView",
+      "desktop": "Warlords.SpinButtonDesktopView"
+    }
+  },
+  "maxBetButton": {
+    "platforms": ["desktop"],
+    "module": "Warlords.MaxBetButton",
+    "view": "Warlords.MaxBetButtonDesktopView",
+    "controller": "Warlords.MaxBetButtonController"
+  },
+  "quickSettingsMenu": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.QuickSettingsMenu",
+    "view": {
+      "mobile": "Interface.QuickSettingsMenuBaseView",
+      "tablet": "Interface.QuickSettingsMenuTabletView"
+    }
+  },
+  "autoPlayButton": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.AutoPlayButton"
+  },
+  "quickSpinButton": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.QuickSpinButton"
+  },
+  "spinTypeBasic": {
+    "module": "Core.Slots.SpinTypeBasic"
+  },
+  "spinTypeRespin": {
+    "module": "Core.Slots.SpinTypeRespin",
+    "model": "Warlords.SpinTypeRespinModel",
+    "controller": "Warlords.RespinController"
+  },
+  "spinTypeFreespin": {
+    "module": "Core.Slots.SpinTypeFreespin",
+    "model": "Warlords.SpinTypeFreespinModel"
+  },
+  "quickStopper": {
+    "module": "Game.Slots.QuickStopper",
+    "view": "Warlords.QuickStopperView"
+  },
+  "winSituationsDisplay": {
+    "module": "Game.Slots.WinSituationsDisplay",
+    "model": "Warlords.WinSituationsDisplayModel"
+  },
+  "winSituations": {
+    "module": "Game.Slots.WinSituations",
+    "controller": "Warlords.WinSituationsController",
+    "view": "Warlords.WinSituationsView"
+  },
+  "betlineIndicators": {
+    "module": "Game.Slots.BetlineIndicators",
+    "view": "Warlords.BetlineIndicatorsView",
+    "controller": "Warlords.BetlineIndicatorsController"
+  },
+  "winBanner": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Game.Slots.PIXIWinBanner"
+  },
+  "progressiveWinBanner": {
+    "platforms": ["desktop"],
+    "module": "Game.Slots.PIXIProgressiveWinBanner"
+  },
+  "stopGame": {
+    "module": "Core.StopGame"
+  },
+  "realityCheck": {
+    "module": "Core.Slots.RealityCheck",
+    "model": {
+      "desktop": "Core.RealityCheckDesktopModel"
+    }
+  },
+  "coinWin" : {
+    "module" : "Game.Slots.CoinWin",
+    "view" : "Warlords.CoinWinView"
+  },
+  "winningSymbols": {
+    "module": "Game.Slots.WinningSymbols",
+    "view": {
+      "desktop" : "Warlords.WinningSymbolsView",
+      "mobile" : "Warlords.WinningSymbolsMobileView"
+    },
+    "model": "Warlords.WinningSymbolsModel",
+    "controller": "Warlords.WinningSymbolsController"
+  },
+  "standardWin": {
+    "module": "Warlords.StandardWin",
+    "controller": "Warlords.StandardWinController",
+    "model": "Warlords.StandardWinModel"
+  },
+  "bigWin" : {
+    "module" : "Game.Slots.BigWin",
+    "model" : "Warlords.BigWinModel",
+    "view" : {
+      "desktop" : "Warlords.BigWinView",
+      "mobile" : "Warlords.BigWinMobileView"
+    },
+    "controller" : "Warlords.BigWinController"
+  },
+  "bigWinCountUp" : {
+    "module" : "Game.Slots.BigWinCountUp",
+    "controller" : "Warlords.BigWinCountUpController",
+    "view" : "Warlords.BigWinCountUpView"
+  },
+  "JMX": {
+    "optional": true,
+    "module": "Cheats.JMX",
+    "view": "Warlords.JMXView",
+    "controller": "Warlords.JMXController"
+  },
+  "JMXReelSelector": {
+    "optional": true,
+    "module": "Cheats.JMXReelSelector"
+  },
+  "DebugInformation": {
+    "optional": true,
+    "module": "Cheats.DebugInformation"
+  },
+  "g4": {
+    "global": "Game",
+    "module": "Core.G4",
+    "model": {
+      "desktop": "Core.G4DesktopModel"
+    }
+  },
+  "slowRequestAnimation": {
+    "module": "Core.SlowRequestAnimation",
+    "view": {
+      "desktop": "Core.SlowRequestAnimationDesktopView"
+    }
+  },
+  "audioPlayer": {
+    "global": "Game",
+    "module": "Warlords.AudioPlayer",
+    "controller" : "Warlords.AudioPlayerController"
+  },
+  "homeButton": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.HomeButton",
+    "view": {
+      "mobile": "Interface.HomeButtonMobileView",
+      "tablet": "Interface.HomeButtonTabletView"
+    }
+  },
+  "soundOnOffButton": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.SoundOnOffButton",
+    "view": {
+      "mobile": "Interface.SoundOnOffButtonMobileView",
+      "tablet": "Interface.SoundOnOffButtonTabletView"
+    }
+  },
+  "balanceDisplay": {
+    "module": "Interface.BalanceDisplay",
+    "view": {
+      "desktop": "Interface.BalanceDisplayDesktopView",
+      "mobile": "Interface.BalanceDisplayMobileView",
+      "tablet": "Interface.BalanceDisplayBaseView"
+    }
+  },
+  "freespinKeypadFields": {
+    "platforms": ["desktop"],
+    "module": "Warlords.FreespinKeypadFields"
+  },
+  "coinsField": {
+    "module": "Warlords.CoinsField",
+    "controller": "Warlords.CoinsFieldController",
+    "model": "Warlords.CoinsFieldModel",
+    "view": {
+      "mobile": "Warlords.CoinsFieldMobileView",
+      "tablet": "Warlords.CoinsFieldMobileView",
+      "desktop": "Warlords.CoinsFieldDesktopView"
+    }
+  },
+  "cashField": {
+    "module": "Interface.CashField",
+    "controller": "Warlords.CashFieldController",
+    "view": {
+      "desktop": "Interface.CashFieldDesktopView",
+      "mobile": "Interface.CashFieldMobileView",
+      "tablet": "Interface.CashFieldTabletView"
+    }
+  },
+  "settingsWindow": {
+    "module": "Interface.SettingsWindow",
+    "view": {
+      "mobile": "Interface.SettingsWindowMobileView",
+      "tablet": "Interface.SettingsWindowTabletView",
+      "desktop": "Interface.SettingsWindowDesktopView"
+    }
+  },
+  "settingsMenu": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.SettingsMenu",
+    "view": {
+      "mobile": "Interface.SettingsMenuMobileView",
+      "tablet": "Interface.SettingsMenuTabletView"
+    }
+  },
+  "desktopSettingsMenu": {
+    "platforms": ["desktop"],
+    "module": "Interface.DesktopSettingsMenu"
+  },
+  "settingsButton": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.SettingsButton",
+    "view": {
+      "mobile": "Interface.SettingsButtonMobileView",
+      "tablet": "Interface.SettingsButtonTabletView"
+    }
+  },
+  "betSettings": {
+    "module": "Warlords.BetSettings",
+    "view": {
+      "mobile": "Interface.BetSettingsBaseView",
+      "tablet": "Interface.BetSettingsBaseView",
+      "desktop": "Warlords.BetSettingsDesktopView"
+    },
+    "controller": "Warlords.BetSettingsController"
+  },
+  "systemClock": {
+    "module": "Interface.SystemClock",
+    "view": {
+      "mobile": "Interface.SystemClockBaseView",
+      "tablet": "Interface.SystemClockTabletView",
+      "desktop": "Interface.SystemClockDesktopView"
+    }
+  },
+  "netEntLogo": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.NetEntLogo"
+  },
+  "gameHistory": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.GameHistory",
+    "view": {
+      "mobile": "Interface.GameHistoryBaseView",
+      "tablet": "Interface.GameHistoryBaseView"
+    }
+  },
+  "gameRules": {
+    "module": "Interface.GameRules",
+    "view": {
+      "mobile": "Interface.GameRulesBaseView",
+      "tablet": "Interface.GameRulesBaseView",
+      "desktop": "Interface.GameRulesDesktopView"
+    }
+  },
+  "paytable": {
+    "module": "Warlords.Paytable",
+    "view": {
+      "mobile": "Warlords.PaytableBaseView",
+      "desktop": "Warlords.PaytableDesktopView"
+    }
+  },
+  "spinSettings": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.SpinSettings",
+    "view": "Warlords.SpinSettingsView"
+  },
+  "autoplaySettings": {
+    "platforms": ["desktop"],
+    "module": "Warlords.AutoplaySettings",
+    "view": "Warlords.AutoplaySettingsView",
+    "controller": "Warlords.AutoplaySettingsController"
+  },
+  "gameSettings": {
+    "platforms": ["desktop"],
+    "module": "Interface.GameSettings",
+    "view": {
+      "desktop": "Interface.GameSettingsDesktopView"
+    }
+  },
+  "soundSettings": {
+    "module": "Interface.SoundSettings",
+    "view": {
+      "mobile": "Interface.SoundSettingsBaseView",
+      "tablet": "Interface.SoundSettingsBaseView",
+      "desktop": "Interface.SoundSettingsDesktopView"
+    }
+  },
+  "logo": {
+    "global": "Game",
+    "module": "Game.Logo",
+    "view" : "Warlords.LogoView"
+  },
+  "freeSpinIntro": {
+    "global": "Game",
+    "module": "Warlords.FreeSpinIntro",
+    "view": {
+      "desktop": "Warlords.FreeSpinIntroView",
+      "mobile": "Warlords.FreeSpinIntroMobileView"
+    },
+    "model": "Warlords.FreeSpinIntroModel",
+    "controller": "Warlords.FreeSpinIntroController"
+  },
+  "scatterUnveil": {
+    "module": "Warlords.ScatterUnveil"
+  },
+  "scatterWin": {
+    "module": "Warlords.ScatterWin"
+  },
+  "freeSpinOutro": {
+    "global": "Game",
+    "module": "Game.Slots.FreeSpinOutro",
+    "controller" : "Warlords.FreeSpinOutroController",
+    "view": {
+      "desktop": "Warlords.FreeSpinOutroView",
+      "mobile": "Warlords.FreeSpinOutroMobileView"
+    },
+    "model": "Warlords.FreeSpinOutroModel"
+  },
+  "randomWild": {
+    "module": "Warlords.RandomWild"
+  },
+  "stickyWild": {
+    "module": "Warlords.StickyWild"
+  },
+  "respinEffects": {
+    "module": "Warlords.RespinEffects"
+  },
+  "finalChance": {
+    "module": "Warlords.FinalChance"
+  },
+  "scatter": {
+    "module": "Warlords.Scatter"
+  },
+  "attentionAnimation": {
+    "module": "Warlords.AttentionAnimation"
+  },
+  "scatterBattle": {
+    "module": "Warlords.ScatterBattle"
+  },
+  "darkenOutcome": {
+    "module": "Warlords.DarkenOutcome"
+  },
+  "ambienceManager": {
+    "module": "Game.AmbienceManager",
+    "controller": "Warlords.AmbienceManagerController"
+  },
+  "keyboardManager": {
+    "module": "Core.KeyboardManager"
+  },
+  "keyboard": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.Keyboard"
+  },
+  "freeRounds": {
+    "module": "Core.Slots.FreeRounds"
+  },
+  "portraitMessage": {
+    "module": "Core.PortraitMessage"
+  },
+  "introMovie" : {
+    "platforms": ["desktop"],
+    "module": "Warlords.IntroMovie"
+  },
+  "featureSplash" : {
+    "platforms" : ["desktop"],
+    "module" : "Warlords.FeatureSplash"
+  },
+  "resourceLoader" : {
+    "module" : "Core.ResourceLoader",
+    "view" : "Warlords.ResourceLoaderView"
+  },
+  "ticker": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Interface.Ticker",
+    "view": "Interface.TickerMobileView"
+  },
+  "pluginMenu": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "Integration.PluginMenu",
+    "view": {
+      "mobile": "Integration.PluginMenuMobileView",
+      "tablet": "Integration.PluginMenuBaseView"
+    }
+  },
+  "tickerTape": {
+    "platforms": ["desktop"],
+    "module": "Warlords.TickerTape"
+  },
+  "OrientationManager": {
+    "platforms": ["mobile", "mobileLow", "tablet", "tabletLow"],
+    "module": "pixiGenericSlot.OrientationManager"
+  },
+  "countDownFreespins": {
+    "module": "Warlords.CountDownFreespins"
+  },
+  "portraitBackgroundManager": {
+    "module": "Warlords.PortraitBackgroundManager"
+  },
+  "jMXQueueViewer": {
+    "optional": true,
+    "module": "Warlords.JMXQueueViewer",
+    "view": "Warlords.JMXQueueViewerView",
+    "controller": "Warlords.JXMQueueViewerController"
+  },
+  "coinCap": {
+    "module": "Warlords.CoinCap"
+  },
+  "stackedSymbol": {
+    "module": "Warlords.StackedSymbol"
+  },
+  "bonusMessage": {
+    "module": "Core.BonusMessage"
+  }
+}

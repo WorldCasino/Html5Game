@@ -1,0 +1,48 @@
+
+priestess.png
+size: 871,507
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+priestess-assets/fire_fly
+  rotate: false
+  xy: 760, 1
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+priestess-assets/fog_initial_win
+  rotate: false
+  xy: 282, 326
+  size: 320, 180
+  orig: 320, 180
+  offset: 0, 0
+  index: -1
+priestess-assets/jungle_background_C_lights
+  rotate: false
+  xy: 604, 326
+  size: 244, 173
+  orig: 1280, 720
+  offset: 643, 547
+  index: -1
+priestess-assets/jungle_background_L_lights
+  rotate: false
+  xy: 606, 1
+  size: 152, 316
+  orig: 1280, 720
+  offset: 0, 265
+  index: -1
+priestess-assets/jungle_background_R_lights
+  rotate: false
+  xy: 1, 1
+  size: 279, 440
+  orig: 1280, 720
+  offset: 1001, 73
+  index: -1
+priestess-assets/win_glow
+  rotate: false
+  xy: 282, 1
+  size: 322, 323
+  orig: 400, 400
+  offset: 39, 39
+  index: -1

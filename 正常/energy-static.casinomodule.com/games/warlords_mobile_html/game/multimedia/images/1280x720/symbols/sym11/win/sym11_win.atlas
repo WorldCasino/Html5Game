@@ -1,0 +1,74 @@
+sym11_win.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym11_win-assets/bg_sym11
+  rotate: false
+  xy: 2, 172
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym11_win-assets/frame_rim_sym11
+  rotate: false
+  xy: 2, 362
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym11_win-assets/helmet_rim_sym11
+  rotate: false
+  xy: 2, 690
+  size: 163, 122
+  orig: 200, 188
+  offset: 19, 44
+  index: -1
+sym11_win-assets/helmet_sym11
+  rotate: false
+  xy: 2, 552
+  size: 167, 136
+  orig: 200, 188
+  offset: 17, 29
+  index: -1
+sym11_win-assets/null
+  rotate: false
+  xy: 204, 172
+  size: 6, 6
+  orig: 200, 188
+  offset: 98, 145
+  index: -1
+sym11_win-assets/smoke_1
+  rotate: false
+  xy: 2, 2
+  size: 211, 168
+  orig: 300, 300
+  offset: 11, 18
+  index: -1
+sym11_win-assets/smoke_2
+  rotate: true
+  xy: 117, 814
+  size: 118, 97
+  orig: 300, 300
+  offset: 68, 166
+  index: -1
+sym11_win-assets/smoke_3
+  rotate: true
+  xy: 171, 552
+  size: 45, 36
+  orig: 300, 300
+  offset: 187, 196
+  index: -1
+sym11_win-assets/smoke_4
+  rotate: false
+  xy: 2, 814
+  size: 113, 118
+  orig: 300, 300
+  offset: 187, 101
+  index: -1
+sym11_win-assets/smoke_5
+  rotate: false
+  xy: 2, 934
+  size: 67, 63
+  orig: 300, 300
+  offset: 176, 53
+  index: -1

@@ -1,0 +1,475 @@
+
+sym4_win.png
+size: 498,2002
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym4_win-assets/arrow
+  rotate: false
+  xy: 460, 1109
+  size: 31, 50
+  orig: 488, 712
+  offset: 255, 464
+  index: -1
+sym4_win-assets/arrow_1
+  rotate: true
+  xy: 362, 1802
+  size: 45, 108
+  orig: 45, 108
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_1_motion
+  rotate: false
+  xy: 126, 1440
+  size: 52, 115
+  orig: 53, 127
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_1_white
+  rotate: false
+  xy: 473, 520
+  size: 23, 54
+  orig: 23, 54
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_2
+  rotate: true
+  xy: 252, 1345
+  size: 63, 171
+  orig: 63, 171
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_2_motion
+  rotate: false
+  xy: 425, 1345
+  size: 70, 140
+  orig: 70, 156
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_2_white
+  rotate: false
+  xy: 463, 1021
+  size: 32, 86
+  orig: 32, 86
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_3
+  rotate: true
+  xy: 115, 1723
+  size: 79, 111
+  orig: 79, 111
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_3_motion
+  rotate: true
+  xy: 411, 1487
+  size: 64, 86
+  orig: 71, 94
+  offset: 7, 0
+  index: -1
+sym4_win-assets/arrow_3_white
+  rotate: false
+  xy: 455, 1213
+  size: 40, 56
+  orig: 40, 56
+  offset: 0, 0
+  index: -1
+sym4_win-assets/arrow_rim
+  rotate: false
+  xy: 460, 1161
+  size: 31, 50
+  orig: 488, 712
+  offset: 255, 464
+  index: -1
+sym4_win-assets/bg_bottom
+  rotate: false
+  xy: 271, 520
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym4_win-assets/bg_mid
+  rotate: false
+  xy: 265, 710
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym4_win-assets/bg_top
+  rotate: false
+  xy: 261, 900
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym4_win-assets/bowstring
+  rotate: false
+  xy: 1, 1
+  size: 274, 1
+  orig: 274, 1
+  offset: 0, 0
+  index: -1
+sym4_win-assets/claws
+  rotate: true
+  xy: 180, 1262
+  size: 165, 70
+  orig: 200, 188
+  offset: 19, 43
+  index: -1
+sym4_win-assets/cloth_01
+  rotate: false
+  xy: 114, 1917
+  size: 110, 81
+  orig: 400, 764
+  offset: 70, 337
+  index: -1
+sym4_win-assets/cloth_02
+  rotate: false
+  xy: 231, 1719
+  size: 110, 81
+  orig: 400, 764
+  offset: 70, 337
+  index: -1
+sym4_win-assets/cloth_03
+  rotate: true
+  xy: 279, 1802
+  size: 110, 81
+  orig: 400, 764
+  offset: 70, 337
+  index: -1
+sym4_win-assets/cloth_04
+  rotate: false
+  xy: 343, 1719
+  size: 110, 81
+  orig: 400, 764
+  offset: 70, 337
+  index: -1
+sym4_win-assets/cloth_05
+  rotate: false
+  xy: 386, 1553
+  size: 111, 81
+  orig: 400, 764
+  offset: 69, 337
+  index: -1
+sym4_win-assets/cloth_06
+  rotate: false
+  xy: 1, 1918
+  size: 111, 81
+  orig: 400, 764
+  offset: 69, 337
+  index: -1
+sym4_win-assets/cloth_07
+  rotate: false
+  xy: 1, 1721
+  size: 112, 81
+  orig: 400, 764
+  offset: 68, 337
+  index: -1
+sym4_win-assets/cloth_08
+  rotate: false
+  xy: 1, 1555
+  size: 113, 81
+  orig: 400, 764
+  offset: 67, 337
+  index: -1
+sym4_win-assets/cloth_09
+  rotate: false
+  xy: 116, 1557
+  size: 113, 81
+  orig: 400, 764
+  offset: 67, 337
+  index: -1
+sym4_win-assets/cloth_10
+  rotate: false
+  xy: 1, 1638
+  size: 113, 81
+  orig: 400, 764
+  offset: 67, 337
+  index: -1
+sym4_win-assets/cloth_11
+  rotate: false
+  xy: 231, 1636
+  size: 113, 81
+  orig: 400, 764
+  offset: 67, 337
+  index: -1
+sym4_win-assets/cloth_12
+  rotate: false
+  xy: 116, 1640
+  size: 113, 81
+  orig: 400, 764
+  offset: 67, 337
+  index: -1
+sym4_win-assets/cloth_13
+  rotate: false
+  xy: 346, 1636
+  size: 112, 81
+  orig: 400, 764
+  offset: 68, 337
+  index: -1
+sym4_win-assets/cloth_14
+  rotate: true
+  xy: 1, 1804
+  size: 112, 81
+  orig: 400, 764
+  offset: 68, 337
+  index: -1
+sym4_win-assets/cloth_15
+  rotate: true
+  xy: 84, 1804
+  size: 111, 81
+  orig: 400, 764
+  offset: 69, 337
+  index: -1
+sym4_win-assets/fire_fly
+  rotate: false
+  xy: 167, 1804
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+sym4_win-assets/frame_piece
+  rotate: false
+  xy: 258, 1090
+  size: 200, 77
+  orig: 200, 77
+  offset: 0, 0
+  index: -1
+sym4_win-assets/glow
+  rotate: false
+  xy: 1, 1005
+  size: 255, 255
+  orig: 255, 255
+  offset: 0, 0
+  index: -1
+sym4_win-assets/leaf
+  rotate: true
+  xy: 467, 759
+  size: 70, 27
+  orig: 70, 27
+  offset: 0, 0
+  index: -1
+sym4_win-assets/null
+  rotate: false
+  xy: 485, 576
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+sym4_win-assets/panther
+  rotate: false
+  xy: 275, 174
+  size: 221, 212
+  orig: 488, 712
+  offset: 147, 75
+  index: -1
+sym4_win-assets/panther_arm
+  rotate: false
+  xy: 1, 1440
+  size: 123, 113
+  orig: 488, 712
+  offset: 246, 118
+  index: -1
+sym4_win-assets/panther_arm_rim
+  rotate: true
+  xy: 226, 1916
+  size: 85, 102
+  orig: 488, 712
+  offset: 284, 129
+  index: -1
+sym4_win-assets/panther_rim
+  rotate: false
+  xy: 277, 1
+  size: 216, 135
+  orig: 488, 712
+  offset: 151, 149
+  index: -1
+sym4_win-assets/panther_white
+  rotate: false
+  xy: 362, 1849
+  size: 102, 97
+  orig: 200, 382
+  offset: 52, 55
+  index: -1
+sym4_win-assets/priestess_bottom
+  rotate: true
+  xy: 1, 1262
+  size: 176, 177
+  orig: 488, 712
+  offset: 137, 75
+  index: -1
+sym4_win-assets/priestess_bottom_rim
+  rotate: true
+  xy: 463, 900
+  size: 119, 34
+  orig: 488, 712
+  offset: 137, 218
+  index: -1
+sym4_win-assets/priestess_bowarm
+  rotate: false
+  xy: 1, 4
+  size: 272, 204
+  orig: 488, 712
+  offset: 110, 384
+  index: -1
+sym4_win-assets/priestess_bowarm_bottom
+  rotate: true
+  xy: 180, 1429
+  size: 115, 70
+  orig: 488, 712
+  offset: 110, 384
+  index: -1
+sym4_win-assets/priestess_bowarm_rim
+  rotate: false
+  xy: 1, 210
+  size: 269, 204
+  orig: 488, 712
+  offset: 110, 384
+  index: -1
+sym4_win-assets/priestess_mid_rim
+  rotate: false
+  xy: 1, 813
+  size: 258, 190
+  orig: 488, 712
+  offset: 84, 250
+  index: -1
+sym4_win-assets/priestess_middle
+  rotate: false
+  xy: 1, 621
+  size: 262, 190
+  orig: 488, 712
+  offset: 84, 250
+  index: -1
+sym4_win-assets/priestess_middle_white
+  rotate: false
+  xy: 252, 1528
+  size: 132, 106
+  orig: 200, 382
+  offset: 34, 143
+  index: -1
+sym4_win-assets/priestess_top
+  rotate: false
+  xy: 1, 416
+  size: 268, 203
+  orig: 488, 712
+  offset: 114, 438
+  index: -1
+sym4_win-assets/priestess_top_rim
+  rotate: true
+  xy: 258, 1169
+  size: 174, 195
+  orig: 488, 712
+  offset: 136, 438
+  index: -1
+sym4_win-assets/priestess_top_white
+  rotate: false
+  xy: 252, 1410
+  size: 157, 116
+  orig: 200, 382
+  offset: 34, 223
+  index: -1
+sym4_win-assets/swipe
+  rotate: true
+  xy: 473, 576
+  size: 181, 10
+  orig: 200, 10
+  offset: 10, 0
+  index: -1
+sym4_win-assets/swipe_01
+  rotate: false
+  xy: 275, 138
+  size: 222, 10
+  orig: 250, 60
+  offset: 13, 25
+  index: -1
+sym4_win-assets/swipe_02
+  rotate: false
+  xy: 272, 388
+  size: 225, 10
+  orig: 250, 60
+  offset: 12, 25
+  index: -1
+sym4_win-assets/swipe_03
+  rotate: false
+  xy: 272, 400
+  size: 225, 10
+  orig: 250, 60
+  offset: 13, 25
+  index: -1
+sym4_win-assets/swipe_04
+  rotate: false
+  xy: 272, 412
+  size: 225, 10
+  orig: 250, 60
+  offset: 13, 25
+  index: -1
+sym4_win-assets/swipe_05
+  rotate: false
+  xy: 271, 424
+  size: 226, 10
+  orig: 250, 60
+  offset: 12, 25
+  index: -1
+sym4_win-assets/swipe_06
+  rotate: false
+  xy: 271, 436
+  size: 226, 10
+  orig: 250, 60
+  offset: 13, 25
+  index: -1
+sym4_win-assets/swipe_07
+  rotate: false
+  xy: 271, 448
+  size: 225, 10
+  orig: 250, 60
+  offset: 14, 25
+  index: -1
+sym4_win-assets/swipe_08
+  rotate: false
+  xy: 271, 460
+  size: 224, 10
+  orig: 250, 60
+  offset: 14, 25
+  index: -1
+sym4_win-assets/swipe_09
+  rotate: false
+  xy: 271, 472
+  size: 223, 10
+  orig: 250, 60
+  offset: 14, 25
+  index: -1
+sym4_win-assets/swipe_10
+  rotate: false
+  xy: 271, 484
+  size: 223, 10
+  orig: 250, 60
+  offset: 14, 25
+  index: -1
+sym4_win-assets/swipe_11
+  rotate: false
+  xy: 271, 496
+  size: 221, 10
+  orig: 250, 60
+  offset: 15, 25
+  index: -1
+sym4_win-assets/swipe_12
+  rotate: false
+  xy: 275, 150
+  size: 222, 10
+  orig: 250, 60
+  offset: 15, 25
+  index: -1
+sym4_win-assets/swipe_13
+  rotate: false
+  xy: 271, 508
+  size: 221, 10
+  orig: 250, 60
+  offset: 16, 25
+  index: -1
+sym4_win-assets/swipe_14
+  rotate: false
+  xy: 275, 162
+  size: 222, 10
+  orig: 250, 60
+  offset: 16, 25
+  index: -1

@@ -1,0 +1,83 @@
+
+sym7_win.png
+size: 938,190
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym7_win-assets/bg
+  rotate: true
+  xy: 677, 86
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+sym7_win-assets/claws
+  rotate: true
+  xy: 605, 1
+  size: 165, 70
+  orig: 200, 188
+  offset: 19, 43
+  index: -1
+sym7_win-assets/eye_glow
+  rotate: false
+  xy: 878, 46
+  size: 47, 38
+  orig: 65, 50
+  offset: 9, 6
+  index: -1
+sym7_win-assets/frame
+  rotate: false
+  xy: 1, 1
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym7_win-assets/gums
+  rotate: false
+  xy: 677, 1
+  size: 199, 74
+  orig: 210, 90
+  offset: 5, 7
+  index: -1
+sym7_win-assets/jaw
+  rotate: true
+  xy: 768, 86
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+sym7_win-assets/jaw_bottom
+  rotate: false
+  xy: 605, 168
+  size: 54, 15
+  orig: 54, 15
+  offset: 0, 0
+  index: -1
+sym7_win-assets/nose
+  rotate: false
+  xy: 878, 1
+  size: 59, 43
+  orig: 59, 43
+  offset: 0, 0
+  index: -1
+sym7_win-assets/panther_bg
+  rotate: false
+  xy: 405, 1
+  size: 198, 186
+  orig: 198, 186
+  offset: 0, 0
+  index: -1
+sym7_win-assets/rim
+  rotate: false
+  xy: 203, 1
+  size: 200, 186
+  orig: 200, 186
+  offset: 0, 0
+  index: -1
+sym7_win-assets/wrinkles
+  rotate: false
+  xy: 854, 86
+  size: 80, 62
+  orig: 85, 72
+  offset: 0, 0
+  index: -1

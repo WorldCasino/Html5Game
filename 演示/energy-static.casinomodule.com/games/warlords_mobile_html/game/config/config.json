@@ -1,0 +1,1493 @@
+{
+  "desktopResourceToVirtualScale": 1,
+  "mobileResourceToVirtualScale": 1,
+  "reelGroups": {
+    "default": {
+      "numberOfReels": 5,
+      "reelLayout": {
+        "0": {"left": 140},
+        "1": {"left": 340},
+        "2": {"left": 540},
+        "3": {"left": 740},
+        "4": {"left": 940},
+        "standard": {
+          "top": 36,
+          "symbolWidths":  {"standard": 200},
+          "symbolHeights": {"standard": 188},
+          "blurredSymbolWidths":  {"standard": 200},
+          "blurredSymbolHeights": {"standard": 212},
+          "depthDistribution": {
+            "type": "increasing",
+            "step": 1
+          },
+          "baseDepth": 0,
+          "symbolSpecificDepthModifiers": {},
+          "symbolCenterToCenter": 188,
+          "visibleLength": 556,
+          "reelMaskXOffset": 4,
+          "reelMaskYOffset": 4,
+          "timeToMoveOneSlot": 50,
+          "startBounceSupportPointOffset": -152,
+          "endBounceSupportPointOffsets": [40],
+          "endBounceDurations": [200],
+          "numberOfOutcomeSymbols": 3,
+          "outcomeOffset": 0
+        }
+      },
+      "fillers": [
+        "Warlords.StackedOutcomeFiller",
+        "Warlords.StackedFakeReelFiller"
+      ],
+      "reelSets": [
+        "basic",
+        "randomWild",
+        "respin_SYM13",
+        "respin_SYM14",
+        "respin_SYM15",
+        "freespin",
+        "freespin_SYM13",
+        "freespin_SYM14",
+        "freespin_SYM15"
+      ],
+      "spinTimes" : {
+        "standard" : {
+          "nearWinDelay" : 2000,
+          "nearWinDelayExtra": 4000,
+          "minimumSpinTime" : 400,
+          "reelStopDelays" : [0,300,600,800,900]
+        },
+        "quickSpin" : {
+          "nearWinDelay" : 1000,
+          "nearWinDelayExtra": 2000,
+          "minimumSpinTime" : 200,
+          "reelStopDelays" : [0,30,60,90, 120]
+        }
+      }
+    }
+  },
+  "reelSets": {
+    "basic": {
+      "fakeReels": [
+        [
+          "SYM6","SYM7","SYM9","SYM11","SYM10","SYM6","SYM7","SYM1","SYM4","SYM4",
+          "SYM4","SYM9","SYM8","SYM11","SYM7","SYM9","SYM5","SYM5","SYM5","SYM11",
+          "SYM8","SYM10","SYM11","SYM7","SYM9","SYM8","SYM5","SYM5","SYM5","SYM11",
+          "SYM9","SYM6","SYM3","SYM3","SYM3","SYM8","SYM1","SYM9","SYM7","SYM8",
+          "SYM5","SYM5","SYM5","SYM11","SYM6","SYM9","SYM7","SYM11","SYM10","SYM9",
+          "SYM6","SYM10","SYM7","SYM4","SYM4","SYM4","SYM7","SYM11","SYM8","SYM7",
+          "SYM9","SYM11","SYM1","SYM9","SYM11","SYM7","SYM6","SYM11","SYM8","SYM6",
+          "SYM9","SYM7","SYM10","SYM11","SYM9","SYM6","SYM8","SYM7","SYM10","SYM11",
+          "SYM4","SYM4","SYM4","SYM8","SYM11","SYM9","SYM7","SYM11","SYM4","SYM4",
+          "SYM4","SYM7","SYM11","SYM8","SYM6","SYM10","SYM11","SYM7","SYM6","SYM3",
+          "SYM3","SYM3","SYM9","SYM10","SYM11","SYM8","SYM9","SYM7","SYM8","SYM9",
+          "SYM11","SYM1","SYM7","SYM11","SYM6","SYM8","SYM1","SYM5","SYM5","SYM5",
+          "SYM11","SYM8","SYM10","SYM9","SYM7","SYM1","SYM8","SYM11","SYM7","SYM10",
+          "SYM6","SYM9","SYM8","SYM11","SYM4","SYM4","SYM4","SYM9","SYM7","SYM11",
+          "SYM8","SYM5","SYM5","SYM5","SYM6","SYM11","SYM1","SYM9","SYM8","SYM3",
+          "SYM3","SYM3","SYM11","SYM10","SYM7","SYM6","SYM5","SYM5","SYM5","SYM9",
+          "SYM8","SYM11","SYM7","SYM9","SYM10","SYM7","SYM5","SYM5","SYM5","SYM7",
+          "SYM8","SYM9","SYM7","SYM11","SYM3","SYM3","SYM3","SYM7","SYM11","SYM8",
+          "SYM7","SYM11","SYM10","SYM4","SYM4","SYM4","SYM9","SYM11","SYM1","SYM8",
+          "SYM6","SYM11","SYM7","SYM8","SYM11","SYM9","SYM8","SYM3","SYM3","SYM3",
+          "SYM11","SYM7","SYM8","SYM4","SYM4","SYM4","SYM1","SYM11","SYM6","SYM8",
+          "SYM7","SYM11","SYM10","SYM6","SYM8","SYM7","SYM11","SYM4","SYM4","SYM4",
+          "SYM7","SYM6","SYM11","SYM7","SYM8","SYM11","SYM7","SYM9","SYM8","SYM7",
+          "SYM11","SYM8","SYM9","SYM5","SYM5","SYM5","SYM8","SYM7","SYM11","SYM9",
+          "SYM7","SYM1","SYM11","SYM7","SYM8","SYM11"
+        ],
+        [
+          "SYM10","SYM6","SYM9","SYM10","SYM11","SYM7","SYM9","SYM6","SYM8","SYM3",
+          "SYM3","SYM3","SYM1","SYM6","SYM9","SYM8","SYM7","SYM6","SYM9","SYM4",
+          "SYM4","SYM4","SYM10","SYM6","SYM7","SYM9","SYM6","SYM7","SYM5","SYM5",
+          "SYM5","SYM9","SYM7","SYM8","SYM11","SYM6","SYM5","SYM5","SYM5","SYM7",
+          "SYM9","SYM1","SYM6","SYM9","SYM7","SYM3","SYM3","SYM3","SYM10","SYM9",
+          "SYM6","SYM10","SYM7","SYM1","SYM6","SYM9","SYM11","SYM6","SYM7","SYM9",
+          "SYM8","SYM6","SYM9","SYM11","SYM10","SYM8","SYM4","SYM4","SYM4","SYM7",
+          "SYM9","SYM6","SYM8","SYM10","SYM7","SYM6","SYM5","SYM5","SYM5","SYM7",
+          "SYM6","SYM8","SYM9","SYM3","SYM3","SYM3","SYM10","SYM15","SYM11","SYM5",
+          "SYM5","SYM5","SYM7","SYM6","SYM9","SYM7","SYM11","SYM6","SYM4","SYM4",
+          "SYM4","SYM6","SYM1","SYM9","SYM7","SYM6","SYM3","SYM3","SYM3","SYM6",
+          "SYM7","SYM9","SYM3","SYM3","SYM3","SYM6","SYM9","SYM7","SYM6","SYM9",
+          "SYM8","SYM14","SYM11","SYM6","SYM9","SYM10","SYM3","SYM3","SYM3","SYM7",
+          "SYM6","SYM9","SYM7","SYM6","SYM5","SYM5","SYM5","SYM9","SYM10","SYM8",
+          "SYM9","SYM7","SYM6","SYM4","SYM4","SYM4","SYM9","SYM7","SYM6","SYM13",
+          "SYM9","SYM7","SYM11","SYM9","SYM6","SYM5","SYM5","SYM5","SYM7","SYM6",
+          "SYM9","SYM11","SYM6","SYM8","SYM3","SYM3","SYM3","SYM6","SYM11","SYM9",
+          "SYM7","SYM6","SYM9","SYM7","SYM8","SYM1","SYM7","SYM9","SYM11","SYM8",
+          "SYM6","SYM7","SYM5","SYM5","SYM5","SYM8","SYM9","SYM6","SYM4","SYM4",
+          "SYM4","SYM8","SYM11","SYM7","SYM14","SYM10","SYM6","SYM9","SYM7","SYM5",
+          "SYM5","SYM5","SYM6","SYM9","SYM1","SYM6","SYM9","SYM8","SYM3","SYM3",
+          "SYM3","SYM9","SYM7","SYM6","SYM3","SYM3","SYM3","SYM7","SYM9","SYM6",
+          "SYM3","SYM3","SYM3","SYM7","SYM1","SYM3","SYM3","SYM3","SYM7","SYM9",
+          "SYM6","SYM7","SYM9","SYM4","SYM4","SYM4","SYM8","SYM13","SYM6","SYM9",
+          "SYM7","SYM8","SYM4","SYM4","SYM4","SYM8","SYM9","SYM7","SYM4","SYM4",
+          "SYM4","SYM6","SYM11","SYM9","SYM1","SYM3","SYM3","SYM3","SYM9","SYM7",
+          "SYM6","SYM10","SYM9","SYM6","SYM5","SYM5","SYM5","SYM7","SYM9","SYM6",
+          "SYM11","SYM8","SYM7","SYM3","SYM3","SYM3","SYM9","SYM1","SYM7","SYM6",
+          "SYM8","SYM4","SYM4","SYM4","SYM1","SYM7","SYM9","SYM10","SYM6","SYM4",
+          "SYM4","SYM4","SYM11","SYM13","SYM9","SYM7"
+        ],
+        [
+          "SYM6","SYM8","SYM10","SYM1","SYM11","SYM7","SYM10","SYM8","SYM5","SYM5",
+          "SYM5","SYM6","SYM9","SYM8","SYM10","SYM4","SYM4","SYM4","SYM7","SYM10",
+          "SYM5","SYM5","SYM5","SYM6","SYM10","SYM8","SYM11","SYM3","SYM3","SYM3",
+          "SYM7","SYM6","SYM11","SYM10","SYM4","SYM4","SYM4","SYM10","SYM11","SYM8",
+          "SYM9","SYM7","SYM5","SYM5","SYM5","SYM10","SYM8","SYM1","SYM5","SYM5",
+          "SYM5","SYM6","SYM10","SYM8","SYM11","SYM10","SYM9","SYM15","SYM10","SYM6",
+          "SYM8","SYM7","SYM11","SYM8","SYM10","SYM6","SYM8","SYM10","SYM6","SYM1",
+          "SYM10","SYM11","SYM8","SYM7","SYM6","SYM9","SYM11","SYM6","SYM10","SYM8",
+          "SYM7","SYM11","SYM10","SYM6","SYM8","SYM9","SYM7","SYM10","SYM15","SYM8",
+          "SYM6","SYM10","SYM8","SYM11","SYM10","SYM6","SYM8","SYM7","SYM11","SYM1",
+          "SYM6","SYM11","SYM4","SYM4","SYM4","SYM6","SYM8","SYM10","SYM11","SYM7",
+          "SYM8","SYM10","SYM6","SYM7","SYM11","SYM8","SYM7","SYM5","SYM5","SYM5",
+          "SYM11","SYM10","SYM1","SYM4","SYM4","SYM4","SYM8","SYM6","SYM7","SYM10",
+          "SYM3","SYM3","SYM3","SYM11","SYM6","SYM10","SYM9","SYM11","SYM10","SYM3",
+          "SYM3","SYM3","SYM10","SYM6","SYM11","SYM8","SYM10","SYM11","SYM1","SYM8",
+          "SYM6","SYM10","SYM4","SYM4","SYM4","SYM10","SYM11","SYM6","SYM8","SYM10",
+          "SYM7","SYM1","SYM6","SYM8","SYM4","SYM4","SYM4","SYM10","SYM6","SYM7",
+          "SYM11","SYM8","SYM10","SYM6","SYM11","SYM9","SYM1","SYM5","SYM5","SYM5",
+          "SYM8","SYM11","SYM10","SYM6","SYM8","SYM11","SYM10","SYM8","SYM1","SYM7",
+          "SYM10","SYM5","SYM5","SYM5","SYM11","SYM8","SYM10","SYM6","SYM9","SYM10",
+          "SYM4","SYM4","SYM4","SYM6","SYM8","SYM10","SYM7","SYM3","SYM3","SYM3",
+          "SYM9","SYM10","SYM11","SYM8","SYM10","SYM6","SYM11","SYM3","SYM3","SYM3",
+          "SYM9","SYM6","SYM10","SYM8","SYM11","SYM10","SYM7","SYM6","SYM4","SYM4",
+          "SYM4","SYM11","SYM7","SYM10","SYM8","SYM6","SYM10","SYM8","SYM6","SYM10",
+          "SYM14","SYM11","SYM10","SYM9","SYM4","SYM4","SYM4","SYM10","SYM6","SYM11",
+          "SYM8","SYM10","SYM6","SYM7","SYM8","SYM11","SYM10","SYM6","SYM9","SYM7",
+          "SYM8","SYM6","SYM10","SYM1","SYM8","SYM11","SYM10","SYM7","SYM8","SYM6",
+          "SYM10","SYM11","SYM4","SYM4","SYM4","SYM10","SYM6","SYM9","SYM8","SYM10",
+          "SYM5","SYM5","SYM5","SYM10","SYM11","SYM8","SYM5","SYM5","SYM5","SYM8",
+          "SYM9","SYM10","SYM6","SYM13","SYM10","SYM9","SYM5","SYM5","SYM5","SYM8",
+          "SYM10","SYM11","SYM6","SYM10","SYM1","SYM8","SYM5","SYM5","SYM5","SYM8",
+          "SYM10","SYM13","SYM6","SYM9","SYM11","SYM10","SYM6","SYM8","SYM10","SYM5",
+          "SYM5","SYM5","SYM9","SYM10","SYM8","SYM9","SYM1","SYM10","SYM7","SYM6",
+          "SYM8","SYM5","SYM5","SYM5","SYM7","SYM10","SYM11","SYM9","SYM10","SYM8",
+          "SYM14","SYM7","SYM6","SYM9","SYM10","SYM8","SYM3","SYM3","SYM3","SYM8",
+          "SYM10"
+        ],
+        [
+          "SYM11","SYM8","SYM4","SYM4","SYM4","SYM8","SYM11","SYM9","SYM1","SYM6",
+          "SYM4","SYM4","SYM4","SYM7","SYM9","SYM11","SYM10","SYM8","SYM7","SYM1",
+          "SYM11","SYM5","SYM5","SYM5","SYM9","SYM8","SYM6","SYM7","SYM9","SYM6",
+          "SYM7","SYM4","SYM4","SYM4","SYM6","SYM9","SYM7","SYM11","SYM10","SYM13",
+          "SYM11","SYM5","SYM5","SYM5","SYM8","SYM11","SYM7","SYM9","SYM8","SYM6",
+          "SYM11","SYM8","SYM10","SYM6","SYM7","SYM1","SYM11","SYM6","SYM8","SYM11",
+          "SYM6","SYM9","SYM10","SYM6","SYM7","SYM9","SYM1","SYM6","SYM7","SYM8",
+          "SYM11","SYM6","SYM7","SYM10","SYM9","SYM1","SYM10","SYM8","SYM9","SYM7",
+          "SYM11","SYM10","SYM9","SYM8","SYM11","SYM10","SYM13","SYM9","SYM11","SYM10",
+          "SYM6","SYM11","SYM9","SYM5","SYM5","SYM5","SYM6","SYM1","SYM9","SYM10",
+          "SYM11","SYM7","SYM8","SYM9","SYM11","SYM8","SYM9","SYM3","SYM3","SYM3",
+          "SYM10","SYM9","SYM1","SYM6","SYM8","SYM11","SYM10","SYM5","SYM5","SYM5",
+          "SYM9","SYM11","SYM8","SYM7","SYM10","SYM9","SYM11","SYM1","SYM7","SYM9",
+          "SYM8","SYM11","SYM10","SYM6","SYM9","SYM8","SYM10","SYM14","SYM11","SYM9",
+          "SYM10","SYM7","SYM5","SYM5","SYM5","SYM9","SYM11","SYM6","SYM3","SYM3",
+          "SYM3","SYM1","SYM8","SYM11","SYM10","SYM6","SYM7","SYM3","SYM3","SYM3",
+          "SYM9","SYM13","SYM8","SYM10","SYM11","SYM8","SYM9","SYM10","SYM1","SYM9",
+          "SYM11","SYM7","SYM9","SYM8","SYM10","SYM11","SYM6","SYM10","SYM8","SYM7",
+          "SYM10","SYM11","SYM7","SYM4","SYM4","SYM4","SYM7","SYM9","SYM14","SYM5",
+          "SYM5","SYM5","SYM7","SYM11","SYM10","SYM5","SYM5","SYM5","SYM9","SYM7",
+          "SYM6","SYM9","SYM7","SYM10","SYM11","SYM8","SYM9","SYM6","SYM14","SYM11",
+          "SYM8","SYM6","SYM10","SYM9","SYM3","SYM3","SYM3","SYM8","SYM7","SYM4",
+          "SYM4","SYM4","SYM9","SYM10","SYM8","SYM11","SYM6","SYM7","SYM15","SYM6",
+          "SYM10","SYM9","SYM11","SYM8","SYM6","SYM11","SYM10","SYM6","SYM8","SYM3",
+          "SYM3","SYM3","SYM9","SYM7","SYM10","SYM1","SYM7","SYM4","SYM4","SYM4",
+          "SYM11","SYM10","SYM6","SYM9","SYM8","SYM7","SYM10","SYM8","SYM6","SYM11",
+          "SYM5","SYM5","SYM5","SYM10","SYM6","SYM11","SYM1","SYM7","SYM10","SYM8",
+          "SYM9","SYM11","SYM10","SYM7","SYM8","SYM1","SYM6","SYM9","SYM8","SYM6",
+          "SYM10","SYM11","SYM8","SYM9","SYM11","SYM8","SYM1","SYM6","SYM10","SYM11",
+          "SYM8","SYM9","SYM7","SYM8","SYM10","SYM9","SYM5","SYM5","SYM5","SYM10",
+          "SYM11","SYM7","SYM6","SYM9","SYM10","SYM4","SYM4","SYM4","SYM6","SYM9",
+          "SYM7","SYM10","SYM11","SYM8","SYM15","SYM4","SYM4","SYM4","SYM9","SYM7",
+          "SYM6","SYM11","SYM9","SYM8","SYM7","SYM11","SYM10","SYM9","SYM8","SYM4",
+          "SYM4","SYM4","SYM8","SYM9","SYM7","SYM11","SYM1","SYM8","SYM7","SYM4",
+          "SYM4","SYM4","SYM10","SYM1","SYM11","SYM9","SYM7","SYM6","SYM11","SYM10",
+          "SYM7","SYM6","SYM9","SYM11","SYM8","SYM9","SYM10","SYM11","SYM7","SYM10"
+        ],
+        [
+          "SYM6","SYM3","SYM3","SYM3","SYM7","SYM11","SYM6","SYM5","SYM5","SYM5",
+          "SYM1","SYM10","SYM3","SYM3","SYM3","SYM7","SYM6","SYM10","SYM4","SYM4",
+          "SYM4","SYM1","SYM8","SYM9","SYM7","SYM10","SYM11","SYM9","SYM8","SYM11",
+          "SYM4","SYM4","SYM4","SYM10","SYM11","SYM9","SYM7","SYM10","SYM8","SYM7",
+          "SYM10","SYM9","SYM8","SYM11","SYM6","SYM1","SYM10","SYM7","SYM3","SYM3",
+          "SYM3","SYM9","SYM8","SYM6","SYM10","SYM3","SYM3","SYM3","SYM6","SYM8",
+          "SYM11","SYM10","SYM3","SYM3","SYM3","SYM7","SYM8","SYM11","SYM6","SYM10",
+          "SYM8","SYM9","SYM5","SYM5","SYM5","SYM7","SYM6","SYM8","SYM11","SYM10",
+          "SYM3","SYM3","SYM3","SYM11","SYM9","SYM10","SYM1","SYM7","SYM10","SYM11",
+          "SYM6","SYM10","SYM8","SYM1","SYM7","SYM10","SYM11","SYM6","SYM7","SYM4",
+          "SYM4","SYM4","SYM10","SYM8","SYM7","SYM9","SYM8","SYM11","SYM6","SYM10",
+          "SYM7","SYM1","SYM6","SYM11","SYM8","SYM10","SYM1","SYM8","SYM10","SYM6",
+          "SYM11","SYM3","SYM3","SYM3","SYM7","SYM1","SYM10","SYM9","SYM7","SYM11",
+          "SYM10","SYM5","SYM5","SYM5","SYM1","SYM7","SYM6","SYM4","SYM4","SYM4",
+          "SYM9","SYM10","SYM7","SYM8","SYM10","SYM9","SYM11","SYM6","SYM8","SYM1",
+          "SYM7","SYM10","SYM11","SYM9","SYM10","SYM4","SYM4","SYM4","SYM11","SYM9",
+          "SYM7","SYM6","SYM11","SYM5","SYM5","SYM5","SYM7","SYM10","SYM9","SYM5",
+          "SYM5","SYM5","SYM7","SYM8","SYM11","SYM7","SYM1","SYM4","SYM4","SYM4",
+          "SYM11","SYM6","SYM9","SYM11","SYM8","SYM4","SYM4","SYM4","SYM10","SYM7",
+          "SYM9","SYM11","SYM6","SYM10","SYM8","SYM1","SYM9","SYM6","SYM11","SYM7",
+          "SYM10","SYM8","SYM9","SYM5","SYM5","SYM5","SYM10","SYM11","SYM7","SYM9",
+          "SYM1","SYM5","SYM5","SYM5","SYM8","SYM7","SYM5","SYM5","SYM5","SYM7",
+          "SYM6","SYM10","SYM3","SYM3","SYM3","SYM1","SYM9","SYM7","SYM10","SYM6",
+          "SYM11","SYM3","SYM3","SYM3","SYM7","SYM10","SYM9","SYM6","SYM10","SYM7",
+          "SYM5","SYM5","SYM5","SYM10","SYM6","SYM11","SYM1","SYM8","SYM5","SYM5",
+          "SYM5","SYM11","SYM8","SYM7","SYM6","SYM10","SYM4","SYM4","SYM4","SYM10",
+          "SYM11","SYM6","SYM4","SYM4","SYM4","SYM9","SYM11","SYM10","SYM6","SYM7",
+          "SYM1","SYM8"
+        ]
+      ],
+      "initial": {
+        "symbols": [
+          ["SYM3", "SYM3", "SYM3"],
+          ["SYM9", "SYM1", "SYM8"],
+          ["SYM4", "SYM4", "SYM4"],
+          ["SYM13", "SYM8", "SYM10"],
+          ["SYM5", "SYM5", "SYM5"]
+        ]
+      },
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM9",
+            "SYM8",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM4",
+            "SYM4",
+            "SYM4"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM8",
+            "SYM1",
+            "SYM10"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM5",
+            "SYM5",
+            "SYM5"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "randomWild": {
+      "fakeReels": [
+        [
+          "SYM11","SYM10","SYM6","SYM7","SYM8","SYM11","SYM6","SYM9","SYM8","SYM7",
+          "SYM11","SYM5","SYM5","SYM5","SYM8","SYM7","SYM3","SYM3","SYM3","SYM10",
+          "SYM8","SYM5","SYM5","SYM5","SYM7","SYM11","SYM8","SYM5","SYM5","SYM5",
+          "SYM8","SYM11","SYM6","SYM4","SYM4","SYM4","SYM11","SYM9","SYM6","SYM10",
+          "SYM11","SYM9","SYM10","SYM11","SYM7","SYM4","SYM4","SYM4","SYM7","SYM8",
+          "SYM9","SYM11","SYM6","SYM9","SYM7","SYM11","SYM5","SYM5","SYM5","SYM11",
+          "SYM7","SYM9","SYM11","SYM8","SYM4","SYM4","SYM4","SYM8","SYM11","SYM9",
+          "SYM7","SYM11","SYM5","SYM5","SYM5","SYM11","SYM8","SYM7","SYM9","SYM8",
+          "SYM11","SYM4","SYM4","SYM4","SYM7","SYM11","SYM9","SYM6","SYM10","SYM11",
+          "SYM8","SYM9","SYM11","SYM7","SYM6","SYM8","SYM9","SYM11","SYM7","SYM6",
+          "SYM8","SYM11","SYM7","SYM6","SYM5","SYM5","SYM5","SYM9","SYM11","SYM7",
+          "SYM9","SYM10","SYM11","SYM8","SYM6","SYM11","SYM8","SYM9","SYM6","SYM7",
+          "SYM11","SYM8","SYM5","SYM5","SYM5","SYM9","SYM7","SYM8","SYM10","SYM11",
+          "SYM8","SYM7","SYM11","SYM9","SYM8","SYM6","SYM11","SYM8","SYM3","SYM3",
+          "SYM3","SYM7","SYM11","SYM9","SYM1","SYM11","SYM8","SYM3","SYM3","SYM3",
+          "SYM9","SYM7","SYM8","SYM6","SYM11","SYM9","SYM7","SYM4","SYM4","SYM4",
+          "SYM11","SYM9","SYM8","SYM7","SYM11","SYM8","SYM6","SYM7","SYM9","SYM11",
+          "SYM7","SYM10","SYM4","SYM4","SYM4","SYM8","SYM11","SYM9","SYM7","SYM8",
+          "SYM9","SYM11","SYM10","SYM9","SYM11","SYM8","SYM7","SYM6","SYM11","SYM10",
+          "SYM7","SYM9","SYM11","SYM6","SYM9","SYM7","SYM11","SYM1","SYM8","SYM7",
+          "SYM9","SYM11","SYM4","SYM4","SYM4","SYM7","SYM10","SYM8","SYM7","SYM6",
+          "SYM11","SYM7","SYM6","SYM9","SYM10","SYM8","SYM11","SYM7","SYM8"
+        ],
+        [
+          "SYM6","SYM9","SYM7","SYM10","SYM8","SYM6","SYM9","SYM7","SYM8","SYM5",
+          "SYM5","SYM5","SYM7","SYM9","SYM6","SYM7","SYM5","SYM5","SYM5","SYM9",
+          "SYM8","SYM6","SYM7","SYM9","SYM10","SYM11","SYM7","SYM6","SYM3","SYM3",
+          "SYM3","SYM7","SYM9","SYM6","SYM8","SYM7","SYM9","SYM6","SYM4","SYM4",
+          "SYM4","SYM6","SYM7","SYM9","SYM5","SYM5","SYM5","SYM9","SYM7","SYM6",
+          "SYM9","SYM3","SYM3","SYM3","SYM9","SYM7","SYM6","SYM11","SYM9","SYM6",
+          "SYM7","SYM9","SYM8","SYM6","SYM9","SYM11","SYM7","SYM9","SYM1","SYM6",
+          "SYM4","SYM4","SYM4","SYM6","SYM8","SYM9","SYM7","SYM6","SYM8","SYM9",
+          "SYM7","SYM6","SYM9","SYM7","SYM10","SYM6","SYM9","SYM3","SYM3","SYM3",
+          "SYM8","SYM6","SYM7","SYM9","SYM6","SYM3","SYM3","SYM3","SYM9","SYM11",
+          "SYM6","SYM7","SYM5","SYM5","SYM5","SYM9","SYM6","SYM7","SYM8","SYM9",
+          "SYM11","SYM7","SYM6","SYM9","SYM5","SYM5","SYM5","SYM9","SYM7","SYM11",
+          "SYM6","SYM9","SYM7","SYM10","SYM6","SYM9","SYM8","SYM6","SYM3","SYM3",
+          "SYM3","SYM6","SYM9","SYM10","SYM6","SYM8","SYM7","SYM10","SYM9","SYM6",
+          "SYM5","SYM5","SYM5","SYM7","SYM6","SYM9","SYM8","SYM6","SYM7","SYM9",
+          "SYM5","SYM5","SYM5","SYM7","SYM6","SYM9","SYM11","SYM10","SYM6","SYM7",
+          "SYM9","SYM4","SYM4","SYM4","SYM11","SYM6","SYM9","SYM7","SYM8","SYM6",
+          "SYM9","SYM7","SYM6","SYM10","SYM9","SYM7","SYM6","SYM8","SYM10","SYM6",
+          "SYM7","SYM4","SYM4","SYM4","SYM6","SYM8","SYM7","SYM9","SYM6","SYM11",
+          "SYM7","SYM6","SYM9","SYM7","SYM6","SYM11","SYM8","SYM4","SYM4","SYM4",
+          "SYM10","SYM6","SYM7","SYM9","SYM8","SYM7","SYM6","SYM3","SYM3","SYM3",
+          "SYM9","SYM1","SYM8","SYM6","SYM9","SYM7","SYM8","SYM6","SYM7","SYM9",
+          "SYM6","SYM7","SYM4","SYM4","SYM4","SYM9","SYM6","SYM7","SYM9","SYM8"
+        ],
+        [
+          "SYM10","SYM11","SYM8","SYM7","SYM6","SYM10","SYM7","SYM8","SYM6","SYM10",
+          "SYM4","SYM4","SYM4","SYM6","SYM11","SYM10","SYM6","SYM8","SYM11","SYM10",
+          "SYM6","SYM9","SYM11","SYM10","SYM8","SYM5","SYM5","SYM5","SYM10","SYM8",
+          "SYM6","SYM10","SYM9","SYM6","SYM8","SYM11","SYM10","SYM6","SYM7","SYM11",
+          "SYM10","SYM3","SYM3","SYM3","SYM8","SYM10","SYM11","SYM6","SYM8","SYM3",
+          "SYM3","SYM3","SYM10","SYM6","SYM7","SYM11","SYM9","SYM8","SYM4","SYM4",
+          "SYM4","SYM10","SYM11","SYM6","SYM3","SYM3","SYM3","SYM10","SYM8","SYM7",
+          "SYM10","SYM11","SYM4","SYM4","SYM4","SYM10","SYM11","SYM8","SYM9","SYM10",
+          "SYM6","SYM11","SYM8","SYM6","SYM10","SYM1","SYM8","SYM10","SYM11","SYM6",
+          "SYM4","SYM4","SYM4","SYM10","SYM8","SYM6","SYM7","SYM11","SYM9","SYM6",
+          "SYM4","SYM4","SYM4","SYM8","SYM10","SYM11","SYM7","SYM10","SYM6","SYM8",
+          "SYM11","SYM10","SYM6","SYM7","SYM10","SYM8","SYM6","SYM10","SYM5","SYM5",
+          "SYM5","SYM10","SYM7","SYM8","SYM10","SYM5","SYM5","SYM5","SYM10","SYM11",
+          "SYM8","SYM6","SYM10","SYM8","SYM11","SYM10","SYM4","SYM4","SYM4","SYM6",
+          "SYM8","SYM10","SYM11","SYM4","SYM4","SYM4","SYM7","SYM10","SYM6","SYM7",
+          "SYM10","SYM11","SYM8","SYM10","SYM6","SYM7","SYM8","SYM10","SYM6","SYM5",
+          "SYM5","SYM5","SYM10","SYM8","SYM11","SYM10","SYM8","SYM5","SYM5","SYM5",
+          "SYM10","SYM6","SYM8","SYM10","SYM3","SYM3","SYM3","SYM10","SYM8","SYM6",
+          "SYM10","SYM8","SYM11","SYM9","SYM8","SYM6","SYM10","SYM11","SYM8","SYM6",
+          "SYM10","SYM3","SYM3","SYM3","SYM10","SYM7","SYM11","SYM8","SYM6","SYM10",
+          "SYM11","SYM5","SYM5","SYM5","SYM11","SYM6","SYM8","SYM10","SYM7","SYM8",
+          "SYM11","SYM10","SYM6","SYM8","SYM7","SYM11","SYM10","SYM9","SYM5","SYM5",
+          "SYM5","SYM7","SYM10","SYM6","SYM8","SYM10","SYM11","SYM7","SYM10","SYM6",
+          "SYM8","SYM7","SYM11","SYM6","SYM10","SYM8","SYM11","SYM10","SYM8","SYM6",
+          "SYM11","SYM5","SYM5","SYM5","SYM6","SYM8","SYM10","SYM6","SYM5","SYM5",
+          "SYM5","SYM10","SYM8","SYM7","SYM10","SYM8","SYM11","SYM10","SYM7","SYM8",
+          "SYM10","SYM5","SYM5","SYM5","SYM6","SYM10","SYM9","SYM8","SYM11","SYM10",
+          "SYM6","SYM8","SYM10","SYM3","SYM3","SYM3","SYM9","SYM8","SYM10","SYM6",
+          "SYM8","SYM11","SYM10","SYM6","SYM1","SYM10","SYM7","SYM8","SYM10","SYM6",
+          "SYM11","SYM8","SYM6","SYM7","SYM10","SYM8","SYM11","SYM10","SYM9","SYM8",
+          "SYM10","SYM11","SYM6","SYM8"
+        ],
+        [
+          "SYM9","SYM7","SYM8","SYM9","SYM11","SYM4","SYM4","SYM4","SYM11","SYM9",
+          "SYM6","SYM10","SYM8","SYM11","SYM7","SYM9","SYM10","SYM8","SYM11","SYM7",
+          "SYM6","SYM9","SYM8","SYM7","SYM10","SYM6","SYM7","SYM11","SYM8","SYM9",
+          "SYM6","SYM7","SYM11","SYM6","SYM8","SYM10","SYM11","SYM7","SYM9","SYM8",
+          "SYM11","SYM6","SYM7","SYM10","SYM9","SYM8","SYM7","SYM10","SYM6","SYM5",
+          "SYM5","SYM5","SYM11","SYM6","SYM7","SYM9","SYM10","SYM7","SYM8","SYM11",
+          "SYM10","SYM3","SYM3","SYM3","SYM7","SYM9","SYM11","SYM6","SYM9","SYM8",
+          "SYM7","SYM11","SYM10","SYM5","SYM5","SYM5","SYM9","SYM7","SYM11","SYM10",
+          "SYM9","SYM11","SYM8","SYM7","SYM10","SYM9","SYM8","SYM6","SYM9","SYM11",
+          "SYM6","SYM10","SYM7","SYM8","SYM9","SYM11","SYM6","SYM10","SYM7","SYM9",
+          "SYM8","SYM10","SYM11","SYM9","SYM7","SYM11","SYM4","SYM4","SYM4","SYM9",
+          "SYM6","SYM10","SYM7","SYM11","SYM8","SYM9","SYM10","SYM8","SYM11","SYM9",
+          "SYM10","SYM6","SYM5","SYM5","SYM5","SYM10","SYM9","SYM11","SYM8","SYM10",
+          "SYM7","SYM11","SYM4","SYM4","SYM4","SYM10","SYM8","SYM11","SYM9","SYM6",
+          "SYM10","SYM8","SYM9","SYM6","SYM10","SYM1","SYM11","SYM9","SYM6","SYM10",
+          "SYM11","SYM7","SYM10","SYM8","SYM3","SYM3","SYM3","SYM6","SYM8","SYM9",
+          "SYM10","SYM11","SYM5","SYM5","SYM5","SYM7","SYM6","SYM9","SYM11","SYM10",
+          "SYM8","SYM11","SYM7","SYM6","SYM9","SYM8","SYM11","SYM6","SYM10","SYM9",
+          "SYM8","SYM11","SYM6","SYM7","SYM3","SYM3","SYM3","SYM9","SYM10","SYM8",
+          "SYM7","SYM9","SYM11","SYM6","SYM9","SYM4","SYM4","SYM4","SYM10","SYM7",
+          "SYM8","SYM9","SYM11","SYM6","SYM8","SYM10","SYM11","SYM7","SYM10","SYM9",
+          "SYM7","SYM11","SYM8","SYM10","SYM9","SYM3","SYM3","SYM3","SYM11","SYM7",
+          "SYM6","SYM8","SYM10","SYM11","SYM6","SYM8","SYM9","SYM11","SYM7","SYM9",
+          "SYM8","SYM11","SYM9","SYM8","SYM10","SYM11","SYM6","SYM7","SYM8","SYM4",
+          "SYM4","SYM4","SYM6","SYM7","SYM9","SYM6","SYM4","SYM4","SYM4","SYM7",
+          "SYM11","SYM9","SYM8","SYM7","SYM9","SYM11","SYM10","SYM9","SYM5","SYM5",
+          "SYM5","SYM11","SYM6","SYM8","SYM9","SYM7","SYM10","SYM11","SYM6","SYM8",
+          "SYM10","SYM9","SYM7","SYM6","SYM10","SYM4","SYM4","SYM4","SYM8","SYM6",
+          "SYM7","SYM10","SYM8","SYM1","SYM10","SYM8","SYM6","SYM9","SYM11","SYM7",
+          "SYM9","SYM10","SYM11","SYM6","SYM5","SYM5","SYM5","SYM8","SYM9","SYM7",
+          "SYM11","SYM9","SYM6","SYM8","SYM10","SYM11"
+        ],
+        [
+          "SYM10","SYM8","SYM6","SYM11","SYM4","SYM4","SYM4","SYM9","SYM10","SYM8",
+          "SYM7","SYM10","SYM9","SYM11","SYM5","SYM5","SYM5","SYM6","SYM8","SYM10",
+          "SYM7","SYM9","SYM8","SYM6","SYM7","SYM10","SYM11","SYM7","SYM6","SYM4",
+          "SYM4","SYM4","SYM9","SYM11","SYM7","SYM10","SYM6","SYM8","SYM7","SYM10",
+          "SYM6","SYM11","SYM3","SYM3","SYM3","SYM6","SYM7","SYM9","SYM10","SYM7",
+          "SYM8","SYM11","SYM10","SYM9","SYM4","SYM4","SYM4","SYM11","SYM7","SYM10",
+          "SYM9","SYM6","SYM8","SYM10","SYM11","SYM8","SYM6","SYM7","SYM9","SYM5",
+          "SYM5","SYM5","SYM9","SYM8","SYM10","SYM11","SYM8","SYM7","SYM10","SYM9",
+          "SYM8","SYM6","SYM10","SYM11","SYM3","SYM3","SYM3","SYM10","SYM11","SYM7",
+          "SYM9","SYM8","SYM10","SYM6","SYM9","SYM11","SYM10","SYM4","SYM4","SYM4",
+          "SYM9","SYM10","SYM11","SYM8","SYM7","SYM10","SYM8","SYM9","SYM11","SYM6",
+          "SYM10","SYM7","SYM3","SYM3","SYM3","SYM10","SYM11","SYM8","SYM7","SYM3",
+          "SYM3","SYM3","SYM8","SYM10","SYM7","SYM6","SYM3","SYM3","SYM3","SYM7",
+          "SYM6","SYM10","SYM9","SYM8","SYM10","SYM11","SYM7","SYM6","SYM10","SYM4",
+          "SYM4","SYM4","SYM1","SYM7","SYM10","SYM9","SYM11","SYM6","SYM8","SYM7",
+          "SYM10","SYM5","SYM5","SYM5","SYM6","SYM7","SYM10","SYM8","SYM9","SYM1",
+          "SYM11","SYM5","SYM5","SYM5","SYM7","SYM6","SYM10","SYM7","SYM9","SYM11",
+          "SYM10","SYM6","SYM3","SYM3","SYM3","SYM7","SYM8","SYM11","SYM6","SYM7",
+          "SYM10","SYM5","SYM5","SYM5","SYM11","SYM8","SYM7","SYM6","SYM10","SYM11",
+          "SYM9","SYM6","SYM10","SYM7","SYM11","SYM10","SYM5","SYM5","SYM5","SYM11",
+          "SYM7","SYM6","SYM11","SYM10","SYM8","SYM9","SYM7","SYM11","SYM10","SYM4",
+          "SYM4","SYM4","SYM6","SYM10","SYM11","SYM9","SYM7","SYM8","SYM6","SYM11",
+          "SYM8","SYM6","SYM9","SYM7","SYM5","SYM5","SYM5","SYM11","SYM10","SYM5",
+          "SYM5","SYM5","SYM7","SYM11"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM7",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM3",
+            "SYM7"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM4",
+            "SYM4"
+          ],
+          "overlaySymbols": [
+            "SYM3",
+            "SYM3"
+          ]
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": [
+            "SYM3",
+            "SYM3"
+          ]
+        },
+        {
+          "symbols": [
+            "SYM8",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "respin_SYM13": {
+      "fakeReels": [
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM13","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM13","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM13","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM13","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM13","SYM16",
+          "SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM13",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM13","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM5",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM9",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "respin_SYM14": {
+      "fakeReels": [
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM14","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM14","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM14","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM14","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM14","SYM16",
+          "SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM14",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM14","SYM16","SYM16",
+          "SYM16"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM5",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM9",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "respin_SYM15": {
+      "fakeReels": [
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM15","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM15","SYM16","SYM16","SYM16",
+          "SYM16","SYM15","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM15","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM15","SYM16",
+          "SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM15",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16"
+        ],
+        [
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16",
+          "SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM16","SYM15","SYM16","SYM16",
+          "SYM16"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM3",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM5",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM9",
+            "SYM3",
+            "SYM3",
+            "SYM3"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "freespin_SYM13": {
+      "fakeReels": [
+        [
+          "SYM7","SYM8","SYM5","SYM5","SYM5","SYM6","SYM1","SYM8","SYM7","SYM4",
+          "SYM4","SYM4","SYM8","SYM7","SYM5","SYM5","SYM5","SYM6","SYM8","SYM4",
+          "SYM4","SYM4","SYM7","SYM13","SYM7","SYM3","SYM3","SYM3","SYM8","SYM6",
+          "SYM4","SYM4","SYM4","SYM1","SYM7","SYM8","SYM7","SYM8","SYM7","SYM1",
+          "SYM4","SYM4","SYM4","SYM7","SYM6","SYM8","SYM7","SYM8","SYM7","SYM4",
+          "SYM4","SYM4","SYM8","SYM6","SYM7","SYM8","SYM6","SYM7","SYM8","SYM6",
+          "SYM7","SYM6","SYM4","SYM4","SYM4","SYM7","SYM8","SYM7","SYM8","SYM5",
+          "SYM5","SYM5","SYM8"
+        ],
+        [
+          "SYM7","SYM6","SYM3","SYM3","SYM3","SYM7","SYM6","SYM7","SYM5","SYM5",
+          "SYM5","SYM6","SYM13","SYM6","SYM7","SYM6","SYM7","SYM3","SYM3","SYM3",
+          "SYM1","SYM7","SYM6","SYM1","SYM6","SYM7","SYM6","SYM3","SYM3","SYM3",
+          "SYM6","SYM7","SYM5","SYM5","SYM5","SYM6","SYM8","SYM7","SYM6","SYM3",
+          "SYM3","SYM3","SYM7","SYM6","SYM7","SYM6","SYM7","SYM8","SYM7","SYM6",
+          "SYM7","SYM6","SYM7","SYM6","SYM7","SYM3","SYM3","SYM3","SYM6","SYM7",
+          "SYM6","SYM8","SYM7","SYM3","SYM3","SYM3","SYM8","SYM7","SYM6","SYM4",
+          "SYM4","SYM4","SYM7","SYM8","SYM7","SYM8","SYM1","SYM6","SYM7","SYM6",
+          "SYM7","SYM6","SYM7","SYM8","SYM6","SYM4","SYM4","SYM4","SYM6","SYM7",
+          "SYM6"
+        ],
+        [
+          "SYM8","SYM1","SYM8","SYM7","SYM5","SYM5","SYM5","SYM8","SYM6","SYM8",
+          "SYM5","SYM5","SYM5","SYM8","SYM7","SYM8","SYM6","SYM1","SYM8","SYM5",
+          "SYM5","SYM5","SYM7","SYM8","SYM4","SYM4","SYM4","SYM8","SYM1","SYM8",
+          "SYM4","SYM4","SYM4","SYM8","SYM6","SYM8","SYM5","SYM5","SYM5","SYM8",
+          "SYM7","SYM8","SYM6","SYM7","SYM8","SYM3","SYM3","SYM3","SYM6","SYM8",
+          "SYM1","SYM8","SYM6","SYM5","SYM5","SYM5","SYM7","SYM8","SYM6","SYM8",
+          "SYM4","SYM4","SYM4","SYM6","SYM8","SYM6","SYM8","SYM3","SYM3","SYM3",
+          "SYM8","SYM13","SYM8","SYM6","SYM5","SYM5","SYM5","SYM8","SYM7"
+        ],
+        [
+          "SYM7","SYM5","SYM5","SYM5","SYM6","SYM7","SYM4","SYM4","SYM4","SYM8",
+          "SYM7","SYM6","SYM8","SYM1","SYM8","SYM6","SYM8","SYM7","SYM6","SYM7",
+          "SYM8","SYM1","SYM6","SYM8","SYM6","SYM3","SYM3","SYM3","SYM6","SYM7",
+          "SYM8","SYM6","SYM8","SYM7","SYM1","SYM8","SYM5","SYM5","SYM5","SYM6",
+          "SYM7","SYM6","SYM8","SYM5","SYM5","SYM5","SYM8","SYM6","SYM8","SYM7",
+          "SYM6","SYM7","SYM6","SYM4","SYM4","SYM4","SYM8","SYM7","SYM6","SYM8",
+          "SYM7","SYM6","SYM4","SYM4","SYM4","SYM7","SYM8","SYM6","SYM13","SYM8",
+          "SYM6","SYM8","SYM4","SYM4","SYM4","SYM7","SYM1","SYM6"
+        ],
+        [
+          "SYM7","SYM8","SYM5","SYM5","SYM5","SYM8","SYM7","SYM5","SYM5","SYM5",
+          "SYM13","SYM8","SYM6","SYM7","SYM4","SYM4","SYM4","SYM8","SYM1","SYM8",
+          "SYM5","SYM5","SYM5","SYM6","SYM7","SYM4","SYM4","SYM4","SYM6","SYM8",
+          "SYM7","SYM4","SYM4","SYM4","SYM8","SYM6","SYM3","SYM3","SYM3","SYM8",
+          "SYM7","SYM3","SYM3","SYM3","SYM8","SYM6","SYM3","SYM3","SYM3","SYM8",
+          "SYM7","SYM6","SYM4","SYM4","SYM4","SYM6","SYM1","SYM7","SYM5","SYM5",
+          "SYM5","SYM1","SYM7","SYM8","SYM5","SYM5","SYM5","SYM8","SYM6","SYM7",
+          "SYM3","SYM3","SYM3","SYM6"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "freespin_SYM14": {
+      "fakeReels": [
+        [
+          "SYM6","SYM8","SYM11","SYM7","SYM14","SYM8","SYM9","SYM3","SYM3","SYM3",
+          "SYM1","SYM7","SYM10","SYM6","SYM11","SYM1","SYM6","SYM10","SYM8","SYM7",
+          "SYM11","SYM8","SYM7","SYM1","SYM4","SYM4","SYM4","SYM11","SYM1","SYM6",
+          "SYM5","SYM5","SYM5","SYM9","SYM10","SYM8","SYM11","SYM9","SYM1","SYM7",
+          "SYM3","SYM3","SYM3","SYM6","SYM8","SYM9","SYM1","SYM11","SYM10","SYM7",
+          "SYM9","SYM1","SYM10","SYM7","SYM6","SYM11","SYM4","SYM4","SYM4","SYM7",
+          "SYM6","SYM11","SYM9","SYM8","SYM10","SYM14","SYM6","SYM10","SYM9","SYM11",
+          "SYM7","SYM8","SYM6","SYM10","SYM4","SYM4","SYM4","SYM1","SYM9","SYM6",
+          "SYM4","SYM4","SYM4","SYM10","SYM8","SYM1","SYM7","SYM8","SYM5","SYM5",
+          "SYM5","SYM7","SYM11","SYM9","SYM10","SYM7","SYM11","SYM6","SYM8","SYM1",
+          "SYM9","SYM6","SYM10","SYM11","SYM8","SYM14","SYM6","SYM9","SYM11","SYM3",
+          "SYM3","SYM3","SYM9","SYM1","SYM7","SYM8","SYM5","SYM5","SYM5","SYM6",
+          "SYM8","SYM9","SYM7","SYM10"
+        ],
+        [
+          "SYM10","SYM8","SYM11","SYM14","SYM9","SYM6","SYM10","SYM7","SYM9","SYM11",
+          "SYM8","SYM1","SYM10","SYM7","SYM11","SYM6","SYM10","SYM9","SYM11","SYM5",
+          "SYM5","SYM5","SYM1","SYM6","SYM8","SYM10","SYM11","SYM1","SYM8","SYM6",
+          "SYM10","SYM9","SYM8","SYM4","SYM4","SYM4","SYM6","SYM7","SYM9","SYM1",
+          "SYM7","SYM11","SYM3","SYM3","SYM3","SYM6","SYM8","SYM7","SYM9","SYM3",
+          "SYM3","SYM3","SYM14","SYM11","SYM6","SYM10","SYM9","SYM6","SYM3","SYM3",
+          "SYM3","SYM7","SYM6","SYM1","SYM4","SYM4","SYM4","SYM9","SYM7","SYM8",
+          "SYM14","SYM10","SYM9","SYM7","SYM8","SYM11","SYM6","SYM7","SYM5","SYM5",
+          "SYM5","SYM6","SYM7","SYM8","SYM9","SYM6","SYM8","SYM1","SYM6","SYM8",
+          "SYM9","SYM7","SYM5","SYM5","SYM5","SYM8","SYM11","SYM7","SYM1","SYM6",
+          "SYM11","SYM8","SYM7","SYM9","SYM10","SYM6","SYM7","SYM1","SYM3","SYM3",
+          "SYM3","SYM10","SYM11","SYM7","SYM9","SYM8","SYM7","SYM6","SYM8","SYM1",
+          "SYM9","SYM10","SYM6","SYM8","SYM1","SYM3","SYM3","SYM3","SYM6","SYM11",
+          "SYM10","SYM8","SYM1","SYM4","SYM4","SYM4","SYM7","SYM6","SYM10","SYM8",
+          "SYM11","SYM1","SYM7","SYM9"
+        ],
+        [
+          "SYM8","SYM9","SYM10","SYM11","SYM1","SYM6","SYM9","SYM7","SYM10","SYM9",
+          "SYM6","SYM11","SYM14","SYM10","SYM7","SYM11","SYM9","SYM6","SYM7","SYM10",
+          "SYM11","SYM4","SYM4","SYM4","SYM7","SYM8","SYM6","SYM9","SYM8","SYM4",
+          "SYM4","SYM4","SYM10","SYM7","SYM1","SYM8","SYM9","SYM10","SYM1","SYM6",
+          "SYM7","SYM9","SYM10","SYM11","SYM7","SYM10","SYM8","SYM9","SYM6","SYM1",
+          "SYM8","SYM11","SYM10","SYM5","SYM5","SYM5","SYM11","SYM1","SYM6","SYM3",
+          "SYM3","SYM3","SYM1","SYM6","SYM9","SYM7","SYM10","SYM11","SYM7","SYM8",
+          "SYM6","SYM5","SYM5","SYM5","SYM10","SYM8","SYM11","SYM7","SYM10","SYM1",
+          "SYM11","SYM7","SYM8","SYM6","SYM11","SYM9","SYM8","SYM10","SYM1","SYM9",
+          "SYM10","SYM6","SYM11","SYM8","SYM9","SYM4","SYM4","SYM4","SYM11","SYM1",
+          "SYM10","SYM9","SYM11","SYM1","SYM6","SYM5","SYM5","SYM5","SYM7","SYM14",
+          "SYM10","SYM8","SYM5","SYM5","SYM5","SYM1","SYM11","SYM9","SYM10","SYM6",
+          "SYM8","SYM7","SYM9","SYM11","SYM14","SYM9","SYM10","SYM6","SYM3","SYM3",
+          "SYM3","SYM8","SYM11","SYM7","SYM9","SYM10","SYM11","SYM9","SYM7","SYM1",
+          "SYM10","SYM11","SYM8","SYM6","SYM11","SYM9","SYM8","SYM10","SYM14","SYM6",
+          "SYM8","SYM11","SYM7"
+        ],
+        [
+          "SYM8","SYM9","SYM10","SYM7","SYM11","SYM1","SYM10","SYM9","SYM3","SYM3",
+          "SYM3","SYM6","SYM7","SYM14","SYM10","SYM11","SYM9","SYM7","SYM11","SYM10",
+          "SYM4","SYM4","SYM4","SYM8","SYM9","SYM1","SYM6","SYM7","SYM11","SYM5",
+          "SYM5","SYM5","SYM8","SYM1","SYM7","SYM9","SYM11","SYM10","SYM6","SYM9",
+          "SYM7","SYM6","SYM11","SYM9","SYM5","SYM5","SYM5","SYM7","SYM8","SYM9",
+          "SYM10","SYM6","SYM11","SYM7","SYM8","SYM11","SYM6","SYM1","SYM9","SYM7",
+          "SYM10","SYM9","SYM8","SYM7","SYM10","SYM11","SYM6","SYM10","SYM11","SYM8",
+          "SYM7","SYM11","SYM9","SYM8","SYM10","SYM14","SYM9","SYM10","SYM7","SYM6",
+          "SYM11","SYM1","SYM6","SYM8","SYM9","SYM11","SYM10","SYM7","SYM1","SYM9",
+          "SYM10","SYM7","SYM11","SYM8","SYM6","SYM9","SYM10","SYM7","SYM8","SYM1",
+          "SYM4","SYM4","SYM4","SYM7","SYM11","SYM10","SYM9","SYM1","SYM7","SYM9",
+          "SYM8","SYM10","SYM11","SYM6","SYM10","SYM8","SYM11","SYM9","SYM7","SYM10",
+          "SYM11","SYM9","SYM6","SYM1","SYM8","SYM7","SYM11","SYM8","SYM7","SYM9",
+          "SYM1","SYM8","SYM11","SYM7","SYM6","SYM8","SYM10","SYM1","SYM8","SYM9",
+          "SYM6","SYM11","SYM7","SYM8","SYM11","SYM6","SYM10"
+        ],
+        [
+          "SYM9","SYM6","SYM10","SYM11","SYM9","SYM3","SYM3","SYM3","SYM8","SYM11",
+          "SYM10","SYM8","SYM6","SYM7","SYM10","SYM3","SYM3","SYM3","SYM7","SYM10",
+          "SYM11","SYM8","SYM10","SYM11","SYM9","SYM3","SYM3","SYM3","SYM10","SYM8",
+          "SYM9","SYM11","SYM10","SYM6","SYM5","SYM5","SYM5","SYM10","SYM11","SYM7",
+          "SYM9","SYM10","SYM14","SYM11","SYM9","SYM10","SYM7","SYM5","SYM5","SYM5",
+          "SYM10","SYM11","SYM8","SYM1","SYM6","SYM9","SYM7","SYM11","SYM6","SYM7",
+          "SYM9","SYM1","SYM10","SYM7","SYM11","SYM8","SYM9","SYM1","SYM10","SYM4",
+          "SYM4","SYM4","SYM10","SYM6","SYM11","SYM9","SYM14","SYM8","SYM6","SYM10",
+          "SYM11","SYM9","SYM5","SYM5","SYM5","SYM7","SYM8","SYM11","SYM6","SYM9",
+          "SYM10","SYM7","SYM8","SYM6","SYM11","SYM9","SYM10","SYM4","SYM4","SYM4",
+          "SYM7","SYM11","SYM10","SYM7","SYM8","SYM10","SYM9","SYM6","SYM8","SYM10",
+          "SYM11","SYM9","SYM7","SYM10","SYM4","SYM4","SYM4","SYM9","SYM8","SYM11",
+          "SYM10"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    },
+    "freespin_SYM15": {
+      "fakeReels": [
+        [
+          "SYM9","SYM10","SYM11","SYM7","SYM6","SYM11","SYM10","SYM4","SYM4","SYM4",
+          "SYM11","SYM9","SYM7","SYM11","SYM9","SYM10","SYM7","SYM9","SYM11","SYM8",
+          "SYM6","SYM11","SYM9","SYM7","SYM11","SYM5","SYM5","SYM5","SYM6","SYM11",
+          "SYM8","SYM7","SYM15","SYM11","SYM6","SYM9","SYM8","SYM7","SYM11","SYM9",
+          "SYM6","SYM7","SYM10","SYM11","SYM8","SYM1","SYM11","SYM3","SYM3","SYM3",
+          "SYM7","SYM11","SYM9","SYM7","SYM8","SYM10","SYM7","SYM11","SYM9","SYM8",
+          "SYM11","SYM7","SYM9","SYM11","SYM10","SYM6","SYM11","SYM9","SYM8","SYM6",
+          "SYM11","SYM9","SYM8","SYM6","SYM11","SYM5","SYM5","SYM5","SYM11","SYM6",
+          "SYM7","SYM10","SYM8","SYM9","SYM10","SYM7","SYM11","SYM8","SYM10","SYM11",
+          "SYM7","SYM9","SYM11","SYM8","SYM9","SYM7","SYM8","SYM11","SYM10","SYM8"
+        ],
+        [
+          "SYM9","SYM8","SYM11","SYM9","SYM4","SYM4","SYM4","SYM6","SYM7","SYM9",
+          "SYM6","SYM5","SYM5","SYM5","SYM10","SYM11","SYM9","SYM7","SYM6","SYM10",
+          "SYM11","SYM9","SYM6","SYM7","SYM10","SYM9","SYM1","SYM10","SYM6","SYM9",
+          "SYM7","SYM10","SYM3","SYM3","SYM3","SYM9","SYM7","SYM6","SYM9","SYM5",
+          "SYM5","SYM5","SYM10","SYM11","SYM9","SYM6","SYM7","SYM10","SYM9","SYM7",
+          "SYM8","SYM11","SYM6","SYM9","SYM10","SYM6","SYM5","SYM5","SYM5","SYM9",
+          "SYM6","SYM7","SYM10","SYM6","SYM9","SYM7","SYM10","SYM9","SYM6","SYM7",
+          "SYM9","SYM11","SYM10","SYM8","SYM6","SYM7","SYM9","SYM10","SYM11","SYM9",
+          "SYM6","SYM15","SYM7","SYM9","SYM10","SYM4","SYM4","SYM4","SYM6","SYM9",
+          "SYM7","SYM6","SYM3","SYM3","SYM3","SYM6","SYM9","SYM7","SYM11","SYM6",
+          "SYM9","SYM7","SYM10","SYM9","SYM6","SYM11","SYM7","SYM9","SYM5","SYM5",
+          "SYM5","SYM10","SYM11","SYM9","SYM6","SYM7","SYM9","SYM10","SYM6","SYM9",
+          "SYM11","SYM7","SYM6","SYM9","SYM10","SYM6","SYM7","SYM8","SYM9","SYM6",
+          "SYM7","SYM9","SYM8","SYM6","SYM10"
+        ],
+        [
+          "SYM10","SYM11","SYM9","SYM8","SYM10","SYM3","SYM3","SYM3","SYM10","SYM8",
+          "SYM6","SYM10","SYM11","SYM8","SYM10","SYM4","SYM4","SYM4","SYM7","SYM10",
+          "SYM8","SYM7","SYM11","SYM9","SYM10","SYM8","SYM11","SYM10","SYM9","SYM8",
+          "SYM11","SYM10","SYM8","SYM5","SYM5","SYM5","SYM10","SYM7","SYM11","SYM8",
+          "SYM9","SYM10","SYM8","SYM11","SYM6","SYM8","SYM10","SYM11","SYM9","SYM10",
+          "SYM8","SYM7","SYM10","SYM8","SYM11","SYM10","SYM15","SYM8","SYM10","SYM11",
+          "SYM9","SYM10","SYM8","SYM4","SYM4","SYM4","SYM10","SYM8","SYM11","SYM6",
+          "SYM10","SYM8","SYM11","SYM10","SYM8","SYM7","SYM10","SYM11","SYM8","SYM10",
+          "SYM3","SYM3","SYM3","SYM6","SYM8","SYM10","SYM6","SYM11","SYM8","SYM10",
+          "SYM9","SYM6","SYM11","SYM10","SYM8","SYM11","SYM9","SYM10","SYM8","SYM7",
+          "SYM10","SYM11","SYM8","SYM10","SYM6","SYM9","SYM10","SYM8","SYM11","SYM10",
+          "SYM7","SYM6","SYM8","SYM10","SYM9","SYM8","SYM1","SYM10","SYM8","SYM9",
+          "SYM10","SYM6","SYM11","SYM8","SYM10","SYM9","SYM7","SYM10","SYM8","SYM11",
+          "SYM10","SYM8","SYM4","SYM4","SYM4","SYM8"
+        ],
+        [
+          "SYM9","SYM7","SYM11","SYM9","SYM6","SYM8","SYM7","SYM9","SYM10","SYM11",
+          "SYM6","SYM7","SYM11","SYM6","SYM10","SYM11","SYM9","SYM6","SYM11","SYM10",
+          "SYM7","SYM8","SYM11","SYM9","SYM10","SYM8","SYM6","SYM9","SYM11","SYM8",
+          "SYM9","SYM11","SYM6","SYM10","SYM5","SYM5","SYM5","SYM10","SYM7","SYM11",
+          "SYM6","SYM3","SYM3","SYM3","SYM11","SYM10","SYM8","SYM6","SYM9","SYM10",
+          "SYM8","SYM11","SYM9","SYM10","SYM6","SYM11","SYM9","SYM6","SYM11","SYM7",
+          "SYM10","SYM4","SYM4","SYM4","SYM9","SYM10","SYM8","SYM7","SYM6","SYM8",
+          "SYM11","SYM5","SYM5","SYM5","SYM9","SYM8","SYM11","SYM9","SYM6","SYM10",
+          "SYM7","SYM9","SYM1","SYM10","SYM7","SYM9","SYM6","SYM8","SYM9","SYM4",
+          "SYM4","SYM4","SYM11","SYM10","SYM6","SYM11","SYM8","SYM9","SYM15","SYM7",
+          "SYM6","SYM10","SYM9","SYM11","SYM6","SYM8","SYM11","SYM10","SYM6","SYM9",
+          "SYM7","SYM6","SYM9","SYM10","SYM11","SYM7","SYM8","SYM9","SYM11","SYM10",
+          "SYM8","SYM6","SYM11","SYM7","SYM8","SYM10","SYM6","SYM7","SYM9","SYM10",
+          "SYM7","SYM11","SYM9","SYM8","SYM11"
+        ],
+        [
+          "SYM6","SYM10","SYM11","SYM9","SYM10","SYM6","SYM7","SYM10","SYM11","SYM7",
+          "SYM3","SYM3","SYM3","SYM11","SYM6","SYM10","SYM11","SYM9","SYM8","SYM7",
+          "SYM10","SYM11","SYM8","SYM9","SYM10","SYM11","SYM5","SYM5","SYM5","SYM8",
+          "SYM10","SYM7","SYM9","SYM6","SYM11","SYM4","SYM4","SYM4","SYM10","SYM6",
+          "SYM8","SYM11","SYM10","SYM6","SYM7","SYM10","SYM8","SYM11","SYM15","SYM10",
+          "SYM7","SYM9","SYM8","SYM7","SYM6","SYM10","SYM7","SYM6","SYM9","SYM8",
+          "SYM11","SYM10","SYM7","SYM6","SYM10","SYM9","SYM11","SYM10","SYM6","SYM8",
+          "SYM10","SYM7","SYM11","SYM9","SYM7","SYM10","SYM6","SYM7","SYM11","SYM10",
+          "SYM6","SYM4","SYM4","SYM4","SYM8","SYM7","SYM10","SYM11","SYM8","SYM7",
+          "SYM10","SYM6","SYM1","SYM5","SYM5","SYM5","SYM7","SYM9","SYM8","SYM11",
+          "SYM7","SYM8","SYM10","SYM9","SYM11","SYM6","SYM10","SYM7","SYM11","SYM9",
+          "SYM8","SYM10","SYM9","SYM8","SYM7"
+        ]
+      ],
+      "noWinOutcome": [
+        {
+          "symbols": [
+            "SYM11",
+            "SYM8",
+            "SYM8",
+            "SYM8"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        },
+        {
+          "symbols": [
+            "SYM6",
+            "SYM6",
+            "SYM6",
+            "SYM6"
+          ],
+          "overlaySymbols": []
+        }
+      ],
+      "lowWinSymbols": [
+        7,
+        8,
+        9,
+        10,
+        11
+      ]
+    }
+  },
+
+  "sprites": {},
+  "winSituationsDisplay": {
+    "allWinsDisplayTime": 1000,
+    "winSituationMinimumDisplayTime": 1000,
+    "betlines": {
+      "lines": {
+        "amount": 30,
+        "defaultColor": "#182e02",
+        "drawingOperations": [
+          {
+            "lineWidth": 4,
+            "lineCap": "square",
+            "strokeStyle": "#182e02"
+          },
+          {
+            "lineWidth": 2,
+            "lineCap": "square"
+          }
+        ],
+        "1": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,1,1,1,1]
+        },
+        "2": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,0,0,0,0]
+        },
+        "3": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,2,2,2,2]
+        },
+        "4": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,1,2,1,0]
+        },
+        "5": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,1,0,1,2]
+        },
+        "6": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,0,1,0,0]
+        },
+        "7": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,2,1,2,2]
+        },
+        "8": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,2,2,2,1]
+        },
+        "9": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,0,0,0,1]
+        },
+        "10": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,0,1,0,1]
+        },
+        "11": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,2,1,2,1]
+        },
+        "12": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,1,0,1,0]
+        },
+        "13": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,1,2,1,2]
+        },
+        "14": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,1,0,1,1]
+        },
+        "15": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,1,2,1,1]
+        },
+        "16": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,1,1,1,0]
+        },
+        "17": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,1,1,1,2]
+        },
+        "18": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,2,0,2,0]
+        },
+        "19": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,0,2,0,2]
+        },
+        "20": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,2,2,2,0]
+        },
+        "21": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,0,0,0,2]
+        },
+        "22": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,0,2,0,0]
+        },
+        "23": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,2,0,2,2]
+        },
+        "24": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,2,1,2,0]
+        },
+        "25": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,0,1,0,2]
+        },
+        "26": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,2,0,2,1]
+        },
+        "27": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [1,0,2,0,1]
+        },
+        "28": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,0,1,2,2]
+        },
+        "29": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [2,2,1,0,0]
+        },
+        "30": {
+          "color": "rgba(149,219,93, 1)",
+          "lineCoordinates": [0,1,2,2,2]
+        }
+      },
+      "numbers": {
+        "style": {
+          "NUMBER_WIDTH": 100,
+          "NUMBER_HEIGHT": 100,
+          "NUMBER_FONT": "bold 100px Verdana",
+          "NUMBER_OFFSET": 0,
+          "NUMBER_TEXT_OPERATIONS": [
+            {
+              "fillStyle": "#FFFFFF"
+            },
+            {
+              "lineWidth": 5,
+              "strokeStyle": "#00000",
+              "drawType": "stroke"
+            }
+          ]
+        },
+        "panelArea": {
+          "left": {
+            "left": 128,
+            "top": 73,
+            "width": 35,
+            "height": 504
+          },
+          "right": {
+            "left": 1117,
+            "top": 73,
+            "width": 35,
+            "height": 504
+          }
+        },
+        "hoverArea": {
+          "offsetX": -10,
+          "offsetY": -19,
+          "width": 25,
+          "height": 25
+        },
+        "configurations": {
+          "4": {
+            "left": 160,
+            "top": 115
+          },
+          "2": {
+            "left": 160,
+            "top": 160
+          },
+          "6": {
+            "left": 160,
+            "top": 205
+          },
+          "8": {
+            "left": 160,
+            "top": 250
+          },
+          "1": {
+            "left": 160,
+            "top": 295
+          },
+          "10": {
+            "left": 160,
+            "top": 340
+          },
+          "9": {
+            "left": 160,
+            "top": 385
+          },
+          "7": {
+            "left": 160,
+            "top": 430
+          },
+          "3": {
+            "left": 160,
+            "top": 475
+          },
+          "5": {
+            "left": 160,
+            "top": 520
+          },
+          "12": {
+            "left": 1120,
+            "top": 115
+          },
+          "18": {
+            "left": 1120,
+            "top": 160
+          },
+          "20": {
+            "left": 1120,
+            "top": 205
+          },
+          "16": {
+            "left": 1120,
+            "top": 250
+          },
+          "11": {
+            "left": 1120,
+            "top": 295
+          },
+          "14": {
+            "left": 1120,
+            "top": 340
+          },
+          "15": {
+            "left": 1120,
+            "top": 385
+          },
+          "17": {
+            "left": 1120,
+            "top": 430
+          },
+          "13": {
+            "left": 1120,
+            "top": 475
+          },
+          "19": {
+            "left": 1120,
+            "top": 520
+          }
+        }
+      }
+    }
+  },
+  "winTypes": {
+    "smallWin": {
+      "from": 0,
+      "to": 2
+    },
+    "mediumWin": {
+      "from": 2,
+      "to": 5
+    },
+    "largeWin": {
+      "from": 5,
+      "to": 15
+    },
+    "bigWin": {
+      "from": 15,
+      "to": 30
+    },
+    "megaWin": {
+      "from": 30,
+      "to": 60
+    },
+    "superMegaWin": {
+      "from": 60
+    }
+  },
+  "stateOrder": {
+    "BeforeLoaderClose": [
+      {
+        "modules": ["featureSplash"],
+        "insertBefore": "freeRounds"
+      }
+    ],
+    "ValidateSpin": [
+      {
+        "modules": ["randomWild"]
+      }
+    ],
+    "BeforeStopping": [
+      {
+        "modules": ["countDownFreespins", "respinEffects"]
+      }
+    ],
+    "Stopped": [
+      {
+        "modules": ["scatterWin", "attentionAnimation", "scatter", "finalChance", "coinCap"],
+        "insertBefore": "freeSpinSymbolAttentionAnimation"
+      }
+    ],
+    "StandardWinPresentation": [
+      {
+        "modules": ["scatterBattle"]
+      }
+    ],
+    "NoWinPresentation": [
+      {
+        "modules": ["scatterBattle"]
+      }
+    ],
+    "FreeSpinIntro": [
+      {
+        "modules": ["scatterUnveil"]
+      }
+    ],
+    "ScatterUnveil": [
+      {
+        "modules": ["freespinKeypadFields"]
+      }
+    ],
+    "ScatterWin": [
+      {
+        "modules": ["freespinKeypadFields"]
+      }
+    ],
+    "BigWin": [
+      {
+        "modules": ["scatterBattle"]
+      }
+    ]
+  }
+}

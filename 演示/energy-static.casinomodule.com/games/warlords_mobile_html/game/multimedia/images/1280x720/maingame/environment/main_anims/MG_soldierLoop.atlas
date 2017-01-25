@@ -1,0 +1,48 @@
+
+MG_soldierLoop.png
+size: 243,344
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MG_soldierLoop/army_arm2
+  rotate: true
+  xy: 134, 76
+  size: 65, 108
+  orig: 65, 108
+  offset: 0, 0
+  index: -1
+MG_soldierLoop/army_arm_behind
+  rotate: false
+  xy: 134, 245
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1
+MG_soldierLoop/army_body
+  rotate: false
+  xy: 1, 76
+  size: 131, 267
+  orig: 131, 293
+  offset: 0, 0
+  index: -1
+MG_soldierLoop/army_head
+  rotate: false
+  xy: 186, 1
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+MG_soldierLoop/army_shield
+  rotate: true
+  xy: 1, 1
+  size: 73, 183
+  orig: 95, 194
+  offset: 14, 5
+  index: -1
+MG_soldierLoop/glow
+  rotate: false
+  xy: 134, 143
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

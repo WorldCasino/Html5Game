@@ -1,0 +1,111 @@
+
+sym8_win.png
+size: 190,1487
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym8_win-assets/bg
+  rotate: true
+  xy: 90, 1367
+  size: 102, 96
+  orig: 200, 188
+  offset: 49, 46
+  index: -1
+sym8_win-assets/boar_riped
+  rotate: false
+  xy: 1, 1367
+  size: 87, 119
+  orig: 127, 127
+  offset: 16, 6
+  index: -1
+sym8_win-assets/eye_glow
+  rotate: false
+  xy: 116, 1320
+  size: 44, 40
+  orig: 200, 188
+  offset: 83, 133
+  index: -1
+sym8_win-assets/frame
+  rotate: true
+  xy: 1, 1
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym8_win-assets/glow
+  rotate: false
+  xy: 120, 1254
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+sym8_win-assets/idle_plaeholder
+  rotate: true
+  xy: 1, 404
+  size: 194, 182
+  orig: 200, 188
+  offset: 4, 2
+  index: -1
+sym8_win-assets/lwr_jaw
+  rotate: false
+  xy: 1, 904
+  size: 155, 126
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym8_win-assets/lwr_jaw_end
+  rotate: true
+  xy: 158, 904
+  size: 49, 21
+  orig: 200, 188
+  offset: 84, 67
+  index: -1
+sym8_win-assets/lwr_jaw_rim
+  rotate: false
+  xy: 1, 1032
+  size: 153, 123
+  orig: 200, 188
+  offset: 2, 0
+  index: -1
+sym8_win-assets/nose
+  rotate: true
+  xy: 120, 1157
+  size: 95, 62
+  orig: 200, 188
+  offset: 14, 69
+  index: -1
+sym8_win-assets/pig_bg
+  rotate: true
+  xy: 1, 203
+  size: 199, 188
+  orig: 200, 188
+  offset: 1, 0
+  index: -1
+sym8_win-assets/pig_bg_rim
+  rotate: true
+  xy: 1, 600
+  size: 186, 188
+  orig: 200, 188
+  offset: 14, 0
+  index: -1
+sym8_win-assets/snot
+  rotate: false
+  xy: 1, 788
+  size: 177, 114
+  orig: 200, 188
+  offset: 23, 0
+  index: -1
+sym8_win-assets/upper_jaw
+  rotate: false
+  xy: 1, 1157
+  size: 117, 110
+  orig: 200, 188
+  offset: 12, 69
+  index: -1
+sym8_win-assets/upper_jaw_rim
+  rotate: false
+  xy: 1, 1269
+  size: 113, 96
+  orig: 200, 188
+  offset: 14, 73
+  index: -1

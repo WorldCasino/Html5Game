@@ -1,0 +1,79 @@
+
+vs_battle0.png
+size: 989,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vs-assets/glow
+  rotate: false
+  xy: 723, 1
+  size: 265, 360
+  orig: 896, 360
+  offset: 185, 0
+  index: -1
+vs-assets/samurai3
+  rotate: true
+  xy: 1, 1
+  size: 814, 720
+  orig: 1792, 720
+  offset: 978, 0
+  index: -1
+vs-assets/solid
+  rotate: false
+  xy: 723, 363
+  size: 160, 90
+  orig: 160, 90
+  offset: 0, 0
+  index: -1
+
+vs_battle1.png
+size: 722,816
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vs-assets/barbarian
+  rotate: true
+  xy: 1, 1
+  size: 814, 720
+  orig: 1792, 720
+  offset: 978, 0
+  index: -1
+
+vs_battle2.png
+size: 722,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vs-assets/bowlady
+  rotate: true
+  xy: 1, 1
+  size: 809, 720
+  orig: 1792, 720
+  offset: 0, 0
+  index: -1
+
+vs_battle3.png
+size: 722,850
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vs-assets/samurai
+  rotate: true
+  xy: 1, 1
+  size: 848, 720
+  orig: 1792, 720
+  offset: 468, 0
+  index: -1
+
+vs_battle4.png
+size: 722,811
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+vs-assets/samurai2
+  rotate: true
+  xy: 1, 1
+  size: 809, 720
+  orig: 1792, 720
+  offset: 0, 0
+  index: -1

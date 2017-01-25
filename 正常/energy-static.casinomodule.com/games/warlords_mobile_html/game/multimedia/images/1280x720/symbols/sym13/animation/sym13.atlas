@@ -1,0 +1,270 @@
+sym13.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym13-assets/BARBARIAN_Banner_seq_001
+  rotate: false
+  xy: 730, 196
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_002
+  rotate: false
+  xy: 730, 373
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_003
+  rotate: false
+  xy: 891, 196
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_004
+  rotate: false
+  xy: 912, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_005
+  rotate: false
+  xy: 891, 373
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_006
+  rotate: false
+  xy: 1052, 179
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_007
+  rotate: false
+  xy: 1073, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_008
+  rotate: false
+  xy: 1052, 356
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_009
+  rotate: false
+  xy: 1213, 179
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_010
+  rotate: false
+  xy: 1234, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_011
+  rotate: false
+  xy: 1213, 356
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_012
+  rotate: false
+  xy: 1374, 179
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_013
+  rotate: false
+  xy: 1395, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_014
+  rotate: false
+  xy: 1374, 356
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_015
+  rotate: false
+  xy: 1535, 179
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_016
+  rotate: false
+  xy: 1556, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_017
+  rotate: false
+  xy: 1535, 356
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_018
+  rotate: true
+  xy: 1696, 179
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/BARBARIAN_Banner_seq_019
+  rotate: false
+  xy: 1717, 2
+  size: 159, 175
+  orig: 200, 188
+  offset: 19, 4
+  index: -1
+sym13-assets/Crack
+  rotate: true
+  xy: 2, 2
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym13-assets/Hammer
+  rotate: false
+  xy: 1696, 340
+  size: 140, 180
+  orig: 192, 180
+  offset: 52, 0
+  index: -1
+sym13-assets/bg
+  rotate: false
+  xy: 1838, 499
+  size: 89, 83
+  orig: 200, 188
+  offset: 56, 53
+  index: -1
+sym13-assets/bg_multiplier_Barbarian
+  rotate: true
+  xy: 2, 196
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym13-assets/copy
+  rotate: false
+  xy: 1873, 179
+  size: 159, 161
+  orig: 192, 180
+  offset: 18, 1
+  index: -1
+sym13-assets/dustring
+  rotate: true
+  xy: 1838, 342
+  size: 155, 160
+  orig: 192, 180
+  offset: 18, 10
+  index: -1
+sym13-assets/frame_gameSize
+  rotate: true
+  xy: 2, 390
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym13-assets/glow
+  rotate: false
+  xy: 730, 550
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+sym13-assets/hit
+  rotate: true
+  xy: 1878, 2
+  size: 165, 149
+  orig: 192, 180
+  offset: 12, 15
+  index: -1
+sym13-assets/wipe_barb_seq_001
+  rotate: true
+  xy: 184, 2
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_002
+  rotate: true
+  xy: 184, 196
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_003
+  rotate: true
+  xy: 184, 390
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_004
+  rotate: true
+  xy: 366, 2
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_005
+  rotate: true
+  xy: 366, 196
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_006
+  rotate: true
+  xy: 366, 390
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_007
+  rotate: true
+  xy: 548, 2
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_008
+  rotate: true
+  xy: 548, 196
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_009
+  rotate: true
+  xy: 548, 390
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym13-assets/wipe_barb_seq_010
+  rotate: true
+  xy: 730, 2
+  size: 192, 180
+  orig: 200, 187
+  offset: 4, 4
+  index: -1

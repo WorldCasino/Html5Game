@@ -1,0 +1,81 @@
+generic_win.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+generic_win-assets/wipe_01
+  rotate: true
+  xy: 2, 2
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_02
+  rotate: false
+  xy: 2, 204
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_03
+  rotate: true
+  xy: 192, 2
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_04
+  rotate: false
+  xy: 204, 204
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_05
+  rotate: true
+  xy: 382, 2
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_06
+  rotate: false
+  xy: 406, 204
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_07
+  rotate: true
+  xy: 572, 2
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_08
+  rotate: false
+  xy: 608, 204
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_09
+  rotate: false
+  xy: 762, 2
+  size: 186, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+generic_win-assets/wipe_10
+  rotate: true
+  xy: 810, 192
+  size: 142, 72
+  orig: 200, 188
+  offset: 40, 0
+  index: -1
+generic_win-assets/wipe_11
+  rotate: false
+  xy: 762, 192
+  size: 1, 1
+  orig: 200, 188
+  offset: 0, 187
+  index: -1

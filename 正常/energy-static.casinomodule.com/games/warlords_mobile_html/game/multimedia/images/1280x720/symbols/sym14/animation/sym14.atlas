@@ -1,0 +1,284 @@
+sym14.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym14-assets/ArmLow
+  rotate: true
+  xy: 453, 1077
+  size: 101, 80
+  orig: 104, 91
+  offset: 3, 1
+  index: -1
+sym14-assets/Arrow
+  rotate: false
+  xy: 2, 1978
+  size: 168, 53
+  orig: 173, 53
+  offset: 5, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_001
+  rotate: false
+  xy: 188, 904
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_002
+  rotate: false
+  xy: 187, 1459
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_003
+  rotate: false
+  xy: 186, 1638
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_004
+  rotate: false
+  xy: 185, 1817
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_005
+  rotate: true
+  xy: 366, 1265
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_006
+  rotate: true
+  xy: 368, 1446
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_007
+  rotate: false
+  xy: 368, 1627
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_008
+  rotate: false
+  xy: 367, 1806
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_009
+  rotate: true
+  xy: 382, 717
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_010
+  rotate: true
+  xy: 274, 1083
+  size: 180, 177
+  orig: 200, 179
+  offset: 13, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_011
+  rotate: false
+  xy: 2, 1799
+  size: 181, 177
+  orig: 200, 179
+  offset: 12, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_012
+  rotate: false
+  xy: 2, 1083
+  size: 183, 177
+  orig: 200, 179
+  offset: 10, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_013
+  rotate: false
+  xy: 2, 1262
+  size: 183, 177
+  orig: 200, 179
+  offset: 10, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_014
+  rotate: false
+  xy: 2, 904
+  size: 184, 177
+  orig: 200, 179
+  offset: 9, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_015
+  rotate: false
+  xy: 196, 717
+  size: 184, 177
+  orig: 200, 179
+  offset: 9, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_016
+  rotate: false
+  xy: 2, 1441
+  size: 183, 177
+  orig: 200, 179
+  offset: 10, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_017
+  rotate: false
+  xy: 2, 1620
+  size: 182, 177
+  orig: 200, 179
+  offset: 11, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_018
+  rotate: true
+  xy: 187, 1277
+  size: 180, 177
+  orig: 200, 179
+  offset: 13, 0
+  index: -1
+sym14-assets/BARBARIAN_Banner_seq_019
+  rotate: false
+  xy: 369, 898
+  size: 179, 177
+  orig: 200, 179
+  offset: 14, 0
+  index: -1
+sym14-assets/Bow_Upper
+  rotate: false
+  xy: 505, 634
+  size: 41, 72
+  orig: 41, 75
+  offset: 0, 0
+  index: -1
+sym14-assets/Bow_lower
+  rotate: false
+  xy: 505, 554
+  size: 54, 78
+  orig: 64, 82
+  offset: 10, 4
+  index: -1
+sym14-assets/Hand
+  rotate: false
+  xy: 390, 554
+  size: 113, 157
+  orig: 113, 157
+  offset: 0, 0
+  index: -1
+sym14-assets/Rope
+  rotate: false
+  xy: 196, 896
+  size: 100, 6
+  orig: 100, 6
+  offset: 0, 0
+  index: -1
+sym14-assets/bg
+  rotate: false
+  xy: 453, 1180
+  size: 89, 83
+  orig: 200, 188
+  offset: 56, 53
+  index: -1
+sym14-assets/bg_multiplier_priestess
+  rotate: false
+  xy: 2, 2
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym14-assets/copy
+  rotate: true
+  xy: 390, 390
+  size: 162, 146
+  orig: 192, 180
+  offset: 16, 2
+  index: -1
+sym14-assets/frame_gameSize
+  rotate: false
+  xy: 2, 184
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym14-assets/glow
+  rotate: false
+  xy: 521, 196
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+sym14-assets/wipe_priestess_seq_001
+  rotate: true
+  xy: 187, 1083
+  size: 192, 85
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_002
+  rotate: true
+  xy: 390, 196
+  size: 192, 129
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_003
+  rotate: true
+  xy: 390, 2
+  size: 192, 165
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_004
+  rotate: false
+  xy: 2, 728
+  size: 192, 174
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_005
+  rotate: false
+  xy: 196, 543
+  size: 192, 172
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_006
+  rotate: false
+  xy: 196, 364
+  size: 192, 177
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_007
+  rotate: false
+  xy: 196, 2
+  size: 192, 179
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_008
+  rotate: false
+  xy: 2, 366
+  size: 192, 179
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_009
+  rotate: false
+  xy: 196, 183
+  size: 192, 179
+  orig: 200, 187
+  offset: 4, 3
+  index: -1
+sym14-assets/wipe_priestess_seq_010
+  rotate: false
+  xy: 2, 547
+  size: 192, 179
+  orig: 200, 187
+  offset: 4, 3
+  index: -1

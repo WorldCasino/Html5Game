@@ -1,0 +1,571 @@
+
+MG_bgAnims0.png
+size: 1282,1011
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MG_bgAnims-assets/MG_BackGround
+  rotate: false
+  xy: 1, 1
+  size: 1280, 604
+  orig: 1280, 720
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/MG_foreGround
+  rotate: false
+  xy: 1, 607
+  size: 1280, 403
+  orig: 1280, 403
+  offset: 0, 0
+  index: -1
+
+MG_bgAnims1.png
+size: 1298,1008
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MG_bgAnims-assets/Axe
+  rotate: false
+  xy: 1054, 388
+  size: 129, 50
+  orig: 129, 50
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/FlagPole
+  rotate: false
+  xy: 1267, 1
+  size: 23, 315
+  orig: 23, 315
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/MG_flagLoop002
+  rotate: true
+  xy: 1156, 541
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop003
+  rotate: true
+  xy: 895, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop004
+  rotate: true
+  xy: 945, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop005
+  rotate: true
+  xy: 995, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop006
+  rotate: false
+  xy: 1206, 541
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop007
+  rotate: false
+  xy: 1206, 591
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop011
+  rotate: true
+  xy: 1045, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop012
+  rotate: true
+  xy: 694, 914
+  size: 92, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop013
+  rotate: false
+  xy: 1185, 388
+  size: 90, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop014
+  rotate: true
+  xy: 643, 914
+  size: 92, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop015
+  rotate: false
+  xy: 1185, 439
+  size: 90, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop016
+  rotate: false
+  xy: 1185, 490
+  size: 90, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop017
+  rotate: true
+  xy: 844, 914
+  size: 91, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop018
+  rotate: true
+  xy: 1095, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop019
+  rotate: true
+  xy: 744, 914
+  size: 92, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop020
+  rotate: true
+  xy: 794, 914
+  size: 92, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop021
+  rotate: true
+  xy: 1145, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop024
+  rotate: true
+  xy: 1195, 914
+  size: 91, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop026
+  rotate: true
+  xy: 1054, 541
+  size: 90, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop027
+  rotate: true
+  xy: 1105, 541
+  size: 90, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/backLight
+  rotate: true
+  xy: 727, 1
+  size: 640, 220
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/bg_glow
+  rotate: false
+  xy: 1054, 186
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/bottom_fog_NEW
+  rotate: false
+  xy: 1, 645
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/clouds1
+  rotate: false
+  xy: 643, 643
+  size: 640, 269
+  orig: 640, 360
+  offset: 0, 45
+  index: -1
+MG_bgAnims-assets/fog_streaks
+  rotate: true
+  xy: 949, 1
+  size: 625, 103
+  orig: 640, 360
+  offset: 0, 14
+  index: -1
+MG_bgAnims-assets/sky_clean
+  rotate: true
+  xy: 1, 1
+  size: 642, 362
+  orig: 1280, 720
+  offset: 319, 179
+  index: -1
+MG_bgAnims-assets/sky_clean_highlights
+  rotate: true
+  xy: 365, 1
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_Axe
+  rotate: false
+  xy: 1054, 440
+  size: 129, 50
+  orig: 129, 50
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_Head
+  rotate: true
+  xy: 1256, 318
+  size: 52, 39
+  orig: 53, 39
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_LowArm
+  rotate: true
+  xy: 1054, 492
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_UpperArm
+  rotate: false
+  xy: 1245, 914
+  size: 52, 80
+  orig: 52, 80
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_body
+  rotate: true
+  xy: 1054, 1
+  size: 183, 211
+  orig: 183, 211
+  offset: 0, 0
+  index: -1
+
+MG_bgAnims2.png
+size: 1071,1003
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MG_bgAnims-assets/Cloth_Loop0001
+  rotate: false
+  xy: 159, 403
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0002
+  rotate: false
+  xy: 160, 203
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0003
+  rotate: false
+  xy: 1, 203
+  size: 157, 198
+  orig: 200, 200
+  offset: 22, 1
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0004
+  rotate: false
+  xy: 159, 602
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0005
+  rotate: false
+  xy: 203, 1
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0006
+  rotate: true
+  xy: 478, 637
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0007
+  rotate: true
+  xy: 719, 159
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0008
+  rotate: true
+  xy: 478, 317
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0009
+  rotate: true
+  xy: 676, 319
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0010
+  rotate: false
+  xy: 1, 803
+  size: 158, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0011
+  rotate: false
+  xy: 161, 801
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0012
+  rotate: false
+  xy: 319, 200
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0013
+  rotate: false
+  xy: 1, 403
+  size: 156, 198
+  orig: 200, 200
+  offset: 22, 1
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0014
+  rotate: false
+  xy: 362, 1
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0015
+  rotate: false
+  xy: 320, 800
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0016
+  rotate: true
+  xy: 874, 520
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0017
+  rotate: true
+  xy: 676, 639
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0018
+  rotate: true
+  xy: 478, 796
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0019
+  rotate: true
+  xy: 874, 679
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0020
+  rotate: false
+  xy: 318, 402
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0021
+  rotate: true
+  xy: 520, 1
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0022
+  rotate: true
+  xy: 719, 1
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0023
+  rotate: false
+  xy: 1, 603
+  size: 156, 198
+  orig: 200, 200
+  offset: 22, 1
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0024
+  rotate: true
+  xy: 520, 159
+  size: 156, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0025
+  rotate: false
+  xy: 318, 601
+  size: 157, 197
+  orig: 200, 200
+  offset: 22, 2
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0026
+  rotate: true
+  xy: 676, 798
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0027
+  rotate: true
+  xy: 874, 838
+  size: 157, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0028
+  rotate: true
+  xy: 478, 477
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0029
+  rotate: true
+  xy: 874, 360
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/Cloth_Loop0030
+  rotate: true
+  xy: 676, 479
+  size: 158, 196
+  orig: 200, 200
+  offset: 22, 3
+  index: -1
+MG_bgAnims-assets/MG_flagLoop001
+  rotate: false
+  xy: 917, 251
+  size: 89, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop008
+  rotate: false
+  xy: 918, 1
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop009
+  rotate: false
+  xy: 918, 51
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop010
+  rotate: false
+  xy: 918, 101
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop022
+  rotate: false
+  xy: 918, 151
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop023
+  rotate: false
+  xy: 917, 201
+  size: 90, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop025
+  rotate: true
+  xy: 1008, 269
+  size: 89, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop028
+  rotate: true
+  xy: 1010, 92
+  size: 88, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop029
+  rotate: true
+  xy: 1010, 1
+  size: 89, 49
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/MG_flagLoop030
+  rotate: false
+  xy: 917, 301
+  size: 89, 48
+  orig: 150, 84
+  offset: 25, 16
+  index: -1
+MG_bgAnims-assets/glow
+  rotate: false
+  xy: 1, 1
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorL_LArmShine
+  rotate: true
+  xy: 478, 955
+  size: 47, 73
+  orig: 47, 73
+  offset: 0, 0
+  index: -1
+MG_bgAnims-assets/warriorR_Mask
+  rotate: false
+  xy: 1010, 182
+  size: 49, 85
+  orig: 49, 86
+  offset: 0, 1
+  index: -1

@@ -1,0 +1,186 @@
+sym1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym1-assets/crack
+  rotate: true
+  xy: 93, 1960
+  size: 74, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+sym1-assets/gem_shine
+  rotate: true
+  xy: 2, 496
+  size: 184, 186
+  orig: 300, 288
+  offset: 67, 60
+  index: -1
+sym1-assets/knot
+  rotate: false
+  xy: 174, 682
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+sym1-assets/null
+  rotate: false
+  xy: 2, 1969
+  size: 38, 38
+  orig: 40, 40
+  offset: 1, 1
+  index: -1
+sym1-assets/red_cloth_Up
+  rotate: false
+  xy: 174, 765
+  size: 19, 60
+  orig: 19, 64
+  offset: 0, 2
+  index: -1
+sym1-assets/red_cloth_low
+  rotate: false
+  xy: 174, 702
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+sym1-assets/sword_end
+  rotate: false
+  xy: 2, 1363
+  size: 155, 73
+  orig: 170, 73
+  offset: 14, 0
+  index: -1
+sym1-assets/sym1
+  rotate: false
+  xy: 2, 112
+  size: 192, 180
+  orig: 200, 188
+  offset: 4, 4
+  index: -1
+sym1-assets/whitOut
+  rotate: false
+  xy: 2, 1438
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+sym1-assets/whiteOut_swordPart
+  rotate: false
+  xy: 2, 1240
+  size: 155, 121
+  orig: 170, 200
+  offset: 14, 16
+  index: -1
+sym1-assets/wild_glow
+  rotate: false
+  xy: 2, 2
+  size: 194, 108
+  orig: 240, 210
+  offset: 22, 50
+  index: -1
+sym1-assets/wild_text
+  rotate: true
+  xy: 2, 849
+  size: 240, 158
+  orig: 240, 210
+  offset: 0, 25
+  index: -1
+sym1-assets/wild_win_refl_005
+  rotate: false
+  xy: 104, 1438
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_006
+  rotate: false
+  xy: 104, 1525
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_007
+  rotate: false
+  xy: 2, 1534
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_008
+  rotate: false
+  xy: 93, 1612
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_009
+  rotate: false
+  xy: 2, 1621
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_010
+  rotate: false
+  xy: 93, 1699
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_011
+  rotate: false
+  xy: 2, 1708
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_012
+  rotate: false
+  xy: 93, 1786
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_013
+  rotate: false
+  xy: 2, 1795
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_014
+  rotate: false
+  xy: 93, 1873
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/wild_win_refl_015
+  rotate: false
+  xy: 2, 1882
+  size: 89, 85
+  orig: 89, 85
+  offset: 0, 0
+  index: -1
+sym1-assets/win_BGplate
+  rotate: true
+  xy: 2, 294
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym1-assets/win_ring
+  rotate: false
+  xy: 2, 682
+  size: 170, 165
+  orig: 200, 188
+  offset: 22, 14
+  index: -1
+sym1-assets/win_ring_shadow
+  rotate: false
+  xy: 2, 1091
+  size: 156, 147
+  orig: 200, 188
+  offset: 19, 22
+  index: -1

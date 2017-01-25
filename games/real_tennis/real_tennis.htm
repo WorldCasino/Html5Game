@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title></title>
+        <link rel="stylesheet" href="css/reset.css" type="text/css">
+        <link rel="stylesheet" href="css/main.css" type="text/css">
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui" />
+        <meta name="msapplication-tap-highlight" content="no"/>
+
+        <script type="text/javascript" src="js/jquery-2.0.3.min.js"></script>
+        <script type="text/javascript" src="js/createjs-2015.11.26.min.js"></script>
+		<script type="text/javascript" src="js/main.js"></script>
+        <script type="text/javascript" src="js/cannon.js"></script>
+        <script type="text/javascript" src="js/cannon.demo.js"></script>
+        <script type="text/javascript" src="js/Three.js"></script>
+        <script type="text/javascript" src="js/CanvasRenderer.js"></script>
+        <script type="text/javascript" src="js/dat.gui.js"></script>
+        <script type="text/javascript" src="js/Detector.js"></script>
+        <script type="text/javascript" src="js/FBXLoader.js"></script>
+        <script type="text/javascript" src="js/OBJLoader.js"></script>
+        <script type="text/javascript" src="js/Projector.js"></script>
+        <script type="text/javascript" src="js/smoothie.js"></script>
+        <script type="text/javascript" src="js/SoftwareRenderer.js"></script>
+        <script type="text/javascript" src="js/Stats.js"></script>
+        <script type="text/javascript" src="js/TrackballControls.js"></script>
+       
+        <script type="text/javascript" src="js/CCreditsPanel.js"></script>
+
+    </head>
+    <body ondragstart="return false;" ondrop="return false;" >
+        <div style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%"></div>
+        <script>
+            $(document).ready(function () {
+                var oMain = new CMain({
+                    fullscreen: true, //SET THIS TO FALSE IF YOU DON'T WANT TO SHOW FULLSCREEN BUTTON
+                    scores_to_earn: 50, //Number of earning score per player point
+                    scores_to_lose: -50, //Number of losing points per opponent point
+                    player_speed: 15, //Player speed in 3D unit
+                    opponent_speed: [6, 8, 10, 12, 14], //Opponent speed per level in 3D unit
+                    player_acceleration: 1, //Player acceleration increase 
+                    opponent_acceleration: [0.6, 0.7, 0.8, 0.9, 1], //Opponent acceleration increase 
+                    opponent_force_x_range: [25, 25, 25, 25, 25], //Opponent force range X of precision point
+                    opponent_force_y_range: [10, 10, 10, 10, 10], //Opponent force range Y of precision point
+                    opponent_force_z_range: [{min: 85, max: 210}, {min: 85, max: 210}, {min: 85, max: 210}, {min: 85, max: 210}, {min: 85, max: 210}], //Opponent force Z depend on distance from him and net
+                    opponent_distance_y_multiplier: [{min: 0.9, max: 1.1}, {min: 0.9, max: 1.1}, {min: 0.9, max: 1.1}, {min: 0.9, max: 1.1}, {min: 0.9, max: 1.1}], //Multiplier random range value for y precision shot point
+                    set_for_win: 3, //If reach this set point end the level  (ALLOWED:1, 3, 5)
+                    //////////////////////////////////////////////////////////////////////////////////////////
+                    ad_show_counter: 2     //NUMBER OF INSERTED-NUMBERS BEFORE AD SHOWN
+                            //
+                            //// THIS FUNCTIONALITY IS ACTIVATED ONLY WITH CTL ARCADE PLUGIN.///////////////////////////
+                            /////////////////// YOU CAN GET IT AT: /////////////////////////////////////////////////////////
+                            // http://codecanyon.net/item/ctl-arcade-wordpress-plugin/13856421?s_phrase=&s_rank=27 ///////////
+
+                });
+                $(oMain).on("start_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartSession();
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("end_session", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndSession();
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("restart_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeRestartLevel({level: iLevel});
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("save_score", function (evt, iScore, szMode) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeSaveScore({score: iScore, mode: szMode});
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("start_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeStartLevel({level: iLevel});
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("end_level", function (evt, iLevel) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeEndLevel({level: iLevel});
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("show_interlevel_ad", function (evt) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShowInterlevelAD();
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                $(oMain).on("share_event", function (evt, iScore) {
+                    if (getParamValue('ctl-arcade') === "true") {
+                        parent.__ctlArcadeShareEvent({img: TEXT_SHARE_IMAGE,
+                            title: TEXT_SHARE_TITLE,
+                            msg: TEXT_SHARE_MSG1 + iScore + TEXT_SHARE_MSG2,
+                            msg_share: TEXT_SHARE_SHARE1 + iScore + TEXT_SHARE_SHARE1});
+                    }
+                    //...ADD YOUR CODE HERE EVENTUALLY
+                });
+                if (isIOS()) {
+                    setTimeout(function () {
+                        sizeHandler();
+                    }, 210);
+                } else {
+                    sizeHandler();
+                }
+
+            });
+
+        </script>
+        <canvas id="canvas" class='ani_hack' width="1280" height="768"> </canvas>
+        <div id="block_game" style="position: fixed; background-color: transparent; top: 0px; left: 0px; width: 100%; height: 100%; display:none"></div>
+
+    </body>
+</html>

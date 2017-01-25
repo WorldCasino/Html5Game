@@ -1,0 +1,1266 @@
+
+stackedIdlesFX.png
+size: 1980,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+stackedIdleFx-assets/petals_001
+  rotate: false
+  xy: 1879, 868
+  size: 86, 149
+  orig: 100, 282
+  offset: 6, 127
+  index: -1
+stackedIdleFx-assets/petals_002
+  rotate: false
+  xy: 1550, 1147
+  size: 86, 150
+  orig: 100, 282
+  offset: 6, 126
+  index: -1
+stackedIdleFx-assets/petals_003
+  rotate: true
+  xy: 1507, 1954
+  size: 86, 164
+  orig: 100, 282
+  offset: 6, 112
+  index: -1
+stackedIdleFx-assets/petals_004
+  rotate: false
+  xy: 1888, 1234
+  size: 86, 167
+  orig: 100, 282
+  offset: 6, 110
+  index: -1
+stackedIdleFx-assets/petals_005
+  rotate: false
+  xy: 1861, 1729
+  size: 87, 169
+  orig: 100, 282
+  offset: 6, 108
+  index: -1
+stackedIdleFx-assets/petals_006
+  rotate: false
+  xy: 1872, 1062
+  size: 87, 170
+  orig: 100, 282
+  offset: 6, 107
+  index: -1
+stackedIdleFx-assets/petals_007
+  rotate: false
+  xy: 1773, 1729
+  size: 86, 171
+  orig: 100, 282
+  offset: 7, 105
+  index: -1
+stackedIdleFx-assets/petals_008
+  rotate: true
+  xy: 1684, 1902
+  size: 86, 170
+  orig: 100, 282
+  offset: 7, 104
+  index: -1
+stackedIdleFx-assets/petals_009
+  rotate: false
+  xy: 1684, 1726
+  size: 87, 174
+  orig: 100, 282
+  offset: 7, 102
+  index: -1
+stackedIdleFx-assets/petals_010
+  rotate: true
+  xy: 1, 1903
+  size: 87, 176
+  orig: 100, 282
+  offset: 7, 100
+  index: -1
+stackedIdleFx-assets/petals_011
+  rotate: false
+  xy: 1799, 1319
+  size: 87, 175
+  orig: 100, 282
+  offset: 7, 99
+  index: -1
+stackedIdleFx-assets/petals_012
+  rotate: false
+  xy: 179, 1867
+  size: 87, 180
+  orig: 100, 282
+  offset: 7, 97
+  index: -1
+stackedIdleFx-assets/petals_013
+  rotate: false
+  xy: 887, 889
+  size: 88, 181
+  orig: 100, 282
+  offset: 6, 96
+  index: -1
+stackedIdleFx-assets/petals_014
+  rotate: false
+  xy: 977, 889
+  size: 88, 183
+  orig: 100, 282
+  offset: 6, 94
+  index: -1
+stackedIdleFx-assets/petals_015
+  rotate: false
+  xy: 1507, 1766
+  size: 87, 185
+  orig: 100, 282
+  offset: 7, 92
+  index: -1
+stackedIdleFx-assets/petals_016
+  rotate: false
+  xy: 445, 1846
+  size: 87, 186
+  orig: 100, 282
+  offset: 7, 91
+  index: -1
+stackedIdleFx-assets/petals_017
+  rotate: false
+  xy: 268, 1859
+  size: 87, 187
+  orig: 100, 282
+  offset: 7, 89
+  index: -1
+stackedIdleFx-assets/petals_018
+  rotate: false
+  xy: 1596, 1766
+  size: 86, 186
+  orig: 100, 282
+  offset: 8, 88
+  index: -1
+stackedIdleFx-assets/petals_019
+  rotate: false
+  xy: 357, 1850
+  size: 86, 187
+  orig: 100, 282
+  offset: 8, 86
+  index: -1
+stackedIdleFx-assets/petals_020
+  rotate: false
+  xy: 1152, 1801
+  size: 86, 211
+  orig: 100, 282
+  offset: 8, 65
+  index: -1
+stackedIdleFx-assets/petals_021
+  rotate: false
+  xy: 975, 1818
+  size: 86, 216
+  orig: 100, 282
+  offset: 8, 60
+  index: -1
+stackedIdleFx-assets/petals_022
+  rotate: false
+  xy: 887, 1826
+  size: 86, 218
+  orig: 100, 282
+  offset: 8, 58
+  index: -1
+stackedIdleFx-assets/petals_023
+  rotate: false
+  xy: 800, 1828
+  size: 85, 219
+  orig: 100, 282
+  offset: 9, 57
+  index: -1
+stackedIdleFx-assets/petals_024
+  rotate: true
+  xy: 1649, 1147
+  size: 85, 221
+  orig: 100, 282
+  offset: 9, 55
+  index: -1
+stackedIdleFx-assets/petals_025
+  rotate: true
+  xy: 1649, 1234
+  size: 83, 222
+  orig: 100, 282
+  offset: 9, 54
+  index: -1
+stackedIdleFx-assets/petals_026
+  rotate: true
+  xy: 1574, 1319
+  size: 87, 223
+  orig: 100, 282
+  offset: 6, 52
+  index: -1
+stackedIdleFx-assets/petals_027
+  rotate: false
+  xy: 1394, 1308
+  size: 88, 226
+  orig: 100, 282
+  offset: 6, 51
+  index: -1
+stackedIdleFx-assets/petals_028
+  rotate: true
+  xy: 1315, 1137
+  size: 88, 228
+  orig: 100, 282
+  offset: 6, 49
+  index: -1
+stackedIdleFx-assets/petals_029
+  rotate: false
+  xy: 534, 1838
+  size: 86, 208
+  orig: 100, 282
+  offset: 7, 69
+  index: -1
+stackedIdleFx-assets/petals_030
+  rotate: false
+  xy: 1418, 1768
+  size: 87, 207
+  orig: 100, 282
+  offset: 7, 69
+  index: -1
+stackedIdleFx-assets/petals_031
+  rotate: false
+  xy: 1329, 1794
+  size: 87, 208
+  orig: 100, 282
+  offset: 7, 68
+  index: -1
+stackedIdleFx-assets/petals_032
+  rotate: false
+  xy: 1240, 1798
+  size: 87, 210
+  orig: 100, 282
+  offset: 7, 66
+  index: -1
+stackedIdleFx-assets/petals_033
+  rotate: false
+  xy: 622, 1835
+  size: 87, 212
+  orig: 100, 282
+  offset: 7, 65
+  index: -1
+stackedIdleFx-assets/petals_034
+  rotate: false
+  xy: 1063, 1815
+  size: 87, 213
+  orig: 100, 282
+  offset: 7, 63
+  index: -1
+stackedIdleFx-assets/petals_035
+  rotate: false
+  xy: 711, 1832
+  size: 87, 215
+  orig: 100, 282
+  offset: 7, 62
+  index: -1
+stackedIdleFx-assets/petals_036
+  rotate: false
+  xy: 1649, 1496
+  size: 87, 221
+  orig: 100, 282
+  offset: 7, 55
+  index: -1
+stackedIdleFx-assets/petals_037
+  rotate: true
+  xy: 1574, 1408
+  size: 86, 223
+  orig: 100, 282
+  offset: 8, 53
+  index: -1
+stackedIdleFx-assets/petals_038
+  rotate: false
+  xy: 1484, 1308
+  size: 88, 225
+  orig: 100, 282
+  offset: 6, 51
+  index: -1
+stackedIdleFx-assets/petals_039
+  rotate: false
+  xy: 1738, 1496
+  size: 76, 228
+  orig: 100, 282
+  offset: 7, 49
+  index: -1
+stackedIdleFx-assets/petals_040
+  rotate: false
+  xy: 1572, 1535
+  size: 75, 229
+  orig: 100, 282
+  offset: 8, 47
+  index: -1
+stackedIdleFx-assets/petals_041
+  rotate: false
+  xy: 1816, 1496
+  size: 77, 231
+  orig: 100, 282
+  offset: 7, 45
+  index: -1
+stackedIdleFx-assets/petals_042
+  rotate: true
+  xy: 1315, 1227
+  size: 79, 233
+  orig: 100, 282
+  offset: 6, 43
+  index: -1
+stackedIdleFx-assets/petals_043
+  rotate: true
+  xy: 1399, 1055
+  size: 80, 235
+  orig: 100, 282
+  offset: 6, 42
+  index: -1
+stackedIdleFx-assets/petals_044
+  rotate: true
+  xy: 1399, 887
+  size: 80, 237
+  orig: 100, 282
+  offset: 6, 40
+  index: -1
+stackedIdleFx-assets/petals_045
+  rotate: false
+  xy: 1317, 1553
+  size: 80, 239
+  orig: 100, 282
+  offset: 7, 38
+  index: -1
+stackedIdleFx-assets/petals_046
+  rotate: false
+  xy: 1314, 1311
+  size: 78, 240
+  orig: 100, 282
+  offset: 10, 36
+  index: -1
+stackedIdleFx-assets/petals_047
+  rotate: false
+  xy: 1145, 1557
+  size: 82, 242
+  orig: 100, 282
+  offset: 7, 35
+  index: -1
+stackedIdleFx-assets/petals_048
+  rotate: true
+  xy: 1636, 1062
+  size: 83, 234
+  orig: 100, 282
+  offset: 7, 42
+  index: -1
+stackedIdleFx-assets/petals_049
+  rotate: true
+  xy: 1399, 969
+  size: 84, 236
+  orig: 100, 282
+  offset: 7, 40
+  index: -1
+stackedIdleFx-assets/petals_050
+  rotate: true
+  xy: 1397, 626
+  size: 85, 248
+  orig: 100, 282
+  offset: 7, 28
+  index: -1
+stackedIdleFx-assets/petals_051
+  rotate: false
+  xy: 795, 1324
+  size: 84, 250
+  orig: 100, 282
+  offset: 9, 26
+  index: -1
+stackedIdleFx-assets/petals_052
+  rotate: false
+  xy: 532, 1331
+  size: 85, 252
+  orig: 100, 282
+  offset: 9, 24
+  index: -1
+stackedIdleFx-assets/petals_053
+  rotate: false
+  xy: 354, 1595
+  size: 88, 253
+  orig: 100, 282
+  offset: 6, 22
+  index: -1
+stackedIdleFx-assets/petals_054
+  rotate: false
+  xy: 353, 1339
+  size: 88, 254
+  orig: 100, 282
+  offset: 6, 20
+  index: -1
+stackedIdleFx-assets/petals_055
+  rotate: false
+  xy: 443, 1336
+  size: 87, 253
+  orig: 100, 282
+  offset: 7, 19
+  index: -1
+stackedIdleFx-assets/petals_056
+  rotate: false
+  xy: 444, 1591
+  size: 87, 253
+  orig: 100, 282
+  offset: 7, 17
+  index: -1
+stackedIdleFx-assets/petals_057
+  rotate: true
+  xy: 1662, 538
+  size: 87, 252
+  orig: 100, 282
+  offset: 7, 17
+  index: -1
+stackedIdleFx-assets/petals_058
+  rotate: true
+  xy: 623, 720
+  size: 87, 260
+  orig: 100, 282
+  offset: 7, 17
+  index: -1
+stackedIdleFx-assets/petals_059
+  rotate: false
+  xy: 710, 809
+  size: 87, 260
+  orig: 100, 282
+  offset: 7, 17
+  index: -1
+stackedIdleFx-assets/petals_060
+  rotate: false
+  xy: 179, 1087
+  size: 84, 259
+  orig: 100, 282
+  offset: 7, 17
+  index: -1
+stackedIdleFx-assets/rain_001
+  rotate: false
+  xy: 615, 1074
+  size: 86, 252
+  orig: 100, 282
+  offset: 7, 24
+  index: -1
+stackedIdleFx-assets/rain_002
+  rotate: false
+  xy: 881, 1324
+  size: 86, 249
+  orig: 100, 282
+  offset: 7, 27
+  index: -1
+stackedIdleFx-assets/rain_003
+  rotate: true
+  xy: 897, 538
+  size: 86, 253
+  orig: 100, 282
+  offset: 7, 23
+  index: -1
+stackedIdleFx-assets/rain_004
+  rotate: false
+  xy: 619, 1328
+  size: 86, 252
+  orig: 100, 282
+  offset: 7, 22
+  index: -1
+stackedIdleFx-assets/rain_005
+  rotate: true
+  xy: 1399, 800
+  size: 85, 238
+  orig: 100, 282
+  offset: 7, 38
+  index: -1
+stackedIdleFx-assets/rain_006
+  rotate: true
+  xy: 1641, 714
+  size: 85, 241
+  orig: 100, 282
+  offset: 7, 35
+  index: -1
+stackedIdleFx-assets/rain_007
+  rotate: true
+  xy: 1397, 713
+  size: 85, 242
+  orig: 100, 282
+  offset: 7, 34
+  index: -1
+stackedIdleFx-assets/rain_008
+  rotate: true
+  xy: 887, 801
+  size: 86, 246
+  orig: 100, 282
+  offset: 7, 30
+  index: -1
+stackedIdleFx-assets/rain_009
+  rotate: true
+  xy: 1135, 802
+  size: 86, 246
+  orig: 100, 282
+  offset: 7, 30
+  index: -1
+stackedIdleFx-assets/rain_010
+  rotate: false
+  xy: 882, 1575
+  size: 86, 249
+  orig: 100, 282
+  offset: 7, 26
+  index: -1
+stackedIdleFx-assets/rain_011
+  rotate: true
+  xy: 1152, 538
+  size: 86, 253
+  orig: 100, 282
+  offset: 7, 22
+  index: -1
+stackedIdleFx-assets/rain_012
+  rotate: true
+  xy: 1407, 538
+  size: 86, 253
+  orig: 100, 282
+  offset: 7, 23
+  index: -1
+stackedIdleFx-assets/rain_013
+  rotate: false
+  xy: 179, 1608
+  size: 86, 257
+  orig: 100, 282
+  offset: 7, 19
+  index: -1
+stackedIdleFx-assets/rain_014
+  rotate: false
+  xy: 799, 809
+  size: 86, 261
+  orig: 100, 282
+  offset: 7, 15
+  index: -1
+stackedIdleFx-assets/rain_015
+  rotate: true
+  xy: 897, 451
+  size: 85, 268
+  orig: 100, 282
+  offset: 8, 8
+  index: -1
+stackedIdleFx-assets/rain_016
+  rotate: false
+  xy: 708, 1580
+  size: 85, 250
+  orig: 100, 282
+  offset: 8, 25
+  index: -1
+stackedIdleFx-assets/rain_017
+  rotate: false
+  xy: 528, 1076
+  size: 85, 253
+  orig: 100, 282
+  offset: 8, 22
+  index: -1
+stackedIdleFx-assets/rain_018
+  rotate: false
+  xy: 265, 1085
+  size: 85, 257
+  orig: 100, 282
+  offset: 8, 19
+  index: -1
+stackedIdleFx-assets/rain_019
+  rotate: true
+  xy: 1647, 627
+  size: 85, 246
+  orig: 100, 282
+  offset: 8, 29
+  index: -1
+stackedIdleFx-assets/rain_020
+  rotate: false
+  xy: 533, 1585
+  size: 85, 251
+  orig: 100, 282
+  offset: 8, 25
+  index: -1
+stackedIdleFx-assets/rain_021
+  rotate: false
+  xy: 1053, 1074
+  size: 85, 245
+  orig: 100, 282
+  offset: 8, 31
+  index: -1
+stackedIdleFx-assets/rain_022
+  rotate: false
+  xy: 795, 1576
+  size: 85, 250
+  orig: 100, 282
+  offset: 8, 26
+  index: -1
+stackedIdleFx-assets/rain_023
+  rotate: false
+  xy: 267, 1603
+  size: 85, 254
+  orig: 100, 282
+  offset: 8, 22
+  index: -1
+stackedIdleFx-assets/rain_024
+  rotate: true
+  xy: 1639, 801
+  size: 85, 238
+  orig: 100, 282
+  offset: 8, 36
+  index: -1
+stackedIdleFx-assets/rain_025
+  rotate: true
+  xy: 1638, 888
+  size: 85, 237
+  orig: 100, 282
+  offset: 8, 34
+  index: -1
+stackedIdleFx-assets/rain_026
+  rotate: false
+  xy: 1053, 1321
+  size: 85, 245
+  orig: 100, 282
+  offset: 8, 31
+  index: -1
+stackedIdleFx-assets/rain_027
+  rotate: false
+  xy: 1227, 1312
+  size: 85, 241
+  orig: 100, 282
+  offset: 8, 35
+  index: -1
+stackedIdleFx-assets/rain_028
+  rotate: false
+  xy: 1140, 1312
+  size: 85, 243
+  orig: 100, 282
+  offset: 8, 30
+  index: -1
+stackedIdleFx-assets/rain_029
+  rotate: false
+  xy: 1058, 1568
+  size: 85, 245
+  orig: 100, 282
+  offset: 8, 31
+  index: -1
+stackedIdleFx-assets/rain_030
+  rotate: false
+  xy: 969, 1322
+  size: 82, 246
+  orig: 100, 282
+  offset: 8, 29
+  index: -1
+stackedIdleFx-assets/rain_031
+  rotate: false
+  xy: 703, 1074
+  size: 84, 251
+  orig: 100, 282
+  offset: 8, 25
+  index: -1
+stackedIdleFx-assets/rain_032
+  rotate: false
+  xy: 1399, 1536
+  size: 84, 230
+  orig: 100, 282
+  offset: 8, 41
+  index: -1
+stackedIdleFx-assets/rain_033
+  rotate: false
+  xy: 1895, 627
+  size: 84, 239
+  orig: 100, 282
+  offset: 8, 37
+  index: -1
+stackedIdleFx-assets/rain_034
+  rotate: false
+  xy: 1228, 1066
+  size: 85, 243
+  orig: 100, 282
+  offset: 7, 33
+  index: -1
+stackedIdleFx-assets/rain_035
+  rotate: false
+  xy: 1485, 1535
+  size: 85, 229
+  orig: 100, 282
+  offset: 7, 46
+  index: -1
+stackedIdleFx-assets/rain_036
+  rotate: true
+  xy: 1637, 975
+  size: 85, 236
+  orig: 100, 282
+  offset: 7, 36
+  index: -1
+stackedIdleFx-assets/rain_037
+  rotate: true
+  xy: 885, 714
+  size: 85, 248
+  orig: 100, 282
+  offset: 7, 27
+  index: -1
+stackedIdleFx-assets/rain_038
+  rotate: false
+  xy: 266, 1344
+  size: 85, 257
+  orig: 100, 282
+  offset: 7, 19
+  index: -1
+stackedIdleFx-assets/rain_039
+  rotate: false
+  xy: 446, 542
+  size: 85, 265
+  orig: 100, 282
+  offset: 7, 11
+  index: -1
+stackedIdleFx-assets/rain_040
+  rotate: false
+  xy: 446, 809
+  size: 85, 265
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/rain_041
+  rotate: false
+  xy: 440, 1080
+  size: 86, 254
+  orig: 100, 282
+  offset: 7, 22
+  index: -1
+stackedIdleFx-assets/rain_042
+  rotate: true
+  xy: 1135, 714
+  size: 86, 247
+  orig: 100, 282
+  offset: 7, 28
+  index: -1
+stackedIdleFx-assets/rain_043
+  rotate: false
+  xy: 620, 1582
+  size: 86, 251
+  orig: 100, 282
+  offset: 7, 25
+  index: -1
+stackedIdleFx-assets/rain_044
+  rotate: false
+  xy: 965, 1074
+  size: 86, 246
+  orig: 100, 282
+  offset: 7, 30
+  index: -1
+stackedIdleFx-assets/rain_045
+  rotate: true
+  xy: 896, 626
+  size: 86, 249
+  orig: 100, 282
+  offset: 7, 27
+  index: -1
+stackedIdleFx-assets/rain_046
+  rotate: true
+  xy: 1709, 272
+  size: 86, 264
+  orig: 100, 282
+  offset: 7, 11
+  index: -1
+stackedIdleFx-assets/rain_047
+  rotate: false
+  xy: 970, 1570
+  size: 86, 246
+  orig: 100, 282
+  offset: 7, 30
+  index: -1
+stackedIdleFx-assets/rain_048
+  rotate: false
+  xy: 707, 1327
+  size: 86, 251
+  orig: 100, 282
+  offset: 7, 25
+  index: -1
+stackedIdleFx-assets/rain_049
+  rotate: false
+  xy: 352, 1080
+  size: 86, 257
+  orig: 100, 282
+  offset: 7, 19
+  index: -1
+stackedIdleFx-assets/rain_050
+  rotate: true
+  xy: 1067, 978
+  size: 86, 245
+  orig: 100, 282
+  offset: 7, 31
+  index: -1
+stackedIdleFx-assets/rain_051
+  rotate: false
+  xy: 179, 1348
+  size: 85, 258
+  orig: 100, 282
+  offset: 7, 18
+  index: -1
+stackedIdleFx-assets/rain_052
+  rotate: true
+  xy: 623, 627
+  size: 91, 260
+  orig: 100, 282
+  offset: 7, 22
+  index: -1
+stackedIdleFx-assets/rain_053
+  rotate: false
+  xy: 622, 809
+  size: 86, 263
+  orig: 100, 282
+  offset: 7, 13
+  index: -1
+stackedIdleFx-assets/rain_054
+  rotate: false
+  xy: 180, 273
+  size: 86, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/rain_055
+  rotate: false
+  xy: 1229, 1555
+  size: 86, 241
+  orig: 100, 282
+  offset: 7, 35
+  index: -1
+stackedIdleFx-assets/rain_056
+  rotate: true
+  xy: 1067, 890
+  size: 86, 246
+  orig: 100, 282
+  offset: 7, 30
+  index: -1
+stackedIdleFx-assets/rain_057
+  rotate: false
+  xy: 789, 1072
+  size: 86, 250
+  orig: 100, 282
+  offset: 7, 26
+  index: -1
+stackedIdleFx-assets/rain_058
+  rotate: false
+  xy: 877, 1072
+  size: 86, 250
+  orig: 100, 282
+  offset: 7, 23
+  index: -1
+stackedIdleFx-assets/rain_059
+  rotate: false
+  xy: 1140, 1066
+  size: 86, 244
+  orig: 100, 282
+  offset: 7, 32
+  index: -1
+stackedIdleFx-assets/rain_060
+  rotate: true
+  xy: 1147, 626
+  size: 86, 248
+  orig: 100, 282
+  offset: 7, 28
+  index: -1
+stackedIdleFx-assets/snow_001
+  rotate: false
+  xy: 1, 545
+  size: 87, 270
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_002
+  rotate: false
+  xy: 91, 273
+  size: 87, 270
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_003
+  rotate: false
+  xy: 181, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_004
+  rotate: false
+  xy: 1, 1361
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_005
+  rotate: false
+  xy: 448, 272
+  size: 88, 267
+  orig: 100, 282
+  offset: 6, 9
+  index: -1
+stackedIdleFx-assets/snow_006
+  rotate: false
+  xy: 538, 272
+  size: 88, 267
+  orig: 100, 282
+  offset: 6, 9
+  index: -1
+stackedIdleFx-assets/snow_007
+  rotate: true
+  xy: 628, 450
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/snow_008
+  rotate: true
+  xy: 898, 362
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/snow_009
+  rotate: true
+  xy: 1167, 360
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/snow_010
+  rotate: false
+  xy: 180, 815
+  size: 87, 268
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_011
+  rotate: true
+  xy: 1436, 360
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_012
+  rotate: false
+  xy: 358, 542
+  size: 86, 267
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_013
+  rotate: true
+  xy: 1167, 449
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_014
+  rotate: false
+  xy: 90, 1359
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_015
+  rotate: false
+  xy: 90, 545
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_016
+  rotate: false
+  xy: 533, 541
+  size: 88, 264
+  orig: 100, 282
+  offset: 6, 12
+  index: -1
+stackedIdleFx-assets/snow_017
+  rotate: true
+  xy: 1705, 449
+  size: 87, 265
+  orig: 100, 282
+  offset: 7, 11
+  index: -1
+stackedIdleFx-assets/snow_018
+  rotate: false
+  xy: 533, 807
+  size: 87, 265
+  orig: 100, 282
+  offset: 7, 11
+  index: -1
+stackedIdleFx-assets/snow_019
+  rotate: true
+  xy: 628, 539
+  size: 86, 266
+  orig: 100, 282
+  offset: 7, 10
+  index: -1
+stackedIdleFx-assets/snow_020
+  rotate: true
+  xy: 1705, 360
+  size: 87, 266
+  orig: 100, 282
+  offset: 7, 10
+  index: -1
+stackedIdleFx-assets/snow_021
+  rotate: false
+  xy: 1441, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_022
+  rotate: false
+  xy: 1, 1632
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_023
+  rotate: false
+  xy: 90, 1630
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_024
+  rotate: false
+  xy: 1530, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_025
+  rotate: false
+  xy: 1619, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_026
+  rotate: false
+  xy: 1708, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_027
+  rotate: false
+  xy: 1, 817
+  size: 87, 270
+  orig: 100, 282
+  offset: 7, 6
+  index: -1
+stackedIdleFx-assets/snow_028
+  rotate: true
+  xy: 1436, 449
+  size: 87, 267
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/snow_029
+  rotate: true
+  xy: 628, 272
+  size: 87, 268
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_030
+  rotate: true
+  xy: 628, 361
+  size: 87, 268
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_031
+  rotate: true
+  xy: 898, 272
+  size: 88, 267
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_032
+  rotate: false
+  xy: 271, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_033
+  rotate: false
+  xy: 90, 816
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_034
+  rotate: false
+  xy: 361, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 8
+  index: -1
+stackedIdleFx-assets/snow_035
+  rotate: false
+  xy: 1797, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_036
+  rotate: false
+  xy: 1, 1089
+  size: 87, 270
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_037
+  rotate: false
+  xy: 1886, 1
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 8
+  index: -1
+stackedIdleFx-assets/snow_038
+  rotate: false
+  xy: 90, 1087
+  size: 87, 270
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_039
+  rotate: false
+  xy: 180, 544
+  size: 87, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_040
+  rotate: false
+  xy: 451, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_041
+  rotate: false
+  xy: 541, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_042
+  rotate: false
+  xy: 631, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_043
+  rotate: false
+  xy: 721, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_044
+  rotate: false
+  xy: 268, 272
+  size: 88, 268
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_045
+  rotate: false
+  xy: 811, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_046
+  rotate: false
+  xy: 901, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_047
+  rotate: false
+  xy: 991, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 8
+  index: -1
+stackedIdleFx-assets/snow_048
+  rotate: false
+  xy: 1081, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 8
+  index: -1
+stackedIdleFx-assets/snow_049
+  rotate: false
+  xy: 1, 1
+  size: 88, 270
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_050
+  rotate: false
+  xy: 1, 273
+  size: 88, 270
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_051
+  rotate: false
+  xy: 91, 1
+  size: 88, 270
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_052
+  rotate: false
+  xy: 269, 542
+  size: 87, 267
+  orig: 100, 282
+  offset: 6, 9
+  index: -1
+stackedIdleFx-assets/snow_053
+  rotate: false
+  xy: 358, 811
+  size: 86, 267
+  orig: 100, 282
+  offset: 6, 9
+  index: -1
+stackedIdleFx-assets/snow_054
+  rotate: false
+  xy: 269, 811
+  size: 87, 267
+  orig: 100, 282
+  offset: 6, 9
+  index: -1
+stackedIdleFx-assets/snow_055
+  rotate: true
+  xy: 1167, 272
+  size: 86, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_056
+  rotate: true
+  xy: 1438, 272
+  size: 86, 269
+  orig: 100, 282
+  offset: 7, 7
+  index: -1
+stackedIdleFx-assets/snow_057
+  rotate: false
+  xy: 358, 272
+  size: 88, 268
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_058
+  rotate: false
+  xy: 1171, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_059
+  rotate: false
+  xy: 1261, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1
+stackedIdleFx-assets/snow_060
+  rotate: false
+  xy: 1351, 1
+  size: 88, 269
+  orig: 100, 282
+  offset: 6, 7
+  index: -1

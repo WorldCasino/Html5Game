@@ -1,0 +1,16 @@
+{currency: "usd", balance: 0, points: 0, reality_check: null, bonus_balance: 0}
+balance
+:
+0
+bonus_balance
+:
+0
+currency
+:
+"usd"
+points
+:
+0
+reality_check
+:
+null

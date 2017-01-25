@@ -1,0 +1,375 @@
+cloudreveal.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cloudreveal-assets/glow_circle
+  rotate: false
+  xy: 2, 287
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+cloudreveal-assets/smokeFX_001
+  rotate: false
+  xy: 162, 838
+  size: 58, 49
+  orig: 80, 64
+  offset: 13, 12
+  index: -1
+cloudreveal-assets/smokeFX_002
+  rotate: false
+  xy: 162, 788
+  size: 60, 48
+  orig: 80, 64
+  offset: 10, 10
+  index: -1
+cloudreveal-assets/smokeFX_003
+  rotate: false
+  xy: 118, 664
+  size: 63, 49
+  orig: 80, 64
+  offset: 7, 7
+  index: -1
+cloudreveal-assets/smokeFX_004
+  rotate: false
+  xy: 50, 608
+  size: 66, 48
+  orig: 80, 64
+  offset: 5, 7
+  index: -1
+cloudreveal-assets/smokeFX_005
+  rotate: true
+  xy: 2, 681
+  size: 68, 45
+  orig: 80, 64
+  offset: 3, 7
+  index: -1
+cloudreveal-assets/smokeFX_006
+  rotate: true
+  xy: 2, 607
+  size: 72, 46
+  orig: 80, 64
+  offset: 0, 6
+  index: -1
+cloudreveal-assets/smokeFX_007
+  rotate: true
+  xy: 173, 384
+  size: 72, 49
+  orig: 80, 64
+  offset: 0, 4
+  index: -1
+cloudreveal-assets/smokeFX_008
+  rotate: false
+  xy: 75, 504
+  size: 71, 51
+  orig: 80, 64
+  offset: 0, 2
+  index: -1
+cloudreveal-assets/smokeFX_009
+  rotate: false
+  xy: 2, 389
+  size: 71, 53
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+cloudreveal-assets/smokeFX_010
+  rotate: false
+  xy: 2, 444
+  size: 71, 53
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+cloudreveal-assets/smokeFX_011
+  rotate: false
+  xy: 75, 449
+  size: 71, 53
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+cloudreveal-assets/smokeFX_012
+  rotate: false
+  xy: 2, 499
+  size: 71, 53
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+cloudreveal-assets/smokeFX_013
+  rotate: false
+  xy: 148, 458
+  size: 70, 52
+  orig: 80, 64
+  offset: 1, 0
+  index: -1
+cloudreveal-assets/smokeFX_014
+  rotate: false
+  xy: 2, 554
+  size: 69, 51
+  orig: 80, 64
+  offset: 1, 0
+  index: -1
+cloudreveal-assets/smokeFX_015
+  rotate: false
+  xy: 148, 512
+  size: 69, 50
+  orig: 80, 64
+  offset: 1, 0
+  index: -1
+cloudreveal-assets/smokeFX_016
+  rotate: false
+  xy: 73, 557
+  size: 68, 49
+  orig: 80, 64
+  offset: 1, 0
+  index: -1
+cloudreveal-assets/smokeFX_017
+  rotate: false
+  xy: 143, 564
+  size: 68, 48
+  orig: 80, 64
+  offset: 1, 0
+  index: -1
+cloudreveal-assets/smokeFX_018
+  rotate: false
+  xy: 118, 614
+  size: 66, 48
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_019
+  rotate: false
+  xy: 50, 658
+  size: 66, 47
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_020
+  rotate: false
+  xy: 49, 707
+  size: 66, 46
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_021
+  rotate: true
+  xy: 117, 715
+  size: 66, 46
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_022
+  rotate: true
+  xy: 2, 751
+  size: 65, 45
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_023
+  rotate: true
+  xy: 165, 721
+  size: 65, 45
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_024
+  rotate: false
+  xy: 49, 755
+  size: 65, 45
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_025
+  rotate: true
+  xy: 116, 783
+  size: 64, 44
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_026
+  rotate: false
+  xy: 49, 802
+  size: 64, 44
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_027
+  rotate: true
+  xy: 2, 818
+  size: 63, 44
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_028
+  rotate: false
+  xy: 48, 848
+  size: 63, 44
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_029
+  rotate: true
+  xy: 2, 883
+  size: 62, 44
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_030
+  rotate: true
+  xy: 113, 849
+  size: 62, 43
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_031
+  rotate: false
+  xy: 48, 894
+  size: 61, 43
+  orig: 80, 64
+  offset: 2, 0
+  index: -1
+cloudreveal-assets/smokeFX_032
+  rotate: false
+  xy: 158, 889
+  size: 59, 43
+  orig: 80, 64
+  offset: 3, 0
+  index: -1
+cloudreveal-assets/smokeFX_033
+  rotate: true
+  xy: 111, 913
+  size: 59, 43
+  orig: 80, 64
+  offset: 3, 0
+  index: -1
+cloudreveal-assets/smokeFX_034
+  rotate: false
+  xy: 48, 939
+  size: 59, 43
+  orig: 80, 64
+  offset: 3, 0
+  index: -1
+cloudreveal-assets/smokeFX_035
+  rotate: true
+  xy: 2, 947
+  size: 58, 43
+  orig: 80, 64
+  offset: 3, 0
+  index: -1
+cloudreveal-assets/smokeFX_036
+  rotate: false
+  xy: 109, 974
+  size: 57, 41
+  orig: 80, 64
+  offset: 3, 1
+  index: -1
+cloudreveal-assets/smokeFX_037
+  rotate: false
+  xy: 168, 964
+  size: 55, 41
+  orig: 80, 64
+  offset: 3, 1
+  index: -1
+cloudreveal-assets/smokeFX_038
+  rotate: true
+  xy: 183, 666
+  size: 53, 40
+  orig: 80, 64
+  offset: 4, 1
+  index: -1
+cloudreveal-assets/smokeFX_039
+  rotate: true
+  xy: 186, 614
+  size: 50, 34
+  orig: 80, 64
+  offset: 5, 2
+  index: -1
+cloudreveal-assets/smokeFX_040
+  rotate: false
+  xy: 156, 934
+  size: 39, 28
+  orig: 80, 64
+  offset: 5, 2
+  index: -1
+cloudreveal-assets/smokeFX_041
+  rotate: true
+  xy: 75, 389
+  size: 36, 26
+  orig: 80, 64
+  offset: 6, 2
+  index: -1
+cloudreveal-assets/smokeFX_042
+  rotate: false
+  xy: 215, 2
+  size: 8, 7
+  orig: 80, 64
+  offset: 33, 2
+  index: -1
+cloudreveal-assets/smokeFX_043
+  rotate: false
+  xy: 215, 11
+  size: 1, 1
+  orig: 80, 64
+  offset: 0, 63
+  index: -1
+cloudreveal-assets/smokeFX_044
+  rotate: false
+  xy: 215, 11
+  size: 1, 1
+  orig: 80, 64
+  offset: 0, 63
+  index: -1
+cloudreveal-assets/smokeFX_045
+  rotate: false
+  xy: 215, 11
+  size: 1, 1
+  orig: 80, 64
+  offset: 0, 63
+  index: -1
+cloudreveal-assets/smokeFX_046
+  rotate: false
+  xy: 215, 11
+  size: 1, 1
+  orig: 80, 64
+  offset: 0, 63
+  index: -1
+cloudreveal-assets/smoke_1
+  rotate: false
+  xy: 2, 2
+  size: 211, 168
+  orig: 300, 300
+  offset: 11, 18
+  index: -1
+cloudreveal-assets/smoke_2
+  rotate: true
+  xy: 122, 172
+  size: 118, 97
+  orig: 300, 300
+  offset: 68, 166
+  index: -1
+cloudreveal-assets/smoke_3
+  rotate: false
+  xy: 47, 984
+  size: 45, 36
+  orig: 300, 300
+  offset: 187, 196
+  index: -1
+cloudreveal-assets/smoke_4
+  rotate: true
+  xy: 2, 172
+  size: 113, 118
+  orig: 300, 300
+  offset: 187, 101
+  index: -1
+cloudreveal-assets/smoke_5
+  rotate: false
+  xy: 104, 384
+  size: 67, 63
+  orig: 300, 300
+  offset: 176, 53
+  index: -1
+cloudreveal-assets/white
+  rotate: false
+  xy: 104, 292
+  size: 96, 90
+  orig: 100, 94
+  offset: 2, 2
+  index: -1

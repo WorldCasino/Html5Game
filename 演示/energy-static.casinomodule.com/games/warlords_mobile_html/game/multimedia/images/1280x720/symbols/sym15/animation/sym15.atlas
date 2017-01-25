@@ -1,0 +1,291 @@
+sym15.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym15-assets/SAMURAI_Banner_seq_001
+  rotate: false
+  xy: 348, 184
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_002
+  rotate: false
+  xy: 1407, 182
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_003
+  rotate: false
+  xy: 1557, 182
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_004
+  rotate: false
+  xy: 1707, 180
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_005
+  rotate: false
+  xy: 1857, 139
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_006
+  rotate: true
+  xy: 433, 361
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_007
+  rotate: true
+  xy: 610, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_008
+  rotate: true
+  xy: 787, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_009
+  rotate: true
+  xy: 964, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_010
+  rotate: true
+  xy: 1141, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_011
+  rotate: true
+  xy: 1318, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_012
+  rotate: false
+  xy: 954, 182
+  size: 149, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_013
+  rotate: false
+  xy: 196, 184
+  size: 150, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_014
+  rotate: false
+  xy: 498, 182
+  size: 150, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_015
+  rotate: false
+  xy: 650, 182
+  size: 150, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_016
+  rotate: false
+  xy: 802, 182
+  size: 150, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_017
+  rotate: false
+  xy: 1105, 182
+  size: 149, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_018
+  rotate: false
+  xy: 1256, 182
+  size: 149, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/SAMURAI_Banner_seq_019
+  rotate: true
+  xy: 1495, 359
+  size: 148, 175
+  orig: 200, 179
+  offset: 22, 1
+  index: -1
+sym15-assets/Shadow
+  rotate: false
+  xy: 1848, 389
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+sym15-assets/bg
+  rotate: false
+  xy: 1757, 357
+  size: 89, 83
+  orig: 200, 188
+  offset: 56, 53
+  index: -1
+sym15-assets/crack
+  rotate: true
+  xy: 1757, 442
+  size: 74, 80
+  orig: 90, 80
+  offset: 0, 0
+  index: -1
+sym15-assets/dustring
+  rotate: true
+  xy: 196, 361
+  size: 155, 160
+  orig: 192, 180
+  offset: 18, 10
+  index: -1
+sym15-assets/frame_gameSize
+  rotate: false
+  xy: 2, 162
+  size: 192, 180
+  orig: 192, 180
+  offset: 0, 0
+  index: -1
+sym15-assets/knot
+  rotate: true
+  xy: 196, 162
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+sym15-assets/red_cloth_Up
+  rotate: false
+  xy: 1969, 389
+  size: 19, 60
+  orig: 19, 64
+  offset: 0, 2
+  index: -1
+sym15-assets/red_cloth_low
+  rotate: false
+  xy: 1990, 2
+  size: 19, 61
+  orig: 19, 61
+  offset: 0, 0
+  index: -1
+sym15-assets/sword
+  rotate: false
+  xy: 1857, 316
+  size: 170, 71
+  orig: 170, 73
+  offset: 0, 0
+  index: -1
+sym15-assets/sword_end
+  rotate: true
+  xy: 358, 361
+  size: 155, 73
+  orig: 170, 73
+  offset: 14, 0
+  index: -1
+sym15-assets/sym1
+  rotate: false
+  xy: 244, 2
+  size: 192, 180
+  orig: 200, 188
+  offset: 4, 4
+  index: -1
+sym15-assets/wild_text
+  rotate: false
+  xy: 2, 2
+  size: 240, 158
+  orig: 240, 210
+  offset: 0, 25
+  index: -1
+sym15-assets/wipe_seq_001
+  rotate: true
+  xy: 1672, 359
+  size: 142, 83
+  orig: 200, 187
+  offset: 4, 7
+  index: -1
+sym15-assets/wipe_seq_002
+  rotate: false
+  xy: 1796, 2
+  size: 192, 135
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_003
+  rotate: false
+  xy: 2, 344
+  size: 192, 164
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_004
+  rotate: false
+  xy: 1602, 2
+  size: 192, 176
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_005
+  rotate: false
+  xy: 438, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_006
+  rotate: false
+  xy: 632, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_007
+  rotate: false
+  xy: 826, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_008
+  rotate: false
+  xy: 1020, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_009
+  rotate: false
+  xy: 1214, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1
+sym15-assets/wipe_seq_010
+  rotate: false
+  xy: 1408, 2
+  size: 192, 178
+  orig: 200, 187
+  offset: 4, 4
+  index: -1

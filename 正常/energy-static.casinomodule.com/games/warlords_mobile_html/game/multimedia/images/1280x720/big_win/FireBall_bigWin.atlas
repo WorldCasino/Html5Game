@@ -1,0 +1,146 @@
+
+FireBall_bigWin.png
+size: 957,458
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FireBall_bigWin-assets/Arrow
+  rotate: false
+  xy: 341, 68
+  size: 549, 72
+  orig: 614, 72
+  offset: 65, 0
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00001
+  rotate: true
+  xy: 302, 351
+  size: 20, 37
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00002
+  rotate: true
+  xy: 382, 386
+  size: 21, 38
+  orig: 29, 48
+  offset: 6, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00003
+  rotate: false
+  xy: 289, 394
+  size: 22, 42
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00004
+  rotate: false
+  xy: 216, 398
+  size: 26, 44
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00005
+  rotate: false
+  xy: 892, 68
+  size: 28, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00006
+  rotate: false
+  xy: 922, 68
+  size: 27, 45
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00007
+  rotate: false
+  xy: 313, 373
+  size: 24, 39
+  orig: 29, 48
+  offset: 3, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00008
+  rotate: false
+  xy: 275, 351
+  size: 25, 41
+  orig: 29, 48
+  offset: 2, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00009
+  rotate: false
+  xy: 216, 351
+  size: 28, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00010
+  rotate: false
+  xy: 246, 351
+  size: 27, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00011
+  rotate: true
+  xy: 892, 115
+  size: 25, 45
+  orig: 29, 48
+  offset: 2, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00012
+  rotate: true
+  xy: 339, 386
+  size: 21, 41
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00013
+  rotate: false
+  xy: 267, 398
+  size: 20, 45
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+FireBall_bigWin-assets/ArrowFire_00014
+  rotate: false
+  xy: 244, 398
+  size: 21, 44
+  orig: 29, 48
+  offset: 6, 2
+  index: -1
+FireBall_bigWin-assets/Arrow_Glow
+  rotate: false
+  xy: 1, 351
+  size: 213, 106
+  orig: 213, 106
+  offset: 0, 0
+  index: -1
+FireBall_bigWin-assets/Rays
+  rotate: false
+  xy: 1, 1
+  size: 338, 348
+  orig: 640, 360
+  offset: 151, 6
+  index: -1
+FireBall_bigWin-assets/RingCircle
+  rotate: true
+  xy: 719, 142
+  size: 255, 237
+  orig: 300, 300
+  offset: 23, 28
+  index: -1
+FireBall_bigWin-assets/glow2
+  rotate: false
+  xy: 341, 142
+  size: 376, 242
+  orig: 640, 360
+  offset: 132, 59
+  index: -1
+FireBall_bigWin-assets/still_trail
+  rotate: false
+  xy: 341, 1
+  size: 600, 65
+  orig: 600, 100
+  offset: 0, 9
+  index: -1

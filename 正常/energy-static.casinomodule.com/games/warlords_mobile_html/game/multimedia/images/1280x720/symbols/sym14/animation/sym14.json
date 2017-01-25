@@ -1,0 +1,3123 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "B",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "I",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.33,
+			"scaleY": 0.33
+		},
+		{
+			"name": "F",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "J",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 11.67,
+			"scaleY": 11.67
+		},
+		{
+			"name": "C",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "S",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 1.0614,
+			"scaleY": 1.0614,
+			"rotation": 26.8451364055939
+		},
+		{
+			"name": "G",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "T",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "D",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "U",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "H",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "L",
+			"parent": "S",
+			"x": -123.486541917379,
+			"y": 65.7080346491358,
+			"scaleX": 0.69896788051143,
+			"scaleY": -0.4510166754185,
+			"rotation": 41.6002660450704
+		},
+		{
+			"name": "E",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "R",
+			"parent": "S",
+			"x": -123.486541917379,
+			"y": 65.7080346491358,
+			"scaleX": 0.91280710779883,
+			"scaleY": 0.91280710779883,
+			"rotation": 15.1422296452743
+		},
+		{
+			"name": "O",
+			"parent": "R",
+			"x": -83.035919108537,
+			"y": 85.4751199391257,
+			"scaleX": 1.03866023464479,
+			"scaleY": 1.03866023464479,
+			"rotation": 356.458653695588
+		},
+		{
+			"name": "P",
+			"parent": "R",
+			"x": -83.035919108537,
+			"y": 85.4751199391257,
+			"scaleX": 1.15911847133634,
+			"scaleY": 1.21840832852983,
+			"rotation": 354.597967137964
+		},
+		{
+			"name": "Q",
+			"parent": "R",
+			"x": -83.035919108537,
+			"y": 85.4751199391257,
+			"scaleX": 1.20705972262129,
+			"scaleY": 0.78892071848245
+		},
+		{
+			"name": "K",
+			"parent": "O",
+			"x": -172.322278028981,
+			"y": 47.0535846002415,
+			"scaleX": 1.21871945760478,
+			"scaleY": 1.67580743722835,
+			"rotation": 344.721439017974
+		},
+		{
+			"name": "M",
+			"parent": "O",
+			"x": -172.322278028981,
+			"y": 47.0535846002415,
+			"scaleX": 1.52,
+			"scaleY": 1.52,
+			"rotation": 248.544727895496
+		},
+		{
+			"name": "N",
+			"parent": "O",
+			"x": -172.322278028981,
+			"y": 47.0535846002415,
+			"scaleX": 1.52,
+			"scaleY": 1.52,
+			"rotation": 341.544727895496
+		}
+	],
+	"slots": [
+		{
+			"name": "E",
+			"bone": "E",
+			"attachment": "sym14-assets/bg"
+		},
+		{
+			"name": "U",
+			"bone": "U",
+			"attachment": "sym14-assets/wipe_priestess_seq_001"
+		},
+		{
+			"name": "H",
+			"bone": "H",
+			"attachment": "sym14-assets/bg"
+		},
+		{
+			"name": "T",
+			"bone": "T"
+		},
+		{
+			"name": "D",
+			"bone": "D",
+			"attachment": "sym14-assets/BARBARIAN_Banner_seq_001"
+		},
+		{
+			"name": "S",
+			"bone": "S",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "G",
+			"bone": "G",
+			"attachment": "sym14-assets/BARBARIAN_Banner_seq_001"
+		},
+		{
+			"name": "R",
+			"bone": "R",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "C",
+			"bone": "C",
+			"attachment": "sym14-assets/BARBARIAN_Banner_seq_001",
+			"blend": "additive",
+			"color": "c9ffd700"
+		},
+		{
+			"name": "Q",
+			"bone": "Q",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "F",
+			"bone": "F",
+			"attachment": "sym14-assets/frame_gameSize"
+		},
+		{
+			"name": "P",
+			"bone": "P",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "B",
+			"bone": "B",
+			"attachment": "sym14-assets/frame_gameSize"
+		},
+		{
+			"name": "O",
+			"bone": "O",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "N",
+			"bone": "N",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "M",
+			"bone": "M",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "L",
+			"bone": "L",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "K",
+			"bone": "K",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "J",
+			"bone": "J",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "I",
+			"bone": "I",
+			"color": "FFFFFF00"
+		}
+	],
+	"skins": {
+		"default": {
+			"E": {
+				"sym14-assets/bg": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"D": {
+				"sym14-assets/BARBARIAN_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"C": {
+				"sym14-assets/BARBARIAN_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"B": {
+				"sym14-assets/frame_gameSize": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"H": {
+				"sym14-assets/bg": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"G": {
+				"sym14-assets/BARBARIAN_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym14-assets/BARBARIAN_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"F": {
+				"sym14-assets/frame_gameSize": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"U": {
+				"sym14-assets/wipe_priestess_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym14-assets/wipe_priestess_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				}
+			},
+			"T": {
+				"sym14-assets/bg_multiplier_priestess": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"S": {
+				"sym14-assets/ArmLow": {
+					"x": -71.4865419173788,
+					"y": 20.2080346491358,
+					"width": 104,
+					"height": 91
+				}
+			},
+			"R": {
+				"sym14-assets/Hand": {
+					"x": -26.535919108537,
+					"y": 6.97511993912569,
+					"width": 113,
+					"height": 157
+				}
+			},
+			"Q": {
+				"sym14-assets/Bow_lower": {
+					"x": -16.9461321140228,
+					"y": -31.6087426916233,
+					"width": 64,
+					"height": 82
+				}
+			},
+			"P": {
+				"sym14-assets/Bow_Upper": {
+					"x": 9.55938508678752,
+					"y": 36.361576261362,
+					"width": 41,
+					"height": 75
+				}
+			},
+			"O": {
+				"sym14-assets/Arrow": {
+					"x": -85.8222780289811,
+					"y": 20.5535846002415,
+					"width": 173,
+					"height": 53
+				}
+			},
+			"N": {
+				"sym14-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 20,
+					"height": 20
+				}
+			},
+			"M": {
+				"sym14-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 20,
+					"height": 20
+				}
+			},
+			"L": {
+				"sym14-assets/Rope": {
+					"x": -51.5837776668108,
+					"y": -0.54050305970908,
+					"width": 100,
+					"height": 6
+				}
+			},
+			"K": {
+				"sym14-assets/Rope": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 6
+				}
+			},
+			"J": {
+				"sym14-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 20,
+					"height": 20
+				}
+			},
+			"I": {
+				"sym14-assets/copy": {
+					"x": -0.66206896551725,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			}
+		}
+	},
+	"events": {
+		"fire end": {
+			
+		},
+		"bow": {
+			
+		}
+	},
+	"animations": {
+		"sym14_attention": {
+			"bones": {
+				"E": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"D": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 102,
+							"y": -88.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"C": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 102,
+							"y": -88.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"B": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_019"
+						}
+					]
+				},
+				"C": {
+					"color": [
+						{
+							"time": 0,
+							"color": "c9ffd700"
+						},
+						{
+							"time": 0.067,
+							"color": "c9ffd7ff"
+						},
+						{
+							"time": 0.167,
+							"color": "c9ffd7ff"
+						},
+						{
+							"time": 0.6,
+							"color": "c9ffd700"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_019"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/bg"
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/frame_gameSize"
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"U": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"S": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"P": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"O": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"I": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym14_idle": {
+			"bones": {
+				"H": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"G": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 102,
+							"y": -88.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"F": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym14-assets/BARBARIAN_Banner_seq_019"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/bg"
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/frame_gameSize"
+						}
+					]
+				},
+				"U": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"S": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"P": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"O": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"I": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym14_win": {
+			"bones": {
+				"U": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"T": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"S": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 223.9,
+							"y": -185.1
+						},
+						{
+							"time": 0.333,
+							"x": 223.9,
+							"y": -185.1,
+							"curve": [
+								0.3,
+								0.3,
+								0.8,
+								0.8
+							]
+						},
+						{
+							"time": 0.433,
+							"x": 217.2,
+							"y": -137
+						},
+						{
+							"time": 0.467,
+							"x": 214.4,
+							"y": -120,
+							"curve": [
+								0.2,
+								0.1,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.567,
+							"x": 210.9,
+							"y": -104.8,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.8,
+							"x": 210,
+							"y": -114,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								0.7
+							]
+						},
+						{
+							"time": 0.967,
+							"x": 210.4,
+							"y": -108.9
+						},
+						{
+							"time": 1,
+							"x": 210.5,
+							"y": -108.5,
+							"curve": [
+								0.2,
+								0.2,
+								0.6,
+								0.6
+							]
+						},
+						{
+							"time": 1.2,
+							"x": 210.7,
+							"y": -108.1,
+							"curve": [
+								0.3,
+								0.5,
+								0.7,
+								0.9
+							]
+						},
+						{
+							"time": 1.5,
+							"x": 211,
+							"y": -108.5,
+							"curve": [
+								0.2,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.1,
+							"x": 210,
+							"y": -106.6
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.333,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.2,
+								-0.1,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.633,
+							"x": 0.678,
+							"y": 0.678
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.333,
+							"angle": 0,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.533,
+							"angle": -26.8,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.733,
+							"angle": -24.1
+						},
+						{
+							"time": 1.4,
+							"angle": -24.1,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.233,
+							"angle": -26.8
+						}
+					]
+				},
+				"R": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 17.2,
+							"y": -23.9
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.333,
+							"angle": 0,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.667,
+							"angle": -19.2,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.833,
+							"angle": -12.9,
+							"curve": [
+								0.3,
+								0,
+								0.6,
+								1
+							]
+						},
+						{
+							"time": 1,
+							"angle": -13.7
+						},
+						{
+							"time": 1.3,
+							"angle": -13.7,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.433,
+							"angle": -13.4
+						},
+						{
+							"time": 1.6,
+							"angle": -13.4,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.8,
+							"angle": -13.1,
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 1.967,
+							"angle": -13.4,
+							"curve": [
+								0.2,
+								0,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 2.1,
+							"angle": -13.1
+						}
+					]
+				},
+				"Q": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 28.1,
+							"y": -134.4
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.467,
+							"x": 1,
+							"y": 1.191
+						},
+						{
+							"time": 0.533,
+							"x": 1,
+							"y": 1.846
+						},
+						{
+							"time": 0.667,
+							"x": 1,
+							"y": 1.983
+						},
+						{
+							"time": 0.867,
+							"x": 1,
+							"y": 1.885
+						},
+						{
+							"time": 2,
+							"x": 1,
+							"y": 2.111
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.4,
+							"angle": 0,
+							"curve": [
+								0.2,
+								-0.2,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.467,
+							"angle": 0.5,
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1.1
+							]
+						},
+						{
+							"time": 1.633,
+							"angle": -7.3,
+							"curve": [
+								0.2,
+								-0.1,
+								0.8,
+								1.1
+							]
+						},
+						{
+							"time": 2,
+							"angle": 16.1,
+							"curve": [
+								0.2,
+								-0.8,
+								0.8,
+								1.2
+							]
+						},
+						{
+							"time": 2.133,
+							"angle": 17.6
+						},
+						{
+							"time": 2.332,
+							"angle": 19
+						},
+						{
+							"time": 2.467,
+							"angle": 19.2
+						},
+						{
+							"time": 2.467,
+							"angle": 19.2,
+							"curve": [
+								0.2,
+								-0.2,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.467,
+							"angle": 19.2
+						}
+					]
+				},
+				"P": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 47.2,
+							"y": -22.9
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.367,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.4,
+							"x": 0.988,
+							"y": 1.157
+						},
+						{
+							"time": 0.5,
+							"x": 0.817,
+							"y": 0.608
+						},
+						{
+							"time": 0.533,
+							"x": 0.813,
+							"y": 0.527
+						},
+						{
+							"time": 0.567,
+							"x": 0.81,
+							"y": 0.523
+						},
+						{
+							"time": 0.767,
+							"x": 0.886,
+							"y": 0.704
+						},
+						{
+							"time": 0.833,
+							"x": 0.886,
+							"y": 0.708
+						},
+						{
+							"time": 2.333,
+							"x": 0.886,
+							"y": 0.664
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.433,
+							"angle": 0
+						},
+						{
+							"time": 1.6,
+							"angle": 4,
+							"curve": [
+								0.2,
+								0.2,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 1.681,
+							"angle": -2.2,
+							"curve": [
+								0.3,
+								0.1,
+								0.8,
+								0.9
+							]
+						},
+						{
+							"time": 1.814,
+							"angle": -5,
+							"curve": [
+								0.3,
+								0.1,
+								0.8,
+								0.9
+							]
+						},
+						{
+							"time": 1.948,
+							"angle": -10.3,
+							"curve": [
+								0.2,
+								0.4,
+								0.8,
+								0.9
+							]
+						},
+						{
+							"time": 2.067,
+							"angle": -11.8,
+							"curve": [
+								0.2,
+								0.2,
+								0.8,
+								0.9
+							]
+						},
+						{
+							"time": 2.333,
+							"angle": -14.1,
+							"curve": [
+								0.2,
+								0.2,
+								0.8,
+								0.8
+							]
+						},
+						{
+							"time": 2.467,
+							"angle": -14.9,
+							"curve": [
+								0.2,
+								0.3,
+								0.5,
+								0.9
+							]
+						},
+						{
+							"time": 2.467,
+							"angle": -14.9
+						}
+					]
+				},
+				"O": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 201.7,
+							"y": -93
+						},
+						{
+							"time": 0.333,
+							"x": 201.7,
+							"y": -93
+						},
+						{
+							"time": 0.5,
+							"x": 178.1,
+							"y": -85.3
+						},
+						{
+							"time": 0.533,
+							"x": 176.2,
+							"y": -83
+						},
+						{
+							"time": 0.6,
+							"x": 177,
+							"y": -77.1
+						},
+						{
+							"time": 0.633,
+							"x": 175.3,
+							"y": -76.5
+						},
+						{
+							"time": 0.7,
+							"x": 177.1,
+							"y": -79
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.567,
+							"x": 1.539,
+							"y": 1.539
+						},
+						{
+							"time": 1.4,
+							"x": 1.539,
+							"y": 1.539,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.633,
+							"x": 1.641,
+							"y": 1.641
+						},
+						{
+							"time": 1.667,
+							"x": 1.618,
+							"y": 1.618,
+							"curve": [
+								0.3,
+								-0.1,
+								0.6,
+								1.3
+							]
+						},
+						{
+							"time": 1.733,
+							"x": 1.434,
+							"y": 1.434
+						},
+						{
+							"time": 1.767,
+							"x": 1.366,
+							"y": 1.366,
+							"curve": [
+								0.2,
+								-0.3,
+								0.6,
+								1.2
+							]
+						},
+						{
+							"time": 1.867,
+							"x": 1.272,
+							"y": 1.272,
+							"curve": [
+								0.4,
+								-0.3,
+								0.7,
+								1.2
+							]
+						},
+						{
+							"time": 1.933,
+							"x": 1.243,
+							"y": 1.243,
+							"curve": [
+								0.4,
+								-0.3,
+								0.7,
+								1.2
+							]
+						},
+						{
+							"time": 2.033,
+							"x": 1.205,
+							"y": 1.205,
+							"curve": [
+								0.4,
+								-0.5,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.2,
+							"x": 1.177,
+							"y": 1.177,
+							"curve": [
+								0.3,
+								-1.5,
+								0.6,
+								1
+							]
+						},
+						{
+							"time": 2.3,
+							"x": 1.176,
+							"y": 1.176
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.633,
+							"angle": 0
+						},
+						{
+							"time": 1.933,
+							"angle": 2
+						}
+					]
+				},
+				"N": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 0.767,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 1.8,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 1.833,
+							"x": 57.2,
+							"y": 0
+						},
+						{
+							"time": 2.3,
+							"x": 5.3,
+							"y": -10.1
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.767,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.067,
+							"x": 0.411,
+							"y": 0.411
+						},
+						{
+							"time": 1.833,
+							"x": 0.411,
+							"y": 0.411
+						},
+						{
+							"time": 2.067,
+							"x": 0.34,
+							"y": 1.601
+						},
+						{
+							"time": 2.3,
+							"x": 0.411,
+							"y": 0.411
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.833,
+							"angle": 0
+						},
+						{
+							"time": 2.3,
+							"angle": -146
+						}
+					]
+				},
+				"M": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 0.767,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 1.8,
+							"x": 52.1,
+							"y": -5.3
+						},
+						{
+							"time": 1.833,
+							"x": 57.2,
+							"y": 0
+						},
+						{
+							"time": 2.3,
+							"x": 5.3,
+							"y": -10.1
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.767,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.067,
+							"x": 0.411,
+							"y": 0.411
+						},
+						{
+							"time": 1.833,
+							"x": 0.411,
+							"y": 0.411
+						},
+						{
+							"time": 2.067,
+							"x": 0.34,
+							"y": 1.601
+						},
+						{
+							"time": 2.3,
+							"x": 0.411,
+							"y": 0.411
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.833,
+							"angle": 0
+						},
+						{
+							"time": 2.3,
+							"angle": -146
+						}
+					]
+				},
+				"L": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 104.2,
+							"y": -101
+						},
+						{
+							"time": 0.533,
+							"x": 104.2,
+							"y": -101
+						},
+						{
+							"time": 0.567,
+							"x": 104.2,
+							"y": -100.9
+						},
+						{
+							"time": 0.6,
+							"x": 103.8,
+							"y": -102.3
+						},
+						{
+							"time": 0.633,
+							"x": 103.5,
+							"y": -101.1
+						},
+						{
+							"time": 0.7,
+							"x": 103.3,
+							"y": -100.3
+						},
+						{
+							"time": 0.8,
+							"x": 103,
+							"y": -100.3
+						},
+						{
+							"time": 0.833,
+							"x": 103.1,
+							"y": -101.1
+						},
+						{
+							"time": 0.967,
+							"x": 102.3,
+							"y": -100.6
+						},
+						{
+							"time": 1,
+							"x": 102.2,
+							"y": -101.3
+						},
+						{
+							"time": 1.2,
+							"x": 102.3,
+							"y": -101.3
+						},
+						{
+							"time": 1.433,
+							"x": 102.3,
+							"y": -100.8
+						},
+						{
+							"time": 1.533,
+							"x": 102.3,
+							"y": -101.3
+						},
+						{
+							"time": 2.067,
+							"x": 104.5,
+							"y": -123.1
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.5,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.533,
+							"x": 1.298,
+							"y": 1
+						},
+						{
+							"time": 0.567,
+							"x": 1.482,
+							"y": 1
+						},
+						{
+							"time": 0.633,
+							"x": 1.476,
+							"y": 1
+						},
+						{
+							"time": 0.733,
+							"x": 1.292,
+							"y": 1
+						},
+						{
+							"time": 0.767,
+							"x": 1.25,
+							"y": 1
+						},
+						{
+							"time": 0.833,
+							"x": 1.234,
+							"y": 1
+						},
+						{
+							"time": 0.967,
+							"x": 1.375,
+							"y": 1
+						},
+						{
+							"time": 1.167,
+							"x": 1.386,
+							"y": 1
+						},
+						{
+							"time": 1.533,
+							"x": 1.386,
+							"y": 1
+						},
+						{
+							"time": 1.967,
+							"x": 1.358,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 1.533,
+							"angle": 0
+						},
+						{
+							"time": 2.067,
+							"angle": -11
+						}
+					]
+				},
+				"K": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 114.4,
+							"y": -38.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"J": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"I": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 99.5,
+							"y": -91
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.1,
+							"x": 1,
+							"y": 1,
+							"curve": [
+								0.2,
+								0.1,
+								0.3,
+								1
+							]
+						},
+						{
+							"time": 1.267,
+							"x": 3.03,
+							"y": 3.03
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"U": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym14-assets/wipe_priestess_seq_001"
+						},
+						{
+							"time": 0.03,
+							"name": "sym14-assets/wipe_priestess_seq_002"
+						},
+						{
+							"time": 0.061,
+							"name": "sym14-assets/wipe_priestess_seq_003"
+						},
+						{
+							"time": 0.091,
+							"name": "sym14-assets/wipe_priestess_seq_004"
+						},
+						{
+							"time": 0.121,
+							"name": "sym14-assets/wipe_priestess_seq_005"
+						},
+						{
+							"time": 0.152,
+							"name": "sym14-assets/wipe_priestess_seq_006"
+						},
+						{
+							"time": 0.182,
+							"name": "sym14-assets/wipe_priestess_seq_007"
+						},
+						{
+							"time": 0.212,
+							"name": "sym14-assets/wipe_priestess_seq_008"
+						},
+						{
+							"time": 0.242,
+							"name": "sym14-assets/wipe_priestess_seq_009"
+						},
+						{
+							"time": 0.273,
+							"name": "sym14-assets/wipe_priestess_seq_010"
+						},
+						{
+							"time": 0.333,
+							"name": null
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/bg_multiplier_priestess"
+						}
+					]
+				},
+				"S": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.733,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/ArmLow"
+						}
+					]
+				},
+				"R": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.4,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.7,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/Hand"
+						}
+					]
+				},
+				"Q": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.433,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.7,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/Bow_lower"
+						}
+					]
+				},
+				"P": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.433,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.667,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/Bow_Upper"
+						}
+					]
+				},
+				"O": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.733,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/Arrow"
+						}
+					]
+				},
+				"N": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.767,
+							"color": "FFFFFF40"
+						},
+						{
+							"time": 1.067,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.833,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 2.067,
+							"color": "FFFFFF80"
+						},
+						{
+							"time": 2.3,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/glow"
+						}
+					]
+				},
+				"M": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.767,
+							"color": "FFFFFF40"
+						},
+						{
+							"time": 1.067,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.833,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 2.067,
+							"color": "FFFFFF80"
+						},
+						{
+							"time": 2.3,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/glow"
+						}
+					]
+				},
+				"L": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.5,
+							"name": "sym14-assets/Rope"
+						}
+					]
+				},
+				"K": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.333,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.6,
+							"color": "FFFFFF59"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/Rope"
+						}
+					]
+				},
+				"J": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.333,
+							"color": "FFFFFF00",
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.433,
+							"color": "FFFFFFc7",
+							"curve": [
+								0.2,
+								0,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 0.933,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym14-assets/glow"
+						}
+					]
+				},
+				"I": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.1,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.233,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.533,
+							"name": "sym14-assets/copy"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"events": [
+				{
+					"time": 0.33333333333333,
+					"name": "fire end"
+				},
+				{
+					"time": 1.66666666666667,
+					"name": "bow"
+				}
+			]
+		}
+	}
+}

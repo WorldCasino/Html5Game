@@ -1,0 +1,2437 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "C",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.9,
+			"scaleY": 0.9
+		},
+		{
+			"name": "1",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "E",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "J",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.65298136645963,
+			"scaleY": 0.76591072889875
+		},
+		{
+			"name": "F",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "K",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.65298136645963,
+			"scaleY": 0.76591072889875
+		},
+		{
+			"name": "H",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "L",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.74776397515528,
+			"scaleY": 0.65114285714286
+		},
+		{
+			"name": "B",
+			"parent": "C",
+			"x": -153,
+			"y": 636,
+			"scaleX": 2.22,
+			"scaleY": 2.22
+		},
+		{
+			"name": "M",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.74776397515528,
+			"scaleY": 0.65114285714286
+		},
+		{
+			"name": "D",
+			"parent": "C",
+			"x": -153,
+			"y": 636,
+			"scaleX": 1.08552631578947,
+			"scaleY": 1.08552631578947,
+			"rotation": 356
+		},
+		{
+			"name": "U",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.9,
+			"scaleY": 0.9
+		},
+		{
+			"name": "G",
+			"parent": "F",
+			"x": -5,
+			"y": 5
+		},
+		{
+			"name": "X",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "Y",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "0",
+			"parent": "Y",
+			"x": -5,
+			"y": 5
+		},
+		{
+			"name": "I",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 2.22,
+			"scaleY": 2.22
+		},
+		{
+			"name": "N",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.39978746014878,
+			"scaleY": 0.81009564293305,
+			"rotation": 150
+		},
+		{
+			"name": "O",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.32372861717592,
+			"scaleY": 0.32372861717592,
+			"rotation": 110
+		},
+		{
+			"name": "P",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.42222222222222,
+			"scaleY": 0.85555555555556,
+			"rotation": 40
+		},
+		{
+			"name": "Q",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.33183946488294,
+			"scaleY": 0.33183946488294
+		},
+		{
+			"name": "R",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.08,
+			"scaleY": 0.08,
+			"rotation": 152.098673839174
+		},
+		{
+			"name": "S",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 0.08,
+			"scaleY": 0.08,
+			"rotation": 152.098673839174
+		},
+		{
+			"name": "T",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 1.00712105798576,
+			"scaleY": 1.00712105798576
+		},
+		{
+			"name": "W",
+			"parent": "U",
+			"x": -153,
+			"y": 636,
+			"scaleX": 1.08552631578947,
+			"scaleY": 1.08552631578947,
+			"rotation": 356
+		},
+		{
+			"name": "V",
+			"parent": "W",
+			"x": -278,
+			"y": 525
+		},
+		{
+			"name": "Z",
+			"parent": "0",
+			"x": -244,
+			"y": 358
+		}
+	],
+	"slots": [
+		{
+			"name": "H",
+			"bone": "H",
+			"attachment": "sym4_win-assets/bg_bottom",
+			"color": "808080ff"
+		},
+		{
+			"name": "1",
+			"bone": "1",
+			"attachment": "sym4_win-assets/bg_bottom"
+		},
+		{
+			"name": "G",
+			"bone": "G",
+			"attachment": "sym4_win-assets/priestess_bottom",
+			"color": "808080ff"
+		},
+		{
+			"name": "0",
+			"bone": "0",
+			"attachment": "sym4_win-assets/priestess_bottom"
+		},
+		{
+			"name": "F",
+			"bone": "F",
+			"attachment": "sym4_win-assets/null",
+			"color": "80808000"
+		},
+		{
+			"name": "Z",
+			"bone": "Z",
+			"attachment": "sym4_win-assets/priestess_bottom_rim",
+			"blend": "additive",
+			"color": "FFFFFF7f"
+		},
+		{
+			"name": "E",
+			"bone": "E",
+			"attachment": "sym4_win-assets/frame_piece",
+			"color": "808080ff"
+		},
+		{
+			"name": "Y",
+			"bone": "Y",
+			"attachment": "sym4_win-assets/null",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "D",
+			"bone": "D",
+			"attachment": "sym4_win-assets/panther_arm",
+			"color": "808080ff"
+		},
+		{
+			"name": "X",
+			"bone": "X",
+			"attachment": "sym4_win-assets/frame_piece"
+		},
+		{
+			"name": "C",
+			"bone": "C",
+			"attachment": "sym4_win-assets/panther",
+			"color": "808080ff"
+		},
+		{
+			"name": "W",
+			"bone": "W",
+			"attachment": "sym4_win-assets/panther_arm"
+		},
+		{
+			"name": "B",
+			"bone": "B",
+			"attachment": "sym4_win-assets/panther_white",
+			"color": "000000ff"
+		},
+		{
+			"name": "V",
+			"bone": "V",
+			"attachment": "sym4_win-assets/panther_arm_rim",
+			"blend": "additive",
+			"color": "FFFFFF7f"
+		},
+		{
+			"name": "U",
+			"bone": "U",
+			"attachment": "sym4_win-assets/panther"
+		},
+		{
+			"name": "T",
+			"bone": "T",
+			"attachment": "sym4_win-assets/panther_rim",
+			"blend": "additive",
+			"color": "FFFFFF7f"
+		},
+		{
+			"name": "S",
+			"bone": "S",
+			"attachment": "sym4_win-assets/glow",
+			"blend": "additive",
+			"color": "fff88700"
+		},
+		{
+			"name": "R",
+			"bone": "R",
+			"attachment": "sym4_win-assets/glow",
+			"blend": "additive",
+			"color": "fff88700"
+		},
+		{
+			"name": "Q",
+			"bone": "Q",
+			"attachment": "sym4_win-assets/glow",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "P",
+			"bone": "P",
+			"attachment": "sym4_win-assets/claws",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "O",
+			"bone": "O",
+			"attachment": "sym4_win-assets/glow",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "N",
+			"bone": "N",
+			"attachment": "sym4_win-assets/claws",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "M",
+			"bone": "M",
+			"attachment": "sym4_win-assets/leaf",
+			"color": "bae3bae6"
+		},
+		{
+			"name": "L",
+			"bone": "L",
+			"attachment": "sym4_win-assets/leaf",
+			"color": "bae3bae6"
+		},
+		{
+			"name": "K",
+			"bone": "K",
+			"attachment": "sym4_win-assets/leaf",
+			"color": "bae3bae6"
+		},
+		{
+			"name": "J",
+			"bone": "J",
+			"attachment": "sym4_win-assets/leaf",
+			"color": "bae3bae6"
+		},
+		{
+			"name": "I",
+			"bone": "I",
+			"attachment": "sym4_win-assets/panther_white"
+		}
+	],
+	"skins": {
+		"default": {
+			"H": {
+				"sym4_win-assets/bg_bottom": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"G": {
+				"sym4_win-assets/priestess_bottom": {
+					"x": 0,
+					"y": 1.99999999999994,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"F": {
+				"sym4_win-assets/null": {
+					"x": 0,
+					"y": 0,
+					"width": 10,
+					"height": 10
+				}
+			},
+			"E": {
+				"sym4_win-assets/frame_piece": {
+					"x": 0,
+					"y": 0.49999999999999,
+					"width": 200,
+					"height": 77
+				}
+			},
+			"D": {
+				"sym4_win-assets/panther_arm": {
+					"x": -34,
+					"y": 169,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"C": {
+				"sym4_win-assets/panther": {
+					"x": 91,
+					"y": 280,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"B": {
+				"sym4_win-assets/panther_white": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 382
+				}
+			},
+			"1": {
+				"sym4_win-assets/bg_bottom": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"0": {
+				"sym4_win-assets/priestess_bottom": {
+					"x": 0,
+					"y": 1.99999999999994,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"Z": {
+				"sym4_win-assets/priestess_bottom_rim": {
+					"x": 0,
+					"y": 0,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"Y": {
+				"sym4_win-assets/null": {
+					"x": 0,
+					"y": 0,
+					"width": 10,
+					"height": 10
+				}
+			},
+			"X": {
+				"sym4_win-assets/frame_piece": {
+					"x": 0,
+					"y": 0.49999999999999,
+					"width": 200,
+					"height": 77
+				}
+			},
+			"W": {
+				"sym4_win-assets/panther_arm": {
+					"x": -34,
+					"y": 169,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"V": {
+				"sym4_win-assets/panther_arm_rim": {
+					"x": 0,
+					"y": 0,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"U": {
+				"sym4_win-assets/panther": {
+					"x": 91,
+					"y": 280,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"T": {
+				"sym4_win-assets/panther_rim": {
+					"x": 0,
+					"y": 0,
+					"width": 488,
+					"height": 712
+				}
+			},
+			"S": {
+				"sym4_win-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 255,
+					"height": 255
+				}
+			},
+			"R": {
+				"sym4_win-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 255,
+					"height": 255
+				}
+			},
+			"Q": {
+				"sym4_win-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 255,
+					"height": 255
+				}
+			},
+			"P": {
+				"sym4_win-assets/claws": {
+					"x": 6,
+					"y": 14,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"O": {
+				"sym4_win-assets/glow": {
+					"x": 0,
+					"y": 0,
+					"width": 255,
+					"height": 255
+				}
+			},
+			"N": {
+				"sym4_win-assets/claws": {
+					"x": 6,
+					"y": 14,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"M": {
+				"sym4_win-assets/leaf": {
+					"x": 0,
+					"y": 0,
+					"width": 70,
+					"height": 27
+				}
+			},
+			"L": {
+				"sym4_win-assets/leaf": {
+					"x": 0,
+					"y": 0,
+					"width": 70,
+					"height": 27
+				}
+			},
+			"K": {
+				"sym4_win-assets/leaf": {
+					"x": 0,
+					"y": 0,
+					"width": 70,
+					"height": 27
+				}
+			},
+			"J": {
+				"sym4_win-assets/leaf": {
+					"x": 0,
+					"y": 0,
+					"width": 70,
+					"height": 27
+				}
+			},
+			"I": {
+				"sym4_win-assets/panther_white": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 382
+				}
+			}
+		}
+	},
+	"events": {
+		
+	},
+	"animations": {
+		"nowin": {
+			"bones": {
+				"H": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"G": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 14,
+							"y": 4
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"F": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 120,
+							"y": 94
+						},
+						{
+							"time": 3.3,
+							"x": 96,
+							"y": 94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"E": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -150
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"D": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 270.9,
+							"y": -522.5
+						},
+						{
+							"time": 3.3,
+							"x": 280.9,
+							"y": -522.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": 15
+						}
+					]
+				},
+				"C": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 12,
+							"y": -175.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.3,
+							"x": 1.111,
+							"y": 1.111
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"B": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 251.9,
+							"y": -337.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"B": {
+					"color": [
+						{
+							"time": 0,
+							"color": "000000ff",
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1.2
+							]
+						},
+						{
+							"time": 0.333,
+							"color": "00000000"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_white"
+						},
+						{
+							"time": 0.367,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/bg_bottom"
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/priestess_bottom"
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/null"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/frame_piece"
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_arm"
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther"
+						}
+					]
+				},
+				"1": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"0": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Z": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Y": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"X": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"W": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"V": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"U": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"S": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"P": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"O": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"I": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"win": {
+			"bones": {
+				"1": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"0": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 14,
+							"y": 4
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"Z": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 244,
+							"y": -356
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"Y": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 120,
+							"y": 94
+						},
+						{
+							"time": 3.3,
+							"x": 96,
+							"y": 94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"X": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -150
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"W": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 270.9,
+							"y": -522.5
+						},
+						{
+							"time": 3.3,
+							"x": 280.9,
+							"y": -522.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": 15
+						}
+					]
+				},
+				"V": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 244,
+							"y": -356
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"U": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 12,
+							"y": -175.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.3,
+							"x": 1.111,
+							"y": 1.111
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"T": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 244,
+							"y": -356
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"S": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 255.2,
+							"y": -505
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"R": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 296.8,
+							"y": -501.8
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"Q": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 306.7,
+							"y": -589.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.7,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 2.416,
+							"y": 2.416
+						},
+						{
+							"time": 1,
+							"x": 1.03,
+							"y": 1.03
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"P": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 371.2,
+							"y": -530.9
+						},
+						{
+							"time": 0.733,
+							"x": 371.2,
+							"y": -530.9
+						},
+						{
+							"time": 0.933,
+							"x": 258.9,
+							"y": -628.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.733,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.833,
+							"x": 3.026,
+							"y": 1
+						},
+						{
+							"time": 0.933,
+							"x": 0.868,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"O": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 234.8,
+							"y": -612.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.333,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.433,
+							"x": 2.416,
+							"y": 2.416
+						},
+						{
+							"time": 0.633,
+							"x": 1.03,
+							"y": 1.03
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"N": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 164.6,
+							"y": -577.6
+						},
+						{
+							"time": 0.367,
+							"x": 164.6,
+							"y": -577.6
+						},
+						{
+							"time": 0.567,
+							"x": 287.9,
+							"y": -645.8
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.367,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.467,
+							"x": 3.026,
+							"y": 1
+						},
+						{
+							"time": 0.567,
+							"x": 0.868,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"M": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 89,
+							"y": -78
+						},
+						{
+							"time": 0.867,
+							"x": 65.1,
+							"y": -93.9
+						},
+						{
+							"time": 1.133,
+							"x": 57.1,
+							"y": -97.7
+						},
+						{
+							"time": 1.367,
+							"x": 49.6,
+							"y": -99.4
+						},
+						{
+							"time": 1.867,
+							"x": 39.1,
+							"y": -98.5
+						},
+						{
+							"time": 2.267,
+							"x": 31,
+							"y": -96.2
+						},
+						{
+							"time": 2.633,
+							"x": 24.3,
+							"y": -92.5
+						},
+						{
+							"time": 3.133,
+							"x": 16.4,
+							"y": -85.5
+						},
+						{
+							"time": 3.233,
+							"x": 14.4,
+							"y": -84.8
+						},
+						{
+							"time": 3.3,
+							"x": 13,
+							"y": -85
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.3,
+							"x": 0.699,
+							"y": 0.462
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": -57.1
+						}
+					]
+				},
+				"L": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 102,
+							"y": -103
+						},
+						{
+							"time": 0.1,
+							"x": 99.5,
+							"y": -105.2
+						},
+						{
+							"time": 0.267,
+							"x": 95.9,
+							"y": -109.6
+						},
+						{
+							"time": 0.7,
+							"x": 87.7,
+							"y": -121.8
+						},
+						{
+							"time": 1.067,
+							"x": 81.8,
+							"y": -132.7
+						},
+						{
+							"time": 1.367,
+							"x": 78.6,
+							"y": -142.4
+						},
+						{
+							"time": 2.067,
+							"x": 77,
+							"y": -159.5
+						},
+						{
+							"time": 2.633,
+							"x": 76.9,
+							"y": -173.5
+						},
+						{
+							"time": 3.033,
+							"x": 78.4,
+							"y": -183.2
+						},
+						{
+							"time": 3.2,
+							"x": 79.9,
+							"y": -187
+						},
+						{
+							"time": 3.3,
+							"x": 81.5,
+							"y": -188.9
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 3.3,
+							"x": 0.699,
+							"y": -0.962
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": 148.9
+						}
+					]
+				},
+				"K": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 58,
+							"y": -42.5
+						},
+						{
+							"time": 0.933,
+							"x": 47.9,
+							"y": -40.1
+						},
+						{
+							"time": 1.567,
+							"x": 40.8,
+							"y": -39.6
+						},
+						{
+							"time": 2.333,
+							"x": 29.3,
+							"y": -41.4
+						},
+						{
+							"time": 3.3,
+							"x": 15,
+							"y": -44.8
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.4,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.733,
+							"x": 1,
+							"y": 0.657
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": -165.1
+						}
+					]
+				},
+				"J": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 148,
+							"y": -35
+						},
+						{
+							"time": 0.267,
+							"x": 152.9,
+							"y": -29.5
+						},
+						{
+							"time": 0.733,
+							"x": 163,
+							"y": -21.1
+						},
+						{
+							"time": 1.133,
+							"x": 172.4,
+							"y": -14.8
+						},
+						{
+							"time": 1.567,
+							"x": 183.3,
+							"y": -9.1
+						},
+						{
+							"time": 2,
+							"x": 191.1,
+							"y": -6.3
+						},
+						{
+							"time": 2.367,
+							"x": 198,
+							"y": -4.8
+						},
+						{
+							"time": 2.733,
+							"x": 205.1,
+							"y": -4.5
+						},
+						{
+							"time": 3.3,
+							"x": 216,
+							"y": -5.3
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.533,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 2.4,
+							"x": 0.852,
+							"y": -0.807
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 3.3,
+							"angle": -165.1
+						}
+					]
+				},
+				"I": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 251.9,
+							"y": -337.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"Z": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.125,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFFf1"
+						},
+						{
+							"time": 0.625,
+							"color": "FFFFFFc2"
+						},
+						{
+							"time": 0.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.833,
+							"color": "FFFFFF95"
+						},
+						{
+							"time": 1,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.5,
+							"color": "FFFFFFd7"
+						},
+						{
+							"time": 1.625,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.75,
+							"color": "FFFFFFb1"
+						},
+						{
+							"time": 1.875,
+							"color": "FFFFFF89"
+						},
+						{
+							"time": 2,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.1,
+							"color": "FFFFFFe4"
+						},
+						{
+							"time": 2.25,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.375,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.5,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.625,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.875,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 3,
+							"color": "FFFFFFe4"
+						},
+						{
+							"time": 3.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 3.233,
+							"color": "FFFFFFfc"
+						},
+						{
+							"time": 3.3,
+							"color": "FFFFFF7f"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/priestess_bottom_rim"
+						}
+					]
+				},
+				"V": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.125,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.625,
+							"color": "FFFFFFc2"
+						},
+						{
+							"time": 0.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.875,
+							"color": "FFFFFFee"
+						},
+						{
+							"time": 1,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.5,
+							"color": "FFFFFFd7"
+						},
+						{
+							"time": 1.625,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.75,
+							"color": "FFFFFFb1"
+						},
+						{
+							"time": 1.875,
+							"color": "FFFFFF89"
+						},
+						{
+							"time": 2,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.25,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.375,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.5,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.625,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.875,
+							"color": "FFFFFF7f"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_arm_rim"
+						}
+					]
+				},
+				"T": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.125,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 0.5,
+							"color": "FFFFFFf1"
+						},
+						{
+							"time": 0.625,
+							"color": "FFFFFFc2"
+						},
+						{
+							"time": 0.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.833,
+							"color": "FFFFFF95"
+						},
+						{
+							"time": 1,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.25,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.375,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.5,
+							"color": "FFFFFFd7"
+						},
+						{
+							"time": 1.625,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 1.75,
+							"color": "FFFFFFb1"
+						},
+						{
+							"time": 1.875,
+							"color": "FFFFFF89"
+						},
+						{
+							"time": 2,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.1,
+							"color": "FFFFFFe4"
+						},
+						{
+							"time": 2.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.25,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.375,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.5,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 2.625,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.75,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.875,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 3,
+							"color": "FFFFFFe4"
+						},
+						{
+							"time": 3.125,
+							"color": "FFFFFF7f"
+						},
+						{
+							"time": 3.233,
+							"color": "FFFFFFfc"
+						},
+						{
+							"time": 3.25,
+							"color": "FFFFFF7f"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_rim"
+						}
+					]
+				},
+				"S": {
+					"color": [
+						{
+							"time": 0,
+							"color": "fff88700"
+						},
+						{
+							"time": 0.233,
+							"color": "fff88700"
+						},
+						{
+							"time": 0.433,
+							"color": "fff88780"
+						},
+						{
+							"time": 1.267,
+							"color": "fff88700"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/glow"
+						}
+					]
+				},
+				"R": {
+					"color": [
+						{
+							"time": 0,
+							"color": "fff88700"
+						},
+						{
+							"time": 0.233,
+							"color": "fff88700"
+						},
+						{
+							"time": 0.433,
+							"color": "fff88780"
+						},
+						{
+							"time": 1.267,
+							"color": "fff88700"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/glow"
+						}
+					]
+				},
+				"Q": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.7,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFF80"
+						},
+						{
+							"time": 1,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/glow"
+						}
+					]
+				},
+				"P": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.7,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.833,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.967,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/claws"
+						}
+					]
+				},
+				"O": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.333,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.433,
+							"color": "FFFFFF80"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/glow"
+						}
+					]
+				},
+				"N": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.333,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.467,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 0.6,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/claws"
+						}
+					]
+				},
+				"I": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFFff",
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1.2
+							]
+						},
+						{
+							"time": 0.333,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_white"
+						},
+						{
+							"time": 0.367,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"1": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/bg_bottom"
+						}
+					]
+				},
+				"0": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/priestess_bottom"
+						}
+					]
+				},
+				"Y": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/null"
+						}
+					]
+				},
+				"X": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/frame_piece"
+						}
+					]
+				},
+				"W": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther_arm"
+						}
+					]
+				},
+				"U": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/panther"
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/leaf"
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/leaf"
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/leaf"
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym4_win-assets/leaf"
+						}
+					]
+				}
+			}
+		}
+	}
+}

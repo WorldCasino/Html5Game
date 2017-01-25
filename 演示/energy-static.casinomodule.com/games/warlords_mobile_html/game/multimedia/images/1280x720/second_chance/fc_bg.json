@@ -1,0 +1,78 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "B",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.001,
+			"scaleY": 0.001
+		}
+	],
+	"slots": [
+		{
+			"name": "B",
+			"bone": "B",
+			"attachment": "fc-assets/cracks"
+		}
+	],
+	"skins": {
+		"default": {
+			"B": {
+				"fc-assets/cracks": {
+					"x": 0,
+					"y": 0,
+					"width": 960,
+					"height": 1198
+				}
+			}
+		}
+	},
+	"events": {
+		
+	},
+	"animations": {
+		"animation": {
+			"bones": {
+				"B": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 92,
+							"y": -107
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.133,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 0.167,
+							"x": 1000,
+							"y": 1000
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				
+			}
+		}
+	}
+}

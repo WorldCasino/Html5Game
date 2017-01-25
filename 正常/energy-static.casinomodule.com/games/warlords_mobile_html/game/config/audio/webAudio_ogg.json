@@ -1,0 +1,401 @@
+{
+    "clips": {"main": {
+        "randomWildHammer": {"volume": 0.6},
+        "quickStop": {"volume": 0.6},
+        "nearWinRiser1": {
+            "volume": 0.7,
+            "duck": {"ambienceGeneral": {
+                "duration": 2,
+                "attack": 0.05,
+                "release": 1,
+                "value": 0.1
+            }}
+        },
+        "nearWinRiser2": {
+            "volume": 0.6,
+            "duck": {"ambienceGeneral": {
+                "duration": 2,
+                "attack": 0.05,
+                "release": 1,
+                "value": 0.1
+            }}
+        },
+        "smallWin": {
+            "volume": 0.6,
+            "duck": {
+                "ambienceFreeSpin1": {
+                    "duration": 0.5,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceGeneral": {
+                    "duration": 0.5,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin3": {
+                    "duration": 0.5,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin2": {
+                    "duration": 0.5,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                }
+            }
+        },
+        "sym3Win": {"volume": 0.6},
+        "multiplierAndFreespinsLeftCountUp": {"volume": 0.3},
+        "scatterAttention": {"volume": 0.3},
+        "randomWildArrows3": {"volume": 0.7},
+        "randomWildArrows1": {"volume": 0.7},
+        "randomWildArrows2": {"volume": 0.8},
+        "buttonUp": {"volume": 0.1},
+        "scatterBattle": {
+            "volume": 0.6,
+            "duck": {"ambienceGeneral": {
+                "duration": 10,
+                "attack": 0.05,
+                "release": 5,
+                "value": 0.01
+            }}
+        },
+        "randomWildSwordStart": {
+            "volume": 0.6,
+            "duck": {"ambienceGeneral": {
+                "duration": 2,
+                "attack": 0.5,
+                "release": 1,
+                "value": 0.15
+            }}
+        },
+        "mediumWin": {
+            "volume": 0.6,
+            "duck": {
+                "ambienceFreeSpin1": {
+                    "duration": 1,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceGeneral": {
+                    "duration": 1,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin3": {
+                    "duration": 1,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin2": {
+                    "duration": 1,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                }
+            }
+        },
+        "bigWinStart": {"volume": 0.6},
+        "buttonDown": {"volume": 0.3},
+        "scatterBattleResult": {"volume": 0.5},
+        "randomWildHammerStart": {
+            "volume": 0.6,
+            "duck": {"ambienceGeneral": {
+                "duration": 2,
+                "attack": 0.5,
+                "release": 1,
+                "value": 0.15
+            }}
+        },
+        "randomWildArrowStart": {
+            "volume": 0.6,
+            "duck": {"ambienceGeneral": {
+                "duration": 2,
+                "attack": 0.5,
+                "release": 1,
+                "value": 0.15
+            }}
+        },
+        "sym5Win": {"volume": 0.6},
+        "sym4Win": {"volume": 0.6},
+        "countUpLoop": {"volume": 0.4},
+        "reelStop": {"volume": 0.8},
+        "scatterWinPresentation2": {"volume": 0.8},
+        "scatterWinPresentation3": {"volume": 0.8},
+        "scatterWinPresentation1": {"volume": 0.8},
+        "wildAttention": {"volume": 0.3},
+        "largeWin": {
+            "volume": 0.6,
+            "duck": {
+                "ambienceFreeSpin1": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceGeneral": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.05
+                },
+                "ambienceFreeSpin3": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin2": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 1,
+                    "value": 0.1
+                }
+            }
+        },
+        "nearWinFlame3": {"volume": 0.7},
+        "splashFreeSpin3": {"volume": 0.4},
+        "countUpEnd": {"volume": 0.5},
+        "multiplierAndFreespinsLeftCountUpLoop": {"volume": 0.3},
+        "respinLoop": {"volume": 0.5},
+        "splashFreeSpin1": {"volume": 0.4},
+        "nearWinFlame1": {"volume": 0.7},
+        "splashFreeSpin2": {"volume": 0.3},
+        "nearWinFlame2": {"volume": 0.7},
+        "ambienceFreeSpin1": {"volume": 0.4},
+        "ambienceGeneral": {"volume": 0.3},
+        "scatterUnveil3": {"volume": 0.7},
+        "ambienceFreeSpin3": {"volume": 0.4},
+        "scatterUnveil2": {"volume": 0.6},
+        "ambienceFreeSpin2": {"volume": 0.4},
+        "scatterUnveil1": {"volume": 0.6},
+        "randomWildSword": {"volume": 0.9},
+        "reelBounce": {"volume": 0.8},
+        "bigWinEnd": {
+            "volume": 0.7,
+            "duck": {
+                "respinWin": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 0.1,
+                    "value": 0
+                },
+                "ambienceFreeSpin1": {
+                    "duration": 3,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.1
+                },
+                "ambienceGeneral": {
+                    "duration": 3,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin3": {
+                    "duration": 3,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.1
+                },
+                "ambienceFreeSpin2": {
+                    "duration": 3,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.1
+                },
+                "respinLoop": {
+                    "duration": 3,
+                    "attack": 0.05,
+                    "release": 0.1,
+                    "value": 0
+                }
+            }
+        },
+        "finalChanceHit": {"volume": 0.7},
+        "bigWinLoop": {
+            "volume": 0.8,
+            "duration": 16,
+            "duck": {
+                "respinWin": {
+                    "duration": 8,
+                    "attack": 0.05,
+                    "release": 0.1,
+                    "value": 0
+                },
+                "ambienceFreeSpin1": {
+                    "duration": 8,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.01
+                },
+                "ambienceGeneral": {
+                    "duration": 8,
+                    "attack": 0.01,
+                    "release": 0.1,
+                    "value": 0.01
+                },
+                "ambienceFreeSpin3": {
+                    "duration": 8,
+                    "attack": 0.05,
+                    "release": 0.1,
+                    "value": 0.01
+                },
+                "ambienceFreeSpin2": {
+                    "duration": 8,
+                    "attack": 0.01,
+                    "release": 2,
+                    "value": 0.01
+                },
+                "respinLoop": {
+                    "duration": 8,
+                    "attack": 0.05,
+                    "release": 0.1,
+                    "value": 0
+                }
+            }
+        },
+        "buttonClick": {"volume": 0.3},
+        "introFreeSpin": {"volume": 0.6},
+        "buttonHover": {"volume": 0.1},
+        "respinWin": {"volume": 0.6},
+        "reelSpin": {"volume": 0.7},
+        "outroFreeSpin1": {"volume": 0.5},
+        "outroFreeSpin2": {"volume": 0.5},
+        "bigWinTextChange": {"volume": 0.6},
+        "outroFreeSpin3": {"volume": 0.5},
+        "spinButtonClick": {"volume": 0.5}
+    }},
+    "files": {"main": {
+        "randomWildHammer": "multimedia/audio/webAudio/main/ogg/randomWildHammer.ogg",
+        "quickStop": "multimedia/audio/webAudio/main/ogg/quickStop.ogg",
+        "nearWinRiser1": "multimedia/audio/webAudio/main/ogg/nearWinRiser1.ogg",
+        "nearWinRiser2": "multimedia/audio/webAudio/main/ogg/nearWinRiser2.ogg",
+        "smallWin": "multimedia/audio/webAudio/main/ogg/smallWin.ogg",
+        "sym3Win": "multimedia/audio/webAudio/main/ogg/sym3Win.ogg",
+        "multiplierAndFreespinsLeftCountUp": "multimedia/audio/webAudio/main/ogg/multiplierAndFreespinsLeftCountUp.ogg",
+        "scatterAttention": "multimedia/audio/webAudio/main/ogg/scatterAttention.ogg",
+        "randomWildArrows3": "multimedia/audio/webAudio/main/ogg/randomWildArrows3.ogg",
+        "randomWildArrows1": "multimedia/audio/webAudio/main/ogg/randomWildArrows1.ogg",
+        "randomWildArrows2": "multimedia/audio/webAudio/main/ogg/randomWildArrows2.ogg",
+        "buttonUp": "multimedia/audio/webAudio/main/ogg/buttonUp.ogg",
+        "scatterBattle": "multimedia/audio/webAudio/main/ogg/scatterBattle.ogg",
+        "randomWildSwordStart": "multimedia/audio/webAudio/main/ogg/randomWildSwordStart.ogg",
+        "mediumWin": "multimedia/audio/webAudio/main/ogg/mediumWin.ogg",
+        "bigWinStart": "multimedia/audio/webAudio/main/ogg/bigWinStart.ogg",
+        "buttonDown": "multimedia/audio/webAudio/main/ogg/buttonDown.ogg",
+        "scatterBattleResult": "multimedia/audio/webAudio/main/ogg/scatterBattleResult.ogg",
+        "randomWildHammerStart": "multimedia/audio/webAudio/main/ogg/randomWildHammerStart.ogg",
+        "randomWildArrowStart": "multimedia/audio/webAudio/main/ogg/randomWildArrowStart.ogg",
+        "sym5Win": "multimedia/audio/webAudio/main/ogg/sym5Win.ogg",
+        "sym4Win": "multimedia/audio/webAudio/main/ogg/sym4Win.ogg",
+        "countUpLoop": "multimedia/audio/webAudio/main/ogg/countUpLoop.ogg",
+        "reelStop": "multimedia/audio/webAudio/main/ogg/reelStop.ogg",
+        "scatterWinPresentation2": "multimedia/audio/webAudio/main/ogg/scatterWinPresentation2.ogg",
+        "scatterWinPresentation3": "multimedia/audio/webAudio/main/ogg/scatterWinPresentation3.ogg",
+        "scatterWinPresentation1": "multimedia/audio/webAudio/main/ogg/scatterWinPresentation1.ogg",
+        "wildAttention": "multimedia/audio/webAudio/main/ogg/wildAttention.ogg",
+        "largeWin": "multimedia/audio/webAudio/main/ogg/largeWin.ogg",
+        "nearWinFlame3": "multimedia/audio/webAudio/main/ogg/nearWinFlame3.ogg",
+        "splashFreeSpin3": "multimedia/audio/webAudio/main/ogg/splashFreeSpin3.ogg",
+        "countUpEnd": "multimedia/audio/webAudio/main/ogg/countUpEnd.ogg",
+        "multiplierAndFreespinsLeftCountUpLoop": "multimedia/audio/webAudio/main/ogg/multiplierAndFreespinsLeftCountUpLoop.ogg",
+        "respinLoop": "multimedia/audio/webAudio/main/ogg/respinLoop.ogg",
+        "splashFreeSpin1": "multimedia/audio/webAudio/main/ogg/splashFreeSpin1.ogg",
+        "nearWinFlame1": "multimedia/audio/webAudio/main/ogg/nearWinFlame1.ogg",
+        "splashFreeSpin2": "multimedia/audio/webAudio/main/ogg/splashFreeSpin2.ogg",
+        "nearWinFlame2": "multimedia/audio/webAudio/main/ogg/nearWinFlame2.ogg",
+        "ambienceFreeSpin1": "multimedia/audio/webAudio/main/ogg/ambienceFreeSpin1.ogg",
+        "ambienceGeneral": "multimedia/audio/webAudio/main/ogg/ambienceGeneral.ogg",
+        "scatterUnveil3": "multimedia/audio/webAudio/main/ogg/scatterUnveil3.ogg",
+        "ambienceFreeSpin3": "multimedia/audio/webAudio/main/ogg/ambienceFreeSpin3.ogg",
+        "scatterUnveil2": "multimedia/audio/webAudio/main/ogg/scatterUnveil2.ogg",
+        "ambienceFreeSpin2": "multimedia/audio/webAudio/main/ogg/ambienceFreeSpin2.ogg",
+        "scatterUnveil1": "multimedia/audio/webAudio/main/ogg/scatterUnveil1.ogg",
+        "randomWildSword": "multimedia/audio/webAudio/main/ogg/randomWildSword.ogg",
+        "reelBounce": "multimedia/audio/webAudio/main/ogg/reelBounce.ogg",
+        "bigWinEnd": "multimedia/audio/webAudio/main/ogg/bigWinEnd.ogg",
+        "finalChanceHit": "multimedia/audio/webAudio/main/ogg/finalChanceHit.ogg",
+        "bigWinLoop": "multimedia/audio/webAudio/main/ogg/bigWinLoop.ogg",
+        "buttonClick": "multimedia/audio/webAudio/main/ogg/buttonClick.ogg",
+        "introFreeSpin": "multimedia/audio/webAudio/main/ogg/introFreeSpin.ogg",
+        "buttonHover": "multimedia/audio/webAudio/main/ogg/buttonHover.ogg",
+        "respinWin": "multimedia/audio/webAudio/main/ogg/respinWin.ogg",
+        "reelSpin": "multimedia/audio/webAudio/main/ogg/reelSpin.ogg",
+        "outroFreeSpin1": "multimedia/audio/webAudio/main/ogg/outroFreeSpin1.ogg",
+        "outroFreeSpin2": "multimedia/audio/webAudio/main/ogg/outroFreeSpin2.ogg",
+        "bigWinTextChange": "multimedia/audio/webAudio/main/ogg/bigWinTextChange.ogg",
+        "outroFreeSpin3": "multimedia/audio/webAudio/main/ogg/outroFreeSpin3.ogg",
+        "spinButtonClick": "multimedia/audio/webAudio/main/ogg/spinButtonClick.ogg"
+    }},
+    "fileSizes": {"main": {
+        "randomWildHammer": 46061,
+        "quickStop": 12400,
+        "nearWinRiser1": 81459,
+        "nearWinRiser2": 139428,
+        "smallWin": 65419,
+        "sym3Win": 44827,
+        "multiplierAndFreespinsLeftCountUp": 35341,
+        "scatterAttention": 35211,
+        "randomWildArrows3": 22143,
+        "randomWildArrows1": 22128,
+        "randomWildArrows2": 19563,
+        "buttonUp": 7828,
+        "scatterBattle": 100191,
+        "randomWildSwordStart": 25449,
+        "mediumWin": 75171,
+        "bigWinStart": 60514,
+        "buttonDown": 7348,
+        "scatterBattleResult": 196545,
+        "randomWildHammerStart": 31512,
+        "randomWildArrowStart": 42760,
+        "sym5Win": 55324,
+        "sym4Win": 45376,
+        "countUpLoop": 16784,
+        "reelStop": 8649,
+        "scatterWinPresentation2": 51539,
+        "scatterWinPresentation3": 51539,
+        "scatterWinPresentation1": 51539,
+        "wildAttention": 42461,
+        "largeWin": 95826,
+        "nearWinFlame3": 17950,
+        "splashFreeSpin3": 102445,
+        "countUpEnd": 23360,
+        "multiplierAndFreespinsLeftCountUpLoop": 45166,
+        "respinLoop": 60833,
+        "splashFreeSpin1": 118500,
+        "nearWinFlame1": 17107,
+        "splashFreeSpin2": 101126,
+        "nearWinFlame2": 19590,
+        "ambienceFreeSpin1": 679843,
+        "ambienceGeneral": 704085,
+        "scatterUnveil3": 37508,
+        "ambienceFreeSpin3": 421781,
+        "scatterUnveil2": 44319,
+        "ambienceFreeSpin2": 500318,
+        "scatterUnveil1": 56895,
+        "randomWildSword": 53789,
+        "reelBounce": 6626,
+        "bigWinEnd": 78999,
+        "finalChanceHit": 71626,
+        "bigWinLoop": 194560,
+        "buttonClick": 6936,
+        "introFreeSpin": 96789,
+        "buttonHover": 8568,
+        "respinWin": 177100,
+        "reelSpin": 14124,
+        "outroFreeSpin1": 68927,
+        "outroFreeSpin2": 97488,
+        "bigWinTextChange": 60735,
+        "outroFreeSpin3": 83134,
+        "spinButtonClick": 38494
+    }}
+}

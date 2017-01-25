@@ -1,0 +1,111 @@
+
+sym6_win.png
+size: 190,1001
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sym6_win-assets/bg
+  rotate: false
+  xy: 1, 607
+  size: 102, 96
+  orig: 200, 188
+  offset: 49, 46
+  index: -1
+sym6_win-assets/eye_glow
+  rotate: true
+  xy: 1, 922
+  size: 78, 75
+  orig: 200, 188
+  offset: 105, 108
+  index: -1
+sym6_win-assets/frame
+  rotate: true
+  xy: 1, 1
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym6_win-assets/gums
+  rotate: false
+  xy: 78, 909
+  size: 95, 44
+  orig: 200, 188
+  offset: 69, 87
+  index: -1
+sym6_win-assets/lwr_jaw
+  rotate: false
+  xy: 1, 705
+  size: 74, 107
+  orig: 200, 188
+  offset: 77, 0
+  index: -1
+sym6_win-assets/lwr_jaw_fx
+  rotate: true
+  xy: 139, 700
+  size: 101, 43
+  orig: 300, 300
+  offset: 103, 103
+  index: -1
+sym6_win-assets/nose
+  rotate: true
+  xy: 155, 803
+  size: 46, 33
+  orig: 200, 188
+  offset: 94, 108
+  index: -1
+sym6_win-assets/rim_gums
+  rotate: false
+  xy: 78, 955
+  size: 94, 44
+  orig: 200, 188
+  offset: 69, 87
+  index: -1
+sym6_win-assets/rim_lwr_jaw
+  rotate: false
+  xy: 1, 814
+  size: 73, 106
+  orig: 200, 188
+  offset: 78, 0
+  index: -1
+sym6_win-assets/rim_nose
+  rotate: true
+  xy: 155, 851
+  size: 45, 33
+  orig: 200, 188
+  offset: 94, 108
+  index: -1
+sym6_win-assets/rim_upper_jaw
+  rotate: true
+  xy: 105, 607
+  size: 91, 77
+  orig: 200, 188
+  offset: 70, 74
+  index: -1
+sym6_win-assets/rim_wolf_bg
+  rotate: true
+  xy: 1, 203
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1
+sym6_win-assets/upper_jaw
+  rotate: true
+  xy: 76, 816
+  size: 91, 77
+  orig: 200, 188
+  offset: 70, 74
+  index: -1
+sym6_win-assets/upper_jaw_fx
+  rotate: true
+  xy: 77, 705
+  size: 109, 60
+  orig: 300, 300
+  offset: 98, 139
+  index: -1
+sym6_win-assets/wolf_bg
+  rotate: true
+  xy: 1, 405
+  size: 200, 188
+  orig: 200, 188
+  offset: 0, 0
+  index: -1

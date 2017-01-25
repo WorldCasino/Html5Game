@@ -1,0 +1,2664 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "B",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "E",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "C",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "D",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		}
+	],
+	"slots": [
+		{
+			"name": "B",
+			"bone": "B",
+			"attachment": "stackedIdleFx-assets/petals_001"
+		},
+		{
+			"name": "E",
+			"bone": "E",
+			"attachment": "stackedIdleFx-assets/snow_001"
+		},
+		{
+			"name": "D",
+			"bone": "D",
+			"attachment": "stackedIdleFx-assets/rain_001"
+		},
+		{
+			"name": "C",
+			"bone": "C",
+			"attachment": "stackedIdleFx-assets/rain_001"
+		}
+	],
+	"skins": {
+		"default": {
+			"B": {
+				"stackedIdleFx-assets/petals_001": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_002": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_003": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_004": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_005": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_006": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_007": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_008": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_009": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_010": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_011": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_012": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_013": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_014": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_015": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_016": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_017": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_018": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_019": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_020": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_021": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_022": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_023": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_024": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_025": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_026": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_027": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_028": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_029": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_030": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_031": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_032": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_033": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_034": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_035": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_036": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_037": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_038": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_039": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_040": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_041": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_042": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_043": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_044": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_045": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_046": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_047": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_048": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_049": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_050": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_051": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_052": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_053": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_054": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_055": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_056": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_057": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_058": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_059": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/petals_060": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				}
+			},
+			"D": {
+				"stackedIdleFx-assets/rain_001": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_002": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_003": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_004": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_005": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_006": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_007": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_008": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_009": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_010": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_011": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_012": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_013": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_014": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_015": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_016": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_017": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_018": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_019": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_020": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_021": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_022": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_023": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_024": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_025": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_026": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_027": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_028": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_029": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_030": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_031": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_032": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_033": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_034": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_035": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_036": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_037": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_038": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_039": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_040": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_041": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_042": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_043": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_044": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_045": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_046": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_047": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_048": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_049": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_050": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_051": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_052": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_053": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_054": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_055": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_056": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_057": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_058": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_059": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_060": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				}
+			},
+			"C": {
+				"stackedIdleFx-assets/rain_001": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_002": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_003": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_004": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_005": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_006": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_007": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_008": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_009": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_010": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_011": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_012": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_013": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_014": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_015": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_016": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_017": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_018": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_019": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_020": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_021": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_022": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_023": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_024": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_025": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_026": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_027": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_028": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_029": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_030": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_031": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_032": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_033": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_034": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_035": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_036": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_037": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_038": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_039": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_040": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_041": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_042": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_043": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_044": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_045": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_046": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_047": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_048": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_049": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_050": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_051": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_052": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_053": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_054": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_055": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_056": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_057": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_058": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_059": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/rain_060": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				}
+			},
+			"E": {
+				"stackedIdleFx-assets/snow_001": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_002": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_003": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_004": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_005": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_006": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_007": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_008": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_009": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_010": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_011": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_012": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_013": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_014": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_015": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_016": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_017": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_018": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_019": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_020": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_021": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_022": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_023": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_024": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_025": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_026": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_027": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_028": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_029": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_030": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_031": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_032": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_033": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_034": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_035": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_036": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_037": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_038": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_039": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_040": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_041": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_042": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_043": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_044": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_045": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_046": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_047": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_048": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_049": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_050": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_051": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_052": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_053": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_054": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_055": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_056": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_057": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_058": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_059": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				},
+				"stackedIdleFx-assets/snow_060": {
+					"x": 0,
+					"y": 0,
+					"width": 100,
+					"height": 282
+				}
+			}
+		}
+	},
+	"events": {
+		
+	},
+	"animations": {
+		"sym3FX": {
+			"bones": {
+				"B": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -282
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "stackedIdleFx-assets/petals_001"
+						},
+						{
+							"time": 0.033,
+							"name": "stackedIdleFx-assets/petals_002"
+						},
+						{
+							"time": 0.066,
+							"name": "stackedIdleFx-assets/petals_003"
+						},
+						{
+							"time": 0.098,
+							"name": "stackedIdleFx-assets/petals_004"
+						},
+						{
+							"time": 0.131,
+							"name": "stackedIdleFx-assets/petals_005"
+						},
+						{
+							"time": 0.164,
+							"name": "stackedIdleFx-assets/petals_006"
+						},
+						{
+							"time": 0.197,
+							"name": "stackedIdleFx-assets/petals_007"
+						},
+						{
+							"time": 0.23,
+							"name": "stackedIdleFx-assets/petals_008"
+						},
+						{
+							"time": 0.262,
+							"name": "stackedIdleFx-assets/petals_009"
+						},
+						{
+							"time": 0.295,
+							"name": "stackedIdleFx-assets/petals_010"
+						},
+						{
+							"time": 0.328,
+							"name": "stackedIdleFx-assets/petals_011"
+						},
+						{
+							"time": 0.361,
+							"name": "stackedIdleFx-assets/petals_012"
+						},
+						{
+							"time": 0.393,
+							"name": "stackedIdleFx-assets/petals_013"
+						},
+						{
+							"time": 0.426,
+							"name": "stackedIdleFx-assets/petals_014"
+						},
+						{
+							"time": 0.459,
+							"name": "stackedIdleFx-assets/petals_015"
+						},
+						{
+							"time": 0.492,
+							"name": "stackedIdleFx-assets/petals_016"
+						},
+						{
+							"time": 0.525,
+							"name": "stackedIdleFx-assets/petals_017"
+						},
+						{
+							"time": 0.557,
+							"name": "stackedIdleFx-assets/petals_018"
+						},
+						{
+							"time": 0.59,
+							"name": "stackedIdleFx-assets/petals_019"
+						},
+						{
+							"time": 0.623,
+							"name": "stackedIdleFx-assets/petals_020"
+						},
+						{
+							"time": 0.656,
+							"name": "stackedIdleFx-assets/petals_021"
+						},
+						{
+							"time": 0.689,
+							"name": "stackedIdleFx-assets/petals_022"
+						},
+						{
+							"time": 0.721,
+							"name": "stackedIdleFx-assets/petals_023"
+						},
+						{
+							"time": 0.754,
+							"name": "stackedIdleFx-assets/petals_024"
+						},
+						{
+							"time": 0.787,
+							"name": "stackedIdleFx-assets/petals_025"
+						},
+						{
+							"time": 0.82,
+							"name": "stackedIdleFx-assets/petals_026"
+						},
+						{
+							"time": 0.852,
+							"name": "stackedIdleFx-assets/petals_027"
+						},
+						{
+							"time": 0.885,
+							"name": "stackedIdleFx-assets/petals_028"
+						},
+						{
+							"time": 0.918,
+							"name": "stackedIdleFx-assets/petals_029"
+						},
+						{
+							"time": 0.951,
+							"name": "stackedIdleFx-assets/petals_030"
+						},
+						{
+							"time": 0.984,
+							"name": "stackedIdleFx-assets/petals_031"
+						},
+						{
+							"time": 1.016,
+							"name": "stackedIdleFx-assets/petals_032"
+						},
+						{
+							"time": 1.049,
+							"name": "stackedIdleFx-assets/petals_033"
+						},
+						{
+							"time": 1.082,
+							"name": "stackedIdleFx-assets/petals_034"
+						},
+						{
+							"time": 1.115,
+							"name": "stackedIdleFx-assets/petals_035"
+						},
+						{
+							"time": 1.148,
+							"name": "stackedIdleFx-assets/petals_036"
+						},
+						{
+							"time": 1.18,
+							"name": "stackedIdleFx-assets/petals_037"
+						},
+						{
+							"time": 1.213,
+							"name": "stackedIdleFx-assets/petals_038"
+						},
+						{
+							"time": 1.246,
+							"name": "stackedIdleFx-assets/petals_039"
+						},
+						{
+							"time": 1.279,
+							"name": "stackedIdleFx-assets/petals_040"
+						},
+						{
+							"time": 1.311,
+							"name": "stackedIdleFx-assets/petals_041"
+						},
+						{
+							"time": 1.344,
+							"name": "stackedIdleFx-assets/petals_042"
+						},
+						{
+							"time": 1.377,
+							"name": "stackedIdleFx-assets/petals_043"
+						},
+						{
+							"time": 1.41,
+							"name": "stackedIdleFx-assets/petals_044"
+						},
+						{
+							"time": 1.443,
+							"name": "stackedIdleFx-assets/petals_045"
+						},
+						{
+							"time": 1.475,
+							"name": "stackedIdleFx-assets/petals_046"
+						},
+						{
+							"time": 1.508,
+							"name": "stackedIdleFx-assets/petals_047"
+						},
+						{
+							"time": 1.541,
+							"name": "stackedIdleFx-assets/petals_048"
+						},
+						{
+							"time": 1.574,
+							"name": "stackedIdleFx-assets/petals_049"
+						},
+						{
+							"time": 1.607,
+							"name": "stackedIdleFx-assets/petals_050"
+						},
+						{
+							"time": 1.639,
+							"name": "stackedIdleFx-assets/petals_051"
+						},
+						{
+							"time": 1.672,
+							"name": "stackedIdleFx-assets/petals_052"
+						},
+						{
+							"time": 1.705,
+							"name": "stackedIdleFx-assets/petals_053"
+						},
+						{
+							"time": 1.738,
+							"name": "stackedIdleFx-assets/petals_054"
+						},
+						{
+							"time": 1.77,
+							"name": "stackedIdleFx-assets/petals_055"
+						},
+						{
+							"time": 1.803,
+							"name": "stackedIdleFx-assets/petals_056"
+						},
+						{
+							"time": 1.836,
+							"name": "stackedIdleFx-assets/petals_057"
+						},
+						{
+							"time": 1.869,
+							"name": "stackedIdleFx-assets/petals_058"
+						},
+						{
+							"time": 1.902,
+							"name": "stackedIdleFx-assets/petals_059"
+						},
+						{
+							"time": 1.934,
+							"name": "stackedIdleFx-assets/petals_060"
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym4FX": {
+			"bones": {
+				"D": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -282
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"C": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -282
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "stackedIdleFx-assets/rain_001"
+						},
+						{
+							"time": 0.033,
+							"name": "stackedIdleFx-assets/rain_002"
+						},
+						{
+							"time": 0.066,
+							"name": "stackedIdleFx-assets/rain_003"
+						},
+						{
+							"time": 0.098,
+							"name": "stackedIdleFx-assets/rain_004"
+						},
+						{
+							"time": 0.131,
+							"name": "stackedIdleFx-assets/rain_005"
+						},
+						{
+							"time": 0.164,
+							"name": "stackedIdleFx-assets/rain_006"
+						},
+						{
+							"time": 0.197,
+							"name": "stackedIdleFx-assets/rain_007"
+						},
+						{
+							"time": 0.23,
+							"name": "stackedIdleFx-assets/rain_008"
+						},
+						{
+							"time": 0.262,
+							"name": "stackedIdleFx-assets/rain_009"
+						},
+						{
+							"time": 0.295,
+							"name": "stackedIdleFx-assets/rain_010"
+						},
+						{
+							"time": 0.328,
+							"name": "stackedIdleFx-assets/rain_011"
+						},
+						{
+							"time": 0.361,
+							"name": "stackedIdleFx-assets/rain_012"
+						},
+						{
+							"time": 0.393,
+							"name": "stackedIdleFx-assets/rain_013"
+						},
+						{
+							"time": 0.426,
+							"name": "stackedIdleFx-assets/rain_014"
+						},
+						{
+							"time": 0.459,
+							"name": "stackedIdleFx-assets/rain_015"
+						},
+						{
+							"time": 0.492,
+							"name": "stackedIdleFx-assets/rain_016"
+						},
+						{
+							"time": 0.525,
+							"name": "stackedIdleFx-assets/rain_017"
+						},
+						{
+							"time": 0.557,
+							"name": "stackedIdleFx-assets/rain_018"
+						},
+						{
+							"time": 0.59,
+							"name": "stackedIdleFx-assets/rain_019"
+						},
+						{
+							"time": 0.623,
+							"name": "stackedIdleFx-assets/rain_020"
+						},
+						{
+							"time": 0.656,
+							"name": "stackedIdleFx-assets/rain_021"
+						},
+						{
+							"time": 0.689,
+							"name": "stackedIdleFx-assets/rain_022"
+						},
+						{
+							"time": 0.721,
+							"name": "stackedIdleFx-assets/rain_023"
+						},
+						{
+							"time": 0.754,
+							"name": "stackedIdleFx-assets/rain_024"
+						},
+						{
+							"time": 0.787,
+							"name": "stackedIdleFx-assets/rain_025"
+						},
+						{
+							"time": 0.82,
+							"name": "stackedIdleFx-assets/rain_026"
+						},
+						{
+							"time": 0.852,
+							"name": "stackedIdleFx-assets/rain_027"
+						},
+						{
+							"time": 0.885,
+							"name": "stackedIdleFx-assets/rain_028"
+						},
+						{
+							"time": 0.918,
+							"name": "stackedIdleFx-assets/rain_029"
+						},
+						{
+							"time": 0.951,
+							"name": "stackedIdleFx-assets/rain_030"
+						},
+						{
+							"time": 0.984,
+							"name": "stackedIdleFx-assets/rain_031"
+						},
+						{
+							"time": 1.016,
+							"name": "stackedIdleFx-assets/rain_032"
+						},
+						{
+							"time": 1.049,
+							"name": "stackedIdleFx-assets/rain_033"
+						},
+						{
+							"time": 1.082,
+							"name": "stackedIdleFx-assets/rain_034"
+						},
+						{
+							"time": 1.115,
+							"name": "stackedIdleFx-assets/rain_035"
+						},
+						{
+							"time": 1.148,
+							"name": "stackedIdleFx-assets/rain_036"
+						},
+						{
+							"time": 1.18,
+							"name": "stackedIdleFx-assets/rain_037"
+						},
+						{
+							"time": 1.213,
+							"name": "stackedIdleFx-assets/rain_038"
+						},
+						{
+							"time": 1.246,
+							"name": "stackedIdleFx-assets/rain_039"
+						},
+						{
+							"time": 1.279,
+							"name": "stackedIdleFx-assets/rain_040"
+						},
+						{
+							"time": 1.311,
+							"name": "stackedIdleFx-assets/rain_041"
+						},
+						{
+							"time": 1.344,
+							"name": "stackedIdleFx-assets/rain_042"
+						},
+						{
+							"time": 1.377,
+							"name": "stackedIdleFx-assets/rain_043"
+						},
+						{
+							"time": 1.41,
+							"name": "stackedIdleFx-assets/rain_044"
+						},
+						{
+							"time": 1.443,
+							"name": "stackedIdleFx-assets/rain_045"
+						},
+						{
+							"time": 1.475,
+							"name": "stackedIdleFx-assets/rain_046"
+						},
+						{
+							"time": 1.508,
+							"name": "stackedIdleFx-assets/rain_047"
+						},
+						{
+							"time": 1.541,
+							"name": "stackedIdleFx-assets/rain_048"
+						},
+						{
+							"time": 1.574,
+							"name": "stackedIdleFx-assets/rain_049"
+						},
+						{
+							"time": 1.607,
+							"name": "stackedIdleFx-assets/rain_050"
+						},
+						{
+							"time": 1.639,
+							"name": "stackedIdleFx-assets/rain_051"
+						},
+						{
+							"time": 1.672,
+							"name": "stackedIdleFx-assets/rain_052"
+						},
+						{
+							"time": 1.705,
+							"name": "stackedIdleFx-assets/rain_053"
+						},
+						{
+							"time": 1.738,
+							"name": "stackedIdleFx-assets/rain_054"
+						},
+						{
+							"time": 1.77,
+							"name": "stackedIdleFx-assets/rain_055"
+						},
+						{
+							"time": 1.803,
+							"name": "stackedIdleFx-assets/rain_056"
+						},
+						{
+							"time": 1.836,
+							"name": "stackedIdleFx-assets/rain_057"
+						},
+						{
+							"time": 1.869,
+							"name": "stackedIdleFx-assets/rain_058"
+						},
+						{
+							"time": 1.902,
+							"name": "stackedIdleFx-assets/rain_059"
+						},
+						{
+							"time": 1.934,
+							"name": "stackedIdleFx-assets/rain_060"
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "stackedIdleFx-assets/rain_001"
+						},
+						{
+							"time": 0.033,
+							"name": "stackedIdleFx-assets/rain_002"
+						},
+						{
+							"time": 0.066,
+							"name": "stackedIdleFx-assets/rain_003"
+						},
+						{
+							"time": 0.098,
+							"name": "stackedIdleFx-assets/rain_004"
+						},
+						{
+							"time": 0.131,
+							"name": "stackedIdleFx-assets/rain_005"
+						},
+						{
+							"time": 0.164,
+							"name": "stackedIdleFx-assets/rain_006"
+						},
+						{
+							"time": 0.197,
+							"name": "stackedIdleFx-assets/rain_007"
+						},
+						{
+							"time": 0.23,
+							"name": "stackedIdleFx-assets/rain_008"
+						},
+						{
+							"time": 0.262,
+							"name": "stackedIdleFx-assets/rain_009"
+						},
+						{
+							"time": 0.295,
+							"name": "stackedIdleFx-assets/rain_010"
+						},
+						{
+							"time": 0.328,
+							"name": "stackedIdleFx-assets/rain_011"
+						},
+						{
+							"time": 0.361,
+							"name": "stackedIdleFx-assets/rain_012"
+						},
+						{
+							"time": 0.393,
+							"name": "stackedIdleFx-assets/rain_013"
+						},
+						{
+							"time": 0.426,
+							"name": "stackedIdleFx-assets/rain_014"
+						},
+						{
+							"time": 0.459,
+							"name": "stackedIdleFx-assets/rain_015"
+						},
+						{
+							"time": 0.492,
+							"name": "stackedIdleFx-assets/rain_016"
+						},
+						{
+							"time": 0.525,
+							"name": "stackedIdleFx-assets/rain_017"
+						},
+						{
+							"time": 0.557,
+							"name": "stackedIdleFx-assets/rain_018"
+						},
+						{
+							"time": 0.59,
+							"name": "stackedIdleFx-assets/rain_019"
+						},
+						{
+							"time": 0.623,
+							"name": "stackedIdleFx-assets/rain_020"
+						},
+						{
+							"time": 0.656,
+							"name": "stackedIdleFx-assets/rain_021"
+						},
+						{
+							"time": 0.689,
+							"name": "stackedIdleFx-assets/rain_022"
+						},
+						{
+							"time": 0.721,
+							"name": "stackedIdleFx-assets/rain_023"
+						},
+						{
+							"time": 0.754,
+							"name": "stackedIdleFx-assets/rain_024"
+						},
+						{
+							"time": 0.787,
+							"name": "stackedIdleFx-assets/rain_025"
+						},
+						{
+							"time": 0.82,
+							"name": "stackedIdleFx-assets/rain_026"
+						},
+						{
+							"time": 0.852,
+							"name": "stackedIdleFx-assets/rain_027"
+						},
+						{
+							"time": 0.885,
+							"name": "stackedIdleFx-assets/rain_028"
+						},
+						{
+							"time": 0.918,
+							"name": "stackedIdleFx-assets/rain_029"
+						},
+						{
+							"time": 0.951,
+							"name": "stackedIdleFx-assets/rain_030"
+						},
+						{
+							"time": 0.984,
+							"name": "stackedIdleFx-assets/rain_031"
+						},
+						{
+							"time": 1.016,
+							"name": "stackedIdleFx-assets/rain_032"
+						},
+						{
+							"time": 1.049,
+							"name": "stackedIdleFx-assets/rain_033"
+						},
+						{
+							"time": 1.082,
+							"name": "stackedIdleFx-assets/rain_034"
+						},
+						{
+							"time": 1.115,
+							"name": "stackedIdleFx-assets/rain_035"
+						},
+						{
+							"time": 1.148,
+							"name": "stackedIdleFx-assets/rain_036"
+						},
+						{
+							"time": 1.18,
+							"name": "stackedIdleFx-assets/rain_037"
+						},
+						{
+							"time": 1.213,
+							"name": "stackedIdleFx-assets/rain_038"
+						},
+						{
+							"time": 1.246,
+							"name": "stackedIdleFx-assets/rain_039"
+						},
+						{
+							"time": 1.279,
+							"name": "stackedIdleFx-assets/rain_040"
+						},
+						{
+							"time": 1.311,
+							"name": "stackedIdleFx-assets/rain_041"
+						},
+						{
+							"time": 1.344,
+							"name": "stackedIdleFx-assets/rain_042"
+						},
+						{
+							"time": 1.377,
+							"name": "stackedIdleFx-assets/rain_043"
+						},
+						{
+							"time": 1.41,
+							"name": "stackedIdleFx-assets/rain_044"
+						},
+						{
+							"time": 1.443,
+							"name": "stackedIdleFx-assets/rain_045"
+						},
+						{
+							"time": 1.475,
+							"name": "stackedIdleFx-assets/rain_046"
+						},
+						{
+							"time": 1.508,
+							"name": "stackedIdleFx-assets/rain_047"
+						},
+						{
+							"time": 1.541,
+							"name": "stackedIdleFx-assets/rain_048"
+						},
+						{
+							"time": 1.574,
+							"name": "stackedIdleFx-assets/rain_049"
+						},
+						{
+							"time": 1.607,
+							"name": "stackedIdleFx-assets/rain_050"
+						},
+						{
+							"time": 1.639,
+							"name": "stackedIdleFx-assets/rain_051"
+						},
+						{
+							"time": 1.672,
+							"name": "stackedIdleFx-assets/rain_052"
+						},
+						{
+							"time": 1.705,
+							"name": "stackedIdleFx-assets/rain_053"
+						},
+						{
+							"time": 1.738,
+							"name": "stackedIdleFx-assets/rain_054"
+						},
+						{
+							"time": 1.77,
+							"name": "stackedIdleFx-assets/rain_055"
+						},
+						{
+							"time": 1.803,
+							"name": "stackedIdleFx-assets/rain_056"
+						},
+						{
+							"time": 1.836,
+							"name": "stackedIdleFx-assets/rain_057"
+						},
+						{
+							"time": 1.869,
+							"name": "stackedIdleFx-assets/rain_058"
+						},
+						{
+							"time": 1.902,
+							"name": "stackedIdleFx-assets/rain_059"
+						},
+						{
+							"time": 1.934,
+							"name": "stackedIdleFx-assets/rain_060"
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym5FX": {
+			"bones": {
+				"E": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -282
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "stackedIdleFx-assets/snow_001"
+						},
+						{
+							"time": 0.033,
+							"name": "stackedIdleFx-assets/snow_002"
+						},
+						{
+							"time": 0.066,
+							"name": "stackedIdleFx-assets/snow_003"
+						},
+						{
+							"time": 0.098,
+							"name": "stackedIdleFx-assets/snow_004"
+						},
+						{
+							"time": 0.131,
+							"name": "stackedIdleFx-assets/snow_005"
+						},
+						{
+							"time": 0.164,
+							"name": "stackedIdleFx-assets/snow_006"
+						},
+						{
+							"time": 0.197,
+							"name": "stackedIdleFx-assets/snow_007"
+						},
+						{
+							"time": 0.23,
+							"name": "stackedIdleFx-assets/snow_008"
+						},
+						{
+							"time": 0.262,
+							"name": "stackedIdleFx-assets/snow_009"
+						},
+						{
+							"time": 0.295,
+							"name": "stackedIdleFx-assets/snow_010"
+						},
+						{
+							"time": 0.328,
+							"name": "stackedIdleFx-assets/snow_011"
+						},
+						{
+							"time": 0.361,
+							"name": "stackedIdleFx-assets/snow_012"
+						},
+						{
+							"time": 0.393,
+							"name": "stackedIdleFx-assets/snow_013"
+						},
+						{
+							"time": 0.426,
+							"name": "stackedIdleFx-assets/snow_014"
+						},
+						{
+							"time": 0.459,
+							"name": "stackedIdleFx-assets/snow_015"
+						},
+						{
+							"time": 0.492,
+							"name": "stackedIdleFx-assets/snow_016"
+						},
+						{
+							"time": 0.525,
+							"name": "stackedIdleFx-assets/snow_017"
+						},
+						{
+							"time": 0.557,
+							"name": "stackedIdleFx-assets/snow_018"
+						},
+						{
+							"time": 0.59,
+							"name": "stackedIdleFx-assets/snow_019"
+						},
+						{
+							"time": 0.623,
+							"name": "stackedIdleFx-assets/snow_020"
+						},
+						{
+							"time": 0.656,
+							"name": "stackedIdleFx-assets/snow_021"
+						},
+						{
+							"time": 0.689,
+							"name": "stackedIdleFx-assets/snow_022"
+						},
+						{
+							"time": 0.721,
+							"name": "stackedIdleFx-assets/snow_023"
+						},
+						{
+							"time": 0.754,
+							"name": "stackedIdleFx-assets/snow_024"
+						},
+						{
+							"time": 0.787,
+							"name": "stackedIdleFx-assets/snow_025"
+						},
+						{
+							"time": 0.82,
+							"name": "stackedIdleFx-assets/snow_026"
+						},
+						{
+							"time": 0.852,
+							"name": "stackedIdleFx-assets/snow_027"
+						},
+						{
+							"time": 0.885,
+							"name": "stackedIdleFx-assets/snow_028"
+						},
+						{
+							"time": 0.918,
+							"name": "stackedIdleFx-assets/snow_029"
+						},
+						{
+							"time": 0.951,
+							"name": "stackedIdleFx-assets/snow_030"
+						},
+						{
+							"time": 0.984,
+							"name": "stackedIdleFx-assets/snow_031"
+						},
+						{
+							"time": 1.016,
+							"name": "stackedIdleFx-assets/snow_032"
+						},
+						{
+							"time": 1.049,
+							"name": "stackedIdleFx-assets/snow_033"
+						},
+						{
+							"time": 1.082,
+							"name": "stackedIdleFx-assets/snow_034"
+						},
+						{
+							"time": 1.115,
+							"name": "stackedIdleFx-assets/snow_035"
+						},
+						{
+							"time": 1.148,
+							"name": "stackedIdleFx-assets/snow_036"
+						},
+						{
+							"time": 1.18,
+							"name": "stackedIdleFx-assets/snow_037"
+						},
+						{
+							"time": 1.213,
+							"name": "stackedIdleFx-assets/snow_038"
+						},
+						{
+							"time": 1.246,
+							"name": "stackedIdleFx-assets/snow_039"
+						},
+						{
+							"time": 1.279,
+							"name": "stackedIdleFx-assets/snow_040"
+						},
+						{
+							"time": 1.311,
+							"name": "stackedIdleFx-assets/snow_041"
+						},
+						{
+							"time": 1.344,
+							"name": "stackedIdleFx-assets/snow_042"
+						},
+						{
+							"time": 1.377,
+							"name": "stackedIdleFx-assets/snow_043"
+						},
+						{
+							"time": 1.41,
+							"name": "stackedIdleFx-assets/snow_044"
+						},
+						{
+							"time": 1.443,
+							"name": "stackedIdleFx-assets/snow_045"
+						},
+						{
+							"time": 1.475,
+							"name": "stackedIdleFx-assets/snow_046"
+						},
+						{
+							"time": 1.508,
+							"name": "stackedIdleFx-assets/snow_047"
+						},
+						{
+							"time": 1.541,
+							"name": "stackedIdleFx-assets/snow_048"
+						},
+						{
+							"time": 1.574,
+							"name": "stackedIdleFx-assets/snow_049"
+						},
+						{
+							"time": 1.607,
+							"name": "stackedIdleFx-assets/snow_050"
+						},
+						{
+							"time": 1.639,
+							"name": "stackedIdleFx-assets/snow_051"
+						},
+						{
+							"time": 1.672,
+							"name": "stackedIdleFx-assets/snow_052"
+						},
+						{
+							"time": 1.705,
+							"name": "stackedIdleFx-assets/snow_053"
+						},
+						{
+							"time": 1.738,
+							"name": "stackedIdleFx-assets/snow_054"
+						},
+						{
+							"time": 1.77,
+							"name": "stackedIdleFx-assets/snow_055"
+						},
+						{
+							"time": 1.803,
+							"name": "stackedIdleFx-assets/snow_056"
+						},
+						{
+							"time": 1.836,
+							"name": "stackedIdleFx-assets/snow_057"
+						},
+						{
+							"time": 1.869,
+							"name": "stackedIdleFx-assets/snow_058"
+						},
+						{
+							"time": 1.902,
+							"name": "stackedIdleFx-assets/snow_059"
+						},
+						{
+							"time": 1.934,
+							"name": "stackedIdleFx-assets/snow_060"
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,97 @@
+
+random_wilds.png
+size: 507,1039
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+random_wilds-assets/arrow
+  rotate: true
+  xy: 1, 968
+  size: 70, 122
+  orig: 89, 122
+  offset: 9, 0
+  index: -1
+random_wilds-assets/arrow_hit
+  rotate: false
+  xy: 369, 912
+  size: 62, 55
+  orig: 81, 61
+  offset: 10, 5
+  index: -1
+random_wilds-assets/arrow_tip
+  rotate: true
+  xy: 125, 968
+  size: 50, 102
+  orig: 200, 300
+  offset: 67, 94
+  index: -1
+random_wilds-assets/blood
+  rotate: true
+  xy: 46, 550
+  size: 272, 279
+  orig: 272, 281
+  offset: 0, 0
+  index: -1
+random_wilds-assets/burst
+  rotate: true
+  xy: 340, 331
+  size: 176, 166
+  orig: 176, 174
+  offset: 0, 8
+  index: -1
+random_wilds-assets/cut
+  rotate: true
+  xy: 1, 1
+  size: 767, 43
+  orig: 767, 43
+  offset: 0, 0
+  index: -1
+random_wilds-assets/hammer
+  rotate: true
+  xy: 1, 824
+  size: 142, 366
+  orig: 175, 376
+  offset: 16, 1
+  index: -1
+random_wilds-assets/lightsym
+  rotate: false
+  xy: 369, 820
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+random_wilds-assets/rdm_w_cracks
+  rotate: false
+  xy: 46, 1
+  size: 324, 278
+  orig: 392, 368
+  offset: 40, 37
+  index: -1
+random_wilds-assets/smoke
+  rotate: false
+  xy: 340, 509
+  size: 159, 155
+  orig: 179, 174
+  offset: 10, 10
+  index: -1
+random_wilds-assets/sword
+  rotate: true
+  xy: 372, 1
+  size: 328, 129
+  orig: 328, 129
+  offset: 0, 0
+  index: -1
+random_wilds-assets/sword_mb
+  rotate: false
+  xy: 46, 281
+  size: 292, 267
+  orig: 1280, 720
+  offset: 400, 188
+  index: -1
+random_wilds-assets/sword_mb2
+  rotate: false
+  xy: 327, 666
+  size: 169, 152
+  orig: 1280, 720
+  offset: 514, 306
+  index: -1

@@ -1,0 +1,228 @@
+respin_rocks.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+glow
+  rotate: false
+  xy: 2, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+null
+  rotate: false
+  xy: 204, 177
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+rock_loop_001
+  rotate: true
+  xy: 585, 161
+  size: 36, 66
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_002
+  rotate: true
+  xy: 512, 164
+  size: 37, 71
+  orig: 42, 88
+  offset: 3, 3
+  index: -1
+rock_loop_003
+  rotate: false
+  xy: 629, 2
+  size: 34, 75
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_004
+  rotate: false
+  xy: 600, 81
+  size: 33, 76
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_005
+  rotate: false
+  xy: 635, 79
+  size: 33, 75
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_006
+  rotate: false
+  xy: 527, 82
+  size: 33, 78
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_007
+  rotate: false
+  xy: 419, 2
+  size: 32, 80
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_008
+  rotate: false
+  xy: 314, 2
+  size: 33, 81
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_009
+  rotate: false
+  xy: 384, 2
+  size: 33, 80
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_010
+  rotate: false
+  xy: 594, 2
+  size: 33, 77
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_011
+  rotate: false
+  xy: 458, 84
+  size: 33, 79
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_012
+  rotate: false
+  xy: 487, 2
+  size: 32, 79
+  orig: 42, 88
+  offset: 6, 2
+  index: -1
+rock_loop_013
+  rotate: false
+  xy: 424, 84
+  size: 32, 80
+  orig: 42, 88
+  offset: 6, 2
+  index: -1
+rock_loop_014
+  rotate: false
+  xy: 453, 2
+  size: 32, 80
+  orig: 42, 88
+  offset: 6, 2
+  index: -1
+rock_loop_015
+  rotate: false
+  xy: 389, 84
+  size: 33, 80
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_016
+  rotate: false
+  xy: 559, 2
+  size: 33, 78
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_017
+  rotate: false
+  xy: 349, 2
+  size: 33, 81
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_018
+  rotate: false
+  xy: 493, 83
+  size: 32, 79
+  orig: 42, 88
+  offset: 5, 2
+  index: -1
+rock_loop_019
+  rotate: false
+  xy: 278, 2
+  size: 34, 83
+  orig: 42, 88
+  offset: 4, 1
+  index: -1
+rock_loop_020
+  rotate: false
+  xy: 241, 88
+  size: 34, 84
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_021
+  rotate: false
+  xy: 277, 88
+  size: 34, 84
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_022
+  rotate: false
+  xy: 204, 90
+  size: 35, 85
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_023
+  rotate: false
+  xy: 313, 87
+  size: 35, 82
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_024
+  rotate: false
+  xy: 241, 2
+  size: 35, 84
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_025
+  rotate: false
+  xy: 204, 2
+  size: 35, 86
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_026
+  rotate: true
+  xy: 431, 166
+  size: 36, 79
+  orig: 42, 88
+  offset: 3, 2
+  index: -1
+rock_loop_027
+  rotate: true
+  xy: 350, 167
+  size: 35, 79
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_028
+  rotate: false
+  xy: 521, 2
+  size: 36, 78
+  orig: 42, 88
+  offset: 4, 2
+  index: -1
+rock_loop_029
+  rotate: false
+  xy: 350, 85
+  size: 37, 80
+  orig: 42, 88
+  offset: 3, 2
+  index: -1
+rock_loop_030
+  rotate: false
+  xy: 562, 82
+  size: 36, 77
+  orig: 42, 88
+  offset: 4, 2
+  index: -1

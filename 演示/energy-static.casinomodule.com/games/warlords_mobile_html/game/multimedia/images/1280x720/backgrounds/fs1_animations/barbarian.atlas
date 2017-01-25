@@ -1,0 +1,202 @@
+
+barbarian.png
+size: 458,738
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+barbarian-assets/bottom_fog
+  rotate: true
+  xy: 1, 1
+  size: 640, 131
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+barbarian-assets/fire
+  rotate: true
+  xy: 134, 627
+  size: 110, 162
+  orig: 110, 162
+  offset: 0, 0
+  index: -1
+barbarian-assets/fire_001
+  rotate: false
+  xy: 436, 625
+  size: 20, 37
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+barbarian-assets/fire_002
+  rotate: false
+  xy: 436, 461
+  size: 21, 38
+  orig: 29, 48
+  offset: 6, 1
+  index: -1
+barbarian-assets/fire_003
+  rotate: false
+  xy: 27, 643
+  size: 22, 41
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+barbarian-assets/fire_004
+  rotate: true
+  xy: 392, 627
+  size: 22, 42
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+barbarian-assets/fire_005
+  rotate: true
+  xy: 390, 711
+  size: 26, 42
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+barbarian-assets/fire_006
+  rotate: true
+  xy: 298, 711
+  size: 26, 44
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+barbarian-assets/fire_007
+  rotate: false
+  xy: 298, 664
+  size: 28, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+barbarian-assets/fire_008
+  rotate: false
+  xy: 358, 664
+  size: 27, 45
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+barbarian-assets/fire_009
+  rotate: false
+  xy: 387, 664
+  size: 27, 45
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+barbarian-assets/fire_010
+  rotate: false
+  xy: 1, 643
+  size: 24, 45
+  orig: 29, 48
+  offset: 4, 1
+  index: -1
+barbarian-assets/fire_011
+  rotate: false
+  xy: 51, 643
+  size: 24, 39
+  orig: 29, 48
+  offset: 3, 1
+  index: -1
+barbarian-assets/fire_012
+  rotate: false
+  xy: 1, 690
+  size: 25, 41
+  orig: 29, 48
+  offset: 2, 1
+  index: -1
+barbarian-assets/fire_013
+  rotate: true
+  xy: 344, 711
+  size: 26, 44
+  orig: 29, 48
+  offset: 1, 1
+  index: -1
+barbarian-assets/fire_014
+  rotate: false
+  xy: 328, 664
+  size: 28, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+barbarian-assets/fire_015
+  rotate: false
+  xy: 416, 664
+  size: 27, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+barbarian-assets/fire_016
+  rotate: true
+  xy: 298, 627
+  size: 27, 45
+  orig: 29, 48
+  offset: 0, 1
+  index: -1
+barbarian-assets/fire_017
+  rotate: true
+  xy: 345, 627
+  size: 25, 45
+  orig: 29, 48
+  offset: 2, 1
+  index: -1
+barbarian-assets/fire_018
+  rotate: false
+  xy: 28, 686
+  size: 22, 40
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+barbarian-assets/fire_019
+  rotate: false
+  xy: 436, 418
+  size: 21, 41
+  orig: 29, 48
+  offset: 5, 1
+  index: -1
+barbarian-assets/fire_020
+  rotate: false
+  xy: 436, 325
+  size: 21, 45
+  orig: 29, 48
+  offset: 6, 1
+  index: -1
+barbarian-assets/fire_021
+  rotate: false
+  xy: 436, 578
+  size: 20, 45
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+barbarian-assets/fire_022
+  rotate: false
+  xy: 436, 372
+  size: 21, 44
+  orig: 29, 48
+  offset: 6, 2
+  index: -1
+barbarian-assets/fire_023
+  rotate: false
+  xy: 436, 501
+  size: 21, 38
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+barbarian-assets/fire_024
+  rotate: false
+  xy: 436, 541
+  size: 21, 35
+  orig: 29, 48
+  offset: 7, 1
+  index: -1
+barbarian-assets/snow
+  rotate: false
+  xy: 134, 325
+  size: 300, 300
+  orig: 300, 300
+  offset: 0, 0
+  index: -1
+barbarian-assets/win_glow
+  rotate: true
+  xy: 134, 1
+  size: 322, 323
+  orig: 400, 400
+  offset: 39, 39
+  index: -1

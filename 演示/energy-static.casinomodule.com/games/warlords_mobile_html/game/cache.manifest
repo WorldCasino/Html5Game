@@ -1,0 +1,10 @@
+CACHE MANIFEST
+# HTML5 Offline application cache manifest, describes which resources to
+# permanently cache until the manifest file is changed.
+# 20161220-1002
+
+NETWORK:
+*
+CACHE:
+./css/style.css
+./javascript/main.js

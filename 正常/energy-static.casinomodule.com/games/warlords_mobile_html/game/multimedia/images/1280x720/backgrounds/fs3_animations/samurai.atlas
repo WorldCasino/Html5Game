@@ -1,0 +1,41 @@
+
+samurai.png
+size: 966,494
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+samurai-assets/bottom_fog
+  rotate: false
+  xy: 1, 363
+  size: 640, 130
+  orig: 640, 130
+  offset: 0, 0
+  index: -1
+samurai-assets/petal
+  rotate: true
+  xy: 643, 435
+  size: 37, 35
+  orig: 43, 37
+  offset: 1, 2
+  index: -1
+samurai-assets/right_fog
+  rotate: true
+  xy: 643, 326
+  size: 107, 233
+  orig: 107, 233
+  offset: 0, 0
+  index: -1
+samurai-assets/samurai_lights
+  rotate: false
+  xy: 1, 1
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+samurai-assets/win_glow
+  rotate: false
+  xy: 643, 1
+  size: 322, 323
+  orig: 400, 400
+  offset: 39, 39
+  index: -1

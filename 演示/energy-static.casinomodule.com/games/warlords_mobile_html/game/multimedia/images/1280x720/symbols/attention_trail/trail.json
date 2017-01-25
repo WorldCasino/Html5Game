@@ -1,0 +1,366 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "fire_trail_[001-030]",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		}
+	],
+	"slots": [
+		{
+			"name": "fire_trail_[001-030]",
+			"bone": "fire_trail_[001-030]",
+			"attachment": "trail-assets/fire_trail_001",
+			"blend": "additive"
+		}
+	],
+	"skins": {
+		"default": {
+			"fire_trail_[001-030]": {
+				"trail-assets/fire_trail_001": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_002": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_003": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_004": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_005": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_006": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_007": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_008": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_009": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_010": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_011": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_012": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_013": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_014": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_015": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_016": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_017": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_018": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_019": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_020": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_021": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_022": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_023": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_024": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_025": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_026": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_027": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_028": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_029": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				},
+				"trail-assets/fire_trail_030": {
+					"x": 0,
+					"y": 0,
+					"width": 235,
+					"height": 298
+				}
+			}
+		}
+	},
+	"events": {
+		
+	},
+	"animations": {
+		"animation": {
+			"bones": {
+				"fire_trail_[001-030]": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 90,
+							"y": -272
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"fire_trail_[001-030]": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "trail-assets/fire_trail_001"
+						},
+						{
+							"time": 0.03225806451613,
+							"name": "trail-assets/fire_trail_002"
+						},
+						{
+							"time": 0.06451612903226,
+							"name": "trail-assets/fire_trail_003"
+						},
+						{
+							"time": 0.09677419354839,
+							"name": "trail-assets/fire_trail_004"
+						},
+						{
+							"time": 0.12903225806452,
+							"name": "trail-assets/fire_trail_005"
+						},
+						{
+							"time": 0.16129032258065,
+							"name": "trail-assets/fire_trail_006"
+						},
+						{
+							"time": 0.19354838709677,
+							"name": "trail-assets/fire_trail_007"
+						},
+						{
+							"time": 0.2258064516129,
+							"name": "trail-assets/fire_trail_008"
+						},
+						{
+							"time": 0.25806451612903,
+							"name": "trail-assets/fire_trail_009"
+						},
+						{
+							"time": 0.29032258064516,
+							"name": "trail-assets/fire_trail_010"
+						},
+						{
+							"time": 0.32258064516129,
+							"name": "trail-assets/fire_trail_011"
+						},
+						{
+							"time": 0.35483870967742,
+							"name": "trail-assets/fire_trail_012"
+						},
+						{
+							"time": 0.38709677419355,
+							"name": "trail-assets/fire_trail_013"
+						},
+						{
+							"time": 0.41935483870968,
+							"name": "trail-assets/fire_trail_014"
+						},
+						{
+							"time": 0.45161290322581,
+							"name": "trail-assets/fire_trail_015"
+						},
+						{
+							"time": 0.48387096774194,
+							"name": "trail-assets/fire_trail_016"
+						},
+						{
+							"time": 0.51612903225806,
+							"name": "trail-assets/fire_trail_017"
+						},
+						{
+							"time": 0.54838709677419,
+							"name": "trail-assets/fire_trail_018"
+						},
+						{
+							"time": 0.58064516129032,
+							"name": "trail-assets/fire_trail_019"
+						},
+						{
+							"time": 0.61290322580645,
+							"name": "trail-assets/fire_trail_020"
+						},
+						{
+							"time": 0.64516129032258,
+							"name": "trail-assets/fire_trail_021"
+						},
+						{
+							"time": 0.67741935483871,
+							"name": "trail-assets/fire_trail_022"
+						},
+						{
+							"time": 0.70967741935484,
+							"name": "trail-assets/fire_trail_023"
+						},
+						{
+							"time": 0.74193548387097,
+							"name": "trail-assets/fire_trail_024"
+						},
+						{
+							"time": 0.7741935483871,
+							"name": "trail-assets/fire_trail_025"
+						},
+						{
+							"time": 0.80645161290323,
+							"name": "trail-assets/fire_trail_026"
+						},
+						{
+							"time": 0.83870967741935,
+							"name": "trail-assets/fire_trail_027"
+						},
+						{
+							"time": 0.87096774193548,
+							"name": "trail-assets/fire_trail_028"
+						},
+						{
+							"time": 0.90322580645161,
+							"name": "trail-assets/fire_trail_029"
+						},
+						{
+							"time": 0.93548387096774,
+							"name": "trail-assets/fire_trail_030"
+						}
+					]
+				}
+			}
+		}
+	}
+}

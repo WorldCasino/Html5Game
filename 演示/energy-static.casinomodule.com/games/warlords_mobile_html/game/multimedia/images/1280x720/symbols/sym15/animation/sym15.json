@@ -1,0 +1,2550 @@
+{
+	"bones": [
+		{
+			"name": "root"
+		},
+		{
+			"name": "B",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "I",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.001,
+			"scaleY": 0.001
+		},
+		{
+			"name": "F",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "M",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 1.24,
+			"scaleY": 1.62678899082569,
+			"rotation": 8
+		},
+		{
+			"name": "C",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "N",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "G",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "O",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 0.28,
+			"scaleY": 0.28
+		},
+		{
+			"name": "D",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "P",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 1.13639213670821,
+			"scaleY": 0.93142857142857,
+			"rotation": 5
+		},
+		{
+			"name": "H",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "R",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "E",
+			"parent": "root",
+			"x": 0,
+			"y": 0,
+			"scaleX": 2,
+			"scaleY": 2
+		},
+		{
+			"name": "S",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "T",
+			"parent": "root",
+			"x": 0,
+			"y": 0
+		},
+		{
+			"name": "J",
+			"parent": "N",
+			"x": -29,
+			"y": 31,
+			"scaleX": 1.1,
+			"scaleY": 1.1,
+			"rotation": 359.991964660389
+		},
+		{
+			"name": "K",
+			"parent": "N",
+			"x": -29,
+			"y": 31,
+			"scaleX": 1.05263157894737,
+			"scaleY": 1.05263157894737,
+			"rotation": 31
+		},
+		{
+			"name": "Q",
+			"parent": "T",
+			"x": -100,
+			"y": 94,
+			"scaleX": 0.83,
+			"scaleY": 0.83
+		},
+		{
+			"name": "L",
+			"parent": "K",
+			"x": -9.5,
+			"y": 3.2755905511811,
+			"scaleX": 1.03863878561719,
+			"scaleY": 0.75779518879017,
+			"rotation": 41.3353619170792
+		}
+	],
+	"slots": [
+		{
+			"name": "E",
+			"bone": "E",
+			"attachment": "sym15-assets/bg"
+		},
+		{
+			"name": "T",
+			"bone": "T"
+		},
+		{
+			"name": "H",
+			"bone": "H",
+			"attachment": "sym15-assets/bg"
+		},
+		{
+			"name": "S",
+			"bone": "S",
+			"blend": "additive",
+			"color": "84000c00"
+		},
+		{
+			"name": "D",
+			"bone": "D",
+			"attachment": "sym15-assets/SAMURAI_Banner_seq_001"
+		},
+		{
+			"name": "R",
+			"bone": "R",
+			"attachment": "sym15-assets/wipe_seq_001"
+		},
+		{
+			"name": "G",
+			"bone": "G",
+			"attachment": "sym15-assets/SAMURAI_Banner_seq_001"
+		},
+		{
+			"name": "Q",
+			"bone": "Q",
+			"color": "FFFFFFbf"
+		},
+		{
+			"name": "C",
+			"bone": "C",
+			"attachment": "sym15-assets/SAMURAI_Banner_seq_001",
+			"blend": "additive",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "P",
+			"bone": "P",
+			"color": "FFFFFF40"
+		},
+		{
+			"name": "F",
+			"bone": "F",
+			"attachment": "sym15-assets/frame_gameSize"
+		},
+		{
+			"name": "O",
+			"bone": "O",
+			"blend": "additive",
+			"color": "FFFFFF61"
+		},
+		{
+			"name": "B",
+			"bone": "B",
+			"attachment": "sym15-assets/frame_gameSize"
+		},
+		{
+			"name": "N",
+			"bone": "N"
+		},
+		{
+			"name": "M",
+			"bone": "M",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "L",
+			"bone": "L",
+			"attachment": "sym15-assets/red_cloth_low",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "K",
+			"bone": "K",
+			"attachment": "sym15-assets/red_cloth_Up",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "J",
+			"bone": "J",
+			"color": "FFFFFF00"
+		},
+		{
+			"name": "I",
+			"bone": "I",
+			"color": "FFFFFF00"
+		}
+	],
+	"skins": {
+		"default": {
+			"E": {
+				"sym15-assets/bg": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"D": {
+				"sym15-assets/SAMURAI_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"C": {
+				"sym15-assets/SAMURAI_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"B": {
+				"sym15-assets/frame_gameSize": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"H": {
+				"sym15-assets/bg": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"G": {
+				"sym15-assets/SAMURAI_Banner_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_011": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_012": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_013": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_014": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_015": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_016": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_017": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_018": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				},
+				"sym15-assets/SAMURAI_Banner_seq_019": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 179
+				}
+			},
+			"F": {
+				"sym15-assets/frame_gameSize": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"T": {
+				"sym15-assets/sym1": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"S": {
+				"sym15-assets/sym1": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 188
+				}
+			},
+			"R": {
+				"sym15-assets/wipe_seq_001": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_002": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_003": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_004": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_005": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_006": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_007": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_008": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_009": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				},
+				"sym15-assets/wipe_seq_010": {
+					"x": 0,
+					"y": 0,
+					"width": 200,
+					"height": 187
+				}
+			},
+			"Q": {
+				"sym15-assets/crack": {
+					"x": 0,
+					"y": 0,
+					"width": 90,
+					"height": 80
+				}
+			},
+			"P": {
+				"sym15-assets/Shadow": {
+					"x": -5,
+					"y": -35,
+					"width": 119,
+					"height": 105
+				}
+			},
+			"O": {
+				"sym15-assets/dustring": {
+					"x": 0,
+					"y": 0,
+					"width": 192,
+					"height": 180
+				}
+			},
+			"N": {
+				"sym15-assets/sword_end": {
+					"x": 56,
+					"y": -5.5,
+					"width": 170,
+					"height": 73
+				}
+			},
+			"M": {
+				"sym15-assets/sword": {
+					"x": 0,
+					"y": 0,
+					"width": 170,
+					"height": 73
+				}
+			},
+			"L": {
+				"sym15-assets/red_cloth_low": {
+					"x": -0.77192025538383,
+					"y": -21.0096231222324,
+					"width": 19,
+					"height": 61
+				}
+			},
+			"K": {
+				"sym15-assets/red_cloth_Up": {
+					"x": 0,
+					"y": -28.7244094488189,
+					"width": 19,
+					"height": 64
+				}
+			},
+			"J": {
+				"sym15-assets/knot": {
+					"x": 0,
+					"y": 0,
+					"width": 20,
+					"height": 18
+				}
+			},
+			"I": {
+				"sym15-assets/wild_text": {
+					"x": 0,
+					"y": 0,
+					"width": 240,
+					"height": 210
+				}
+			}
+		}
+	},
+	"events": {
+		"fire end": {
+			
+		},
+		"swordhit": {
+			
+		}
+	},
+	"animations": {
+		"sym15_attention": {
+			"bones": {
+				"E": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"D": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"C": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"B": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/SAMURAI_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym15-assets/SAMURAI_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym15-assets/SAMURAI_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym15-assets/SAMURAI_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym15-assets/SAMURAI_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym15-assets/SAMURAI_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym15-assets/SAMURAI_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym15-assets/SAMURAI_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym15-assets/SAMURAI_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym15-assets/SAMURAI_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym15-assets/SAMURAI_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym15-assets/SAMURAI_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym15-assets/SAMURAI_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym15-assets/SAMURAI_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym15-assets/SAMURAI_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym15-assets/SAMURAI_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym15-assets/SAMURAI_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym15-assets/SAMURAI_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym15-assets/SAMURAI_Banner_seq_019"
+						}
+					]
+				},
+				"C": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.067,
+							"color": "FFFFFFbf"
+						},
+						{
+							"time": 0.167,
+							"color": "FFFFFFbf"
+						},
+						{
+							"time": 0.6,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/SAMURAI_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym15-assets/SAMURAI_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym15-assets/SAMURAI_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym15-assets/SAMURAI_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym15-assets/SAMURAI_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym15-assets/SAMURAI_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym15-assets/SAMURAI_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym15-assets/SAMURAI_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym15-assets/SAMURAI_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym15-assets/SAMURAI_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym15-assets/SAMURAI_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym15-assets/SAMURAI_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym15-assets/SAMURAI_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym15-assets/SAMURAI_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym15-assets/SAMURAI_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym15-assets/SAMURAI_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym15-assets/SAMURAI_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym15-assets/SAMURAI_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym15-assets/SAMURAI_Banner_seq_019"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/bg"
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/frame_gameSize"
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"S": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"P": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"O": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"I": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym15_idle": {
+			"bones": {
+				"H": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"G": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"F": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/SAMURAI_Banner_seq_001"
+						},
+						{
+							"time": 0.032,
+							"name": "sym15-assets/SAMURAI_Banner_seq_002"
+						},
+						{
+							"time": 0.063,
+							"name": "sym15-assets/SAMURAI_Banner_seq_003"
+						},
+						{
+							"time": 0.095,
+							"name": "sym15-assets/SAMURAI_Banner_seq_004"
+						},
+						{
+							"time": 0.127,
+							"name": "sym15-assets/SAMURAI_Banner_seq_005"
+						},
+						{
+							"time": 0.158,
+							"name": "sym15-assets/SAMURAI_Banner_seq_006"
+						},
+						{
+							"time": 0.19,
+							"name": "sym15-assets/SAMURAI_Banner_seq_007"
+						},
+						{
+							"time": 0.222,
+							"name": "sym15-assets/SAMURAI_Banner_seq_008"
+						},
+						{
+							"time": 0.253,
+							"name": "sym15-assets/SAMURAI_Banner_seq_009"
+						},
+						{
+							"time": 0.285,
+							"name": "sym15-assets/SAMURAI_Banner_seq_010"
+						},
+						{
+							"time": 0.317,
+							"name": "sym15-assets/SAMURAI_Banner_seq_011"
+						},
+						{
+							"time": 0.348,
+							"name": "sym15-assets/SAMURAI_Banner_seq_012"
+						},
+						{
+							"time": 0.38,
+							"name": "sym15-assets/SAMURAI_Banner_seq_013"
+						},
+						{
+							"time": 0.412,
+							"name": "sym15-assets/SAMURAI_Banner_seq_014"
+						},
+						{
+							"time": 0.443,
+							"name": "sym15-assets/SAMURAI_Banner_seq_015"
+						},
+						{
+							"time": 0.475,
+							"name": "sym15-assets/SAMURAI_Banner_seq_016"
+						},
+						{
+							"time": 0.507,
+							"name": "sym15-assets/SAMURAI_Banner_seq_017"
+						},
+						{
+							"time": 0.538,
+							"name": "sym15-assets/SAMURAI_Banner_seq_018"
+						},
+						{
+							"time": 0.57,
+							"name": "sym15-assets/SAMURAI_Banner_seq_019"
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/bg"
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/frame_gameSize"
+						}
+					]
+				},
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"S": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"P": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"O": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"M": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"K": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"J": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"I": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			}
+		},
+		"sym15_win": {
+			"bones": {
+				"T": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.833,
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 0.9,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"S": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.833,
+							"x": 0.95,
+							"y": 0.95
+						},
+						{
+							"time": 0.9,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"R": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100,
+							"y": -94.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"Q": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 99.5,
+							"y": -108.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"P": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100.5,
+							"y": -97.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.833,
+							"x": 0.93,
+							"y": 0.807
+						},
+						{
+							"time": 0.867,
+							"x": 1.035,
+							"y": 0.925
+						},
+						{
+							"time": 0.9,
+							"x": 1.141,
+							"y": 1.14
+						},
+						{
+							"time": 0.967,
+							"x": 1.141,
+							"y": 0.989
+						},
+						{
+							"time": 1.067,
+							"x": 1.141,
+							"y": 1.004
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.8,
+							"angle": 0
+						},
+						{
+							"time": 0.833,
+							"angle": 13
+						},
+						{
+							"time": 0.9,
+							"angle": -9
+						},
+						{
+							"time": 0.967,
+							"angle": 0
+						},
+						{
+							"time": 1.067,
+							"angle": -1.8
+						}
+					]
+				},
+				"O": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 100.5,
+							"y": -93.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 1.167,
+							"x": 5.571,
+							"y": 5.571
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"N": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 102,
+							"y": -95
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.8,
+							"angle": 0
+						},
+						{
+							"time": 0.834,
+							"angle": 9.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.9,
+							"angle": -3.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.967,
+							"angle": 3.3,
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 1.067,
+							"angle": 0
+						}
+					]
+				},
+				"M": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 548.5,
+							"y": -103
+						},
+						{
+							"time": 0.6,
+							"x": 548.5,
+							"y": -103
+						},
+						{
+							"time": 0.8,
+							"x": 174.5,
+							"y": -100
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.6,
+							"x": 1,
+							"y": 1
+						},
+						{
+							"time": 0.8,
+							"x": 0.831,
+							"y": 0.633
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.6,
+							"angle": 0
+						},
+						{
+							"time": 0.8,
+							"angle": -2
+						}
+					]
+				},
+				"L": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 11.2,
+							"y": -49.3
+						},
+						{
+							"time": 0.8,
+							"x": 11.2,
+							"y": -49.3
+						},
+						{
+							"time": 0.967,
+							"x": 6.7,
+							"y": -51.7
+						},
+						{
+							"time": 1.233,
+							"x": 11.4,
+							"y": -51.9
+						},
+						{
+							"time": 1.567,
+							"x": 9.4,
+							"y": -51.9
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.333,
+							"angle": 0,
+							"curve": [
+								0.2,
+								0,
+								0.6,
+								1.1
+							]
+						},
+						{
+							"time": 0.667,
+							"angle": -36.8,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								0.8
+							]
+						},
+						{
+							"time": 0.8,
+							"angle": 28.4,
+							"curve": [
+								0.3,
+								0.1,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.967,
+							"angle": -81.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.233,
+							"angle": -11.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.567,
+							"angle": -56.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.867,
+							"angle": -36.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.172,
+							"angle": -44.3,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1.4
+							]
+						},
+						{
+							"time": 2.467,
+							"angle": -41.3
+						}
+					]
+				},
+				"K": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 567.8,
+							"y": -22.9
+						},
+						{
+							"time": 0.533,
+							"x": 567.8,
+							"y": -22.9
+						},
+						{
+							"time": 0.667,
+							"x": 429.6,
+							"y": -25.8
+						},
+						{
+							"time": 0.733,
+							"x": 300.5,
+							"y": -25.4
+						},
+						{
+							"time": 0.767,
+							"x": 234.4,
+							"y": -26.7
+						},
+						{
+							"time": 0.8,
+							"x": 151.4,
+							"y": -28.7
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						},
+						{
+							"time": 0.333,
+							"angle": 0,
+							"curve": [
+								0.2,
+								0,
+								0.6,
+								1.1
+							]
+						},
+						{
+							"time": 0.667,
+							"angle": 38.2,
+							"curve": [
+								0.3,
+								-0.2,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.733,
+							"angle": 35,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 0.867,
+							"angle": -65.1,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.133,
+							"angle": 0,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.467,
+							"angle": -51.4,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 1.733,
+							"angle": -27.2,
+							"curve": [
+								0.3,
+								0,
+								0.7,
+								1
+							]
+						},
+						{
+							"time": 2.067,
+							"angle": -35.7,
+							"curve": [
+								0.3,
+								0,
+								0.8,
+								1
+							]
+						},
+						{
+							"time": 2.4,
+							"angle": -29.1
+						}
+					]
+				},
+				"J": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 430.8,
+							"y": -27.4
+						},
+						{
+							"time": 0.667,
+							"x": 430.8,
+							"y": -27.4
+						},
+						{
+							"time": 0.7,
+							"x": 365.3,
+							"y": -27.4
+						},
+						{
+							"time": 0.733,
+							"x": 303.8,
+							"y": -27.4
+						},
+						{
+							"time": 0.767,
+							"x": 240.3,
+							"y": -27.4
+						},
+						{
+							"time": 0.8,
+							"x": 154.3,
+							"y": -33.9
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 1,
+							"y": 1
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				},
+				"I": {
+					"translate": [
+						{
+							"time": 0,
+							"x": 101,
+							"y": -90.5
+						}
+					],
+					"scale": [
+						{
+							"time": 0,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.333,
+							"x": 0,
+							"y": 0
+						},
+						{
+							"time": 1.5,
+							"x": 900,
+							"y": 900
+						},
+						{
+							"time": 1.6,
+							"x": 800,
+							"y": 800
+						}
+					],
+					"rotate": [
+						{
+							"time": 0,
+							"angle": 0
+						}
+					]
+				}
+			},
+			"slots": {
+				"T": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym15-assets/sym1"
+						}
+					]
+				},
+				"S": {
+					"color": [
+						{
+							"time": 0,
+							"color": "84000c00"
+						},
+						{
+							"time": 0.8,
+							"color": "84000c00",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.833,
+							"color": "84000cff"
+						},
+						{
+							"time": 0.933,
+							"color": "84000c00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.333,
+							"name": "sym15-assets/sym1"
+						}
+					]
+				},
+				"R": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/wipe_seq_001"
+						},
+						{
+							"time": 0.03,
+							"name": "sym15-assets/wipe_seq_002"
+						},
+						{
+							"time": 0.061,
+							"name": "sym15-assets/wipe_seq_003"
+						},
+						{
+							"time": 0.091,
+							"name": "sym15-assets/wipe_seq_004"
+						},
+						{
+							"time": 0.121,
+							"name": "sym15-assets/wipe_seq_005"
+						},
+						{
+							"time": 0.152,
+							"name": "sym15-assets/wipe_seq_006"
+						},
+						{
+							"time": 0.182,
+							"name": "sym15-assets/wipe_seq_007"
+						},
+						{
+							"time": 0.212,
+							"name": "sym15-assets/wipe_seq_008"
+						},
+						{
+							"time": 0.242,
+							"name": "sym15-assets/wipe_seq_009"
+						},
+						{
+							"time": 0.273,
+							"name": "sym15-assets/wipe_seq_010"
+						},
+						{
+							"time": 0.333,
+							"name": null
+						}
+					]
+				},
+				"Q": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8,
+							"name": "sym15-assets/crack"
+						}
+					]
+				},
+				"P": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF40"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFF40"
+						},
+						{
+							"time": 1.067,
+							"color": "FFFFFFbf"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8,
+							"name": "sym15-assets/Shadow"
+						}
+					]
+				},
+				"O": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF61"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFF61",
+							"curve": "stepped"
+						},
+						{
+							"time": 0.833,
+							"color": "FFFFFF4d"
+						},
+						{
+							"time": 1.167,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.8,
+							"name": "sym15-assets/dustring"
+						},
+						{
+							"time": 1.7,
+							"name": null
+						}
+					]
+				},
+				"N": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.8,
+							"name": "sym15-assets/sword_end"
+						}
+					]
+				},
+				"M": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0.567,
+							"name": "sym15-assets/sword"
+						},
+						{
+							"time": 0.8,
+							"name": null
+						}
+					]
+				},
+				"L": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.87,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/red_cloth_low"
+						}
+					]
+				},
+				"K": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.87,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": "sym15-assets/red_cloth_Up"
+						}
+					]
+				},
+				"J": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.633,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 0.8,
+							"color": "FFFFFF8f"
+						},
+						{
+							"time": 0.867,
+							"color": "FFFFFFff"
+						}
+					],
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						},
+						{
+							"time": 0.633,
+							"name": "sym15-assets/knot"
+						}
+					]
+				},
+				"I": {
+					"color": [
+						{
+							"time": 0,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.333,
+							"color": "FFFFFF00"
+						},
+						{
+							"time": 1.5,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 1.6,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.133,
+							"color": "FFFFFFff"
+						},
+						{
+							"time": 2.3,
+							"color": "FFFFFF00"
+						}
+					],
+					"attachment": [
+						{
+							"time": 1.333,
+							"name": "sym15-assets/wild_text"
+						},
+						{
+							"time": 2.333,
+							"name": null
+						}
+					]
+				},
+				"E": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"D": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"C": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"B": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"H": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"G": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				},
+				"F": {
+					"attachment": [
+						{
+							"time": 0,
+							"name": null
+						}
+					]
+				}
+			},
+			"events": [
+				{
+					"time": 0.33333333333333,
+					"name": "fire end"
+				},
+				{
+					"time": 0.8,
+					"name": "swordhit"
+				}
+			]
+		}
+	}
+}
